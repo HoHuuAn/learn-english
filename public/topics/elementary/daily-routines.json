@@ -1,0 +1,177 @@
+{
+    "id": "daily-routines",
+    "name": "Hoạt động hằng ngày",
+    "level": "elementary",
+    "icon": "⏰",
+    "description": "Từ vựng về các hoạt động thường ngày và thói quen sinh hoạt",
+    "words": [
+        {
+            "word": "Wake up",
+            "meaning": "Thức dậy",
+            "pos": "verb",
+            "example": "I wake up at 6 o'clock.",
+            "pronunciation": "/weɪk ʌp/"
+        },
+        {
+            "word": "Get up",
+            "meaning": "Ngồi dậy",
+            "pos": "verb",
+            "example": "She gets up quickly every morning.",
+            "pronunciation": "/ɡet ʌp/"
+        },
+        {
+            "word": "Brush teeth",
+            "meaning": "Đánh răng",
+            "pos": "verb",
+            "example": "Brush your teeth after breakfast.",
+            "pronunciation": "/brʌʃ tiːθ/"
+        },
+        {
+            "word": "Wash face",
+            "meaning": "Rửa mặt",
+            "pos": "verb",
+            "example": "He washes his face with cold water.",
+            "pronunciation": "/wɑːʃ feɪs/"
+        },
+        {
+            "word": "Take a shower",
+            "meaning": "Tắm vòi sen",
+            "pos": "verb",
+            "example": "I take a shower every morning.",
+            "pronunciation": "/teɪk ə ˈʃaʊər/"
+        },
+        {
+            "word": "Have breakfast",
+            "meaning": "Ăn sáng",
+            "pos": "verb",
+            "example": "We have breakfast at 7 AM.",
+            "pronunciation": "/hæv ˈbrekfəst/"
+        },
+        {
+            "word": "Go to school",
+            "meaning": "Đi học",
+            "pos": "verb",
+            "example": "Children go to school by bus.",
+            "pronunciation": "/ɡoʊ tuː skuːl/"
+        },
+        {
+            "word": "Go to work",
+            "meaning": "Đi làm",
+            "pos": "verb",
+            "example": "My father goes to work at 8.",
+            "pronunciation": "/ɡoʊ tuː wɜːrk/"
+        },
+        {
+            "word": "Study",
+            "meaning": "Học bài",
+            "pos": "verb",
+            "example": "I study English every day.",
+            "pronunciation": "/ˈstʌdi/"
+        },
+        {
+            "word": "Do homework",
+            "meaning": "Làm bài tập về nhà",
+            "pos": "verb",
+            "example": "He does his homework after dinner.",
+            "pronunciation": "/duː ˈhoʊmwɜːrk/"
+        },
+        {
+            "word": "Have lunch",
+            "meaning": "Ăn trưa",
+            "pos": "verb",
+            "example": "We have lunch at noon.",
+            "pronunciation": "/hæv lʌntʃ/"
+        },
+        {
+            "word": "Take a nap",
+            "meaning": "Ngủ trưa",
+            "pos": "verb",
+            "example": "I take a nap after lunch.",
+            "pronunciation": "/teɪk ə næp/"
+        },
+        {
+            "word": "Play",
+            "meaning": "Chơi",
+            "pos": "verb",
+            "example": "Children play in the yard.",
+            "pronunciation": "/pleɪ/"
+        },
+        {
+            "word": "Watch TV",
+            "meaning": "Xem tivi",
+            "pos": "verb",
+            "example": "I watch TV in the evening.",
+            "pronunciation": "/wɑːtʃ ˌtiːˈviː/"
+        },
+        {
+            "word": "Listen to music",
+            "meaning": "Nghe nhạc",
+            "pos": "verb",
+            "example": "She listens to music every night.",
+            "pronunciation": "/ˈlɪsən tuː ˈmjuːzɪk/"
+        },
+        {
+            "word": "Have dinner",
+            "meaning": "Ăn tối",
+            "pos": "verb",
+            "example": "We have dinner at 7 PM.",
+            "pronunciation": "/hæv ˈdɪnər/"
+        },
+        {
+            "word": "Read",
+            "meaning": "Đọc sách",
+            "pos": "verb",
+            "example": "I read before going to bed.",
+            "pronunciation": "/riːd/"
+        },
+        {
+            "word": "Go to bed",
+            "meaning": "Đi ngủ",
+            "pos": "verb",
+            "example": "I go to bed at 10 o'clock.",
+            "pronunciation": "/ɡoʊ tuː bed/"
+        },
+        {
+            "word": "Sleep",
+            "meaning": "Ngủ",
+            "pos": "verb",
+            "example": "Babies sleep a lot.",
+            "pronunciation": "/sliːp/"
+        },
+        {
+            "word": "Clean",
+            "meaning": "Dọn dẹp",
+            "pos": "verb",
+            "example": "We clean the house on weekends.",
+            "pronunciation": "/kliːn/"
+        },
+        {
+            "word": "Cook",
+            "meaning": "Nấu ăn",
+            "pos": "verb",
+            "example": "Mom cooks dinner every day.",
+            "pronunciation": "/kʊk/"
+        },
+        {
+            "word": "Wash dishes",
+            "meaning": "Rửa chén",
+            "pos": "verb",
+            "example": "I wash dishes after meals.",
+            "pronunciation": "/wɑːʃ ˈdɪʃɪz/"
+        },
+        {
+            "word": "Water plants",
+            "meaning": "Tưới cây",
+            "pos": "verb",
+            "example": "She waters the plants in the morning.",
+            "pronunciation": "/ˈwɔːtər plænts/"
+        },
+        {
+            "word": "Feed pets",
+            "meaning": "Cho thú cưng ăn",
+            "pos": "verb",
+            "example": "He feeds the dog every day.",
+            "pronunciation": "/fiːd pets/"
+        }
+    ]
+}

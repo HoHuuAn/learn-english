@@ -1,0 +1,142 @@
+{
+    "id": "rooms",
+    "name": "Phòng trong nhà",
+    "level": "elementary",
+    "icon": "🚪",
+    "description": "Từ vựng về các loại phòng và khu vực trong nhà",
+    "words": [
+        {
+            "word": "Room",
+            "meaning": "Phòng",
+            "pos": "noun",
+            "example": "My room is very tidy.",
+            "pronunciation": "/ruːm/"
+        },
+        {
+            "word": "Living room",
+            "meaning": "Phòng khách",
+            "pos": "noun",
+            "example": "We watch TV in the living room.",
+            "pronunciation": "/ˈlɪvɪŋ ruːm/"
+        },
+        {
+            "word": "Bedroom",
+            "meaning": "Phòng ngủ",
+            "pos": "noun",
+            "example": "My bedroom is upstairs.",
+            "pronunciation": "/ˈbedruːm/"
+        },
+        {
+            "word": "Bathroom",
+            "meaning": "Phòng tắm",
+            "pos": "noun",
+            "example": "The bathroom is next to the kitchen.",
+            "pronunciation": "/ˈbæθruːm/"
+        },
+        {
+            "word": "Kitchen",
+            "meaning": "Nhà bếp",
+            "pos": "noun",
+            "example": "Mom cooks in the kitchen.",
+            "pronunciation": "/ˈkɪtʃɪn/"
+        },
+        {
+            "word": "Dining room",
+            "meaning": "Phòng ăn",
+            "pos": "noun",
+            "example": "We eat in the dining room.",
+            "pronunciation": "/ˈdaɪnɪŋ ruːm/"
+        },
+        {
+            "word": "Garage",
+            "meaning": "Nhà để xe",
+            "pos": "noun",
+            "example": "The car is in the garage.",
+            "pronunciation": "/ɡəˈrɑːʒ/"
+        },
+        {
+            "word": "Balcony",
+            "meaning": "Ban công",
+            "pos": "noun",
+            "example": "There are flowers on the balcony.",
+            "pronunciation": "/ˈbælkəni/"
+        },
+        {
+            "word": "Hallway",
+            "meaning": "Hành lang",
+            "pos": "noun",
+            "example": "The hallway is long and narrow.",
+            "pronunciation": "/ˈhɔːlweɪ/"
+        },
+        {
+            "word": "Stairs",
+            "meaning": "Cầu thang",
+            "pos": "noun",
+            "example": "Go up the stairs to the second floor.",
+            "pronunciation": "/sterz/"
+        },
+        {
+            "word": "Attic",
+            "meaning": "Gác mái",
+            "pos": "noun",
+            "example": "Old things are kept in the attic.",
+            "pronunciation": "/ˈætɪk/"
+        },
+        {
+            "word": "Basement",
+            "meaning": "Tầng hầm",
+            "pos": "noun",
+            "example": "The basement is cool in summer.",
+            "pronunciation": "/ˈbeɪsmənt/"
+        },
+        {
+            "word": "Yard",
+            "meaning": "Sân",
+            "pos": "noun",
+            "example": "Children play in the yard.",
+            "pronunciation": "/jɑːrd/"
+        },
+        {
+            "word": "Garden",
+            "meaning": "Vườn",
+            "pos": "noun",
+            "example": "We grow vegetables in the garden.",
+            "pronunciation": "/ˈɡɑːrdən/"
+        },
+        {
+            "word": "Porch",
+            "meaning": "Hiên nhà",
+            "pos": "noun",
+            "example": "We sit on the porch in the evening.",
+            "pronunciation": "/pɔːrtʃ/"
+        },
+        {
+            "word": "Roof",
+            "meaning": "Mái nhà",
+            "pos": "noun",
+            "example": "The roof is red.",
+            "pronunciation": "/ruːf/"
+        },
+        {
+            "word": "Wall",
+            "meaning": "Tường",
+            "pos": "noun",
+            "example": "The wall is painted blue.",
+            "pronunciation": "/wɔːl/"
+        },
+        {
+            "word": "Door",
+            "meaning": "Cửa ra vào",
+            "pos": "noun",
+            "example": "Open the door, please.",
+            "pronunciation": "/dɔːr/"
+        },
+        {
+            "word": "Window",
+            "meaning": "Cửa sổ",
+            "pos": "noun",
+            "example": "Close the window at night.",
+            "pronunciation": "/ˈwɪndoʊ/"
+        }
+    ]
+}

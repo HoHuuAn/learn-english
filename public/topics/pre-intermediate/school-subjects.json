@@ -1,0 +1,149 @@
+{
+    "id": "school-subjects",
+    "name": "Trường học & môn học",
+    "level": "pre-intermediate",
+    "icon": "🏫",
+    "description": "Từ vựng về trường học, các môn học, lớp học, hoạt động học tập",
+    "words": [
+        {
+            "word": "School",
+            "meaning": "Trường học",
+            "pos": "noun",
+            "example": "My school is near my house.",
+            "pronunciation": "/skuːl/"
+        },
+        {
+            "word": "Subject",
+            "meaning": "Môn học",
+            "pos": "noun",
+            "example": "Math is my favorite subject.",
+            "pronunciation": "/ˈsʌbdʒɪkt/"
+        },
+        {
+            "word": "Classroom",
+            "meaning": "Lớp học",
+            "pos": "noun",
+            "example": "The classroom is big.",
+            "pronunciation": "/ˈklæsruːm/"
+        },
+        {
+            "word": "Teacher",
+            "meaning": "Giáo viên",
+            "pos": "noun",
+            "example": "The teacher is kind.",
+            "pronunciation": "/ˈtiːtʃər/"
+        },
+        {
+            "word": "Student",
+            "meaning": "Học sinh",
+            "pos": "noun",
+            "example": "There are 30 students in my class.",
+            "pronunciation": "/ˈstuːdənt/"
+        },
+        {
+            "word": "Homework",
+            "meaning": "Bài tập về nhà",
+            "pos": "noun",
+            "example": "I do my homework every day.",
+            "pronunciation": "/ˈhoʊmwɜːrk/"
+        },
+        {
+            "word": "Exam",
+            "meaning": "Kỳ thi",
+            "pos": "noun",
+            "example": "The exam is next week.",
+            "pronunciation": "/ɪɡˈzæm/"
+        },
+        {
+            "word": "Test",
+            "meaning": "Bài kiểm tra",
+            "pos": "noun",
+            "example": "We have a test tomorrow.",
+            "pronunciation": "/test/"
+        },
+        {
+            "word": "Math",
+            "meaning": "Toán học",
+            "pos": "noun",
+            "example": "Math is difficult for some students.",
+            "pronunciation": "/mæθ/"
+        },
+        {
+            "word": "Science",
+            "meaning": "Khoa học",
+            "pos": "noun",
+            "example": "Science is interesting.",
+            "pronunciation": "/ˈsaɪəns/"
+        },
+        {
+            "word": "History",
+            "meaning": "Lịch sử",
+            "pos": "noun",
+            "example": "We learn about history.",
+            "pronunciation": "/ˈhɪstəri/"
+        },
+        {
+            "word": "Geography",
+            "meaning": "Địa lý",
+            "pos": "noun",
+            "example": "Geography is about the world.",
+            "pronunciation": "/dʒiˈɑːɡrəfi/"
+        },
+        {
+            "word": "Literature",
+            "meaning": "Văn học",
+            "pos": "noun",
+            "example": "Literature helps us understand stories.",
+            "pronunciation": "/ˈlɪtərətʃər/"
+        },
+        {
+            "word": "Art",
+            "meaning": "Mỹ thuật",
+            "pos": "noun",
+            "example": "Art class is fun.",
+            "pronunciation": "/ɑːrt/"
+        },
+        {
+            "word": "Music",
+            "meaning": "Âm nhạc",
+            "pos": "noun",
+            "example": "We sing in music class.",
+            "pronunciation": "/ˈmjuːzɪk/"
+        },
+        {
+            "word": "Physical Education",
+            "meaning": "Thể dục",
+            "pos": "noun",
+            "example": "Physical Education is important.",
+            "pronunciation": "/ˌfɪzɪkl ˌedʒuˈkeɪʃən/"
+        },
+        {
+            "word": "Biology",
+            "meaning": "Sinh học",
+            "pos": "noun",
+            "example": "Biology is about living things.",
+            "pronunciation": "/baɪˈɑːlədʒi/"
+        },
+        {
+            "word": "Chemistry",
+            "meaning": "Hóa học",
+            "pos": "noun",
+            "example": "Chemistry is about substances.",
+            "pronunciation": "/ˈkemɪstri/"
+        },
+        {
+            "word": "Physics",
+            "meaning": "Vật lý",
+            "pos": "noun",
+            "example": "Physics explains how things work.",
+            "pronunciation": "/ˈfɪzɪks/"
+        },
+        {
+            "word": "Break time",
+            "meaning": "Giờ giải lao",
+            "pos": "noun",
+            "example": "We play during break time.",
+            "pronunciation": "/breɪk taɪm/"
+        }
+    ]
+}

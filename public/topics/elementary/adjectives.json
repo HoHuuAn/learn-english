@@ -1,0 +1,149 @@
+{
+    "id": "adjectives",
+    "name": "Tính từ mô tả",
+    "level": "elementary",
+    "icon": "📏",
+    "description": "Các tính từ mô tả hình dáng, kích thước, tính chất, màu sắc, cảm xúc",
+    "words": [
+        {
+            "word": "Big",
+            "meaning": "To lớn",
+            "pos": "adjective",
+            "example": "The elephant is big.",
+            "pronunciation": "/bɪɡ/"
+        },
+        {
+            "word": "Small",
+            "meaning": "Nhỏ",
+            "pos": "adjective",
+            "example": "The mouse is small.",
+            "pronunciation": "/smɔːl/"
+        },
+        {
+            "word": "Tall",
+            "meaning": "Cao",
+            "pos": "adjective",
+            "example": "He is very tall.",
+            "pronunciation": "/tɔːl/"
+        },
+        {
+            "word": "Short",
+            "meaning": "Thấp, ngắn",
+            "pos": "adjective",
+            "example": "My hair is short.",
+            "pronunciation": "/ʃɔːrt/"
+        },
+        {
+            "word": "Long",
+            "meaning": "Dài",
+            "pos": "adjective",
+            "example": "She has long hair.",
+            "pronunciation": "/lɔːŋ/"
+        },
+        {
+            "word": "Wide",
+            "meaning": "Rộng",
+            "pos": "adjective",
+            "example": "The river is wide.",
+            "pronunciation": "/waɪd/"
+        },
+        {
+            "word": "Narrow",
+            "meaning": "Hẹp",
+            "pos": "adjective",
+            "example": "The street is narrow.",
+            "pronunciation": "/ˈnæroʊ/"
+        },
+        {
+            "word": "Heavy",
+            "meaning": "Nặng",
+            "pos": "adjective",
+            "example": "The box is heavy.",
+            "pronunciation": "/ˈhevi/"
+        },
+        {
+            "word": "Light",
+            "meaning": "Nhẹ",
+            "pos": "adjective",
+            "example": "The feather is light.",
+            "pronunciation": "/laɪt/"
+        },
+        {
+            "word": "Fast",
+            "meaning": "Nhanh",
+            "pos": "adjective",
+            "example": "The car is fast.",
+            "pronunciation": "/fæst/"
+        },
+        {
+            "word": "Slow",
+            "meaning": "Chậm",
+            "pos": "adjective",
+            "example": "The turtle is slow.",
+            "pronunciation": "/sloʊ/"
+        },
+        {
+            "word": "Old",
+            "meaning": "Cũ, già",
+            "pos": "adjective",
+            "example": "My grandfather is old.",
+            "pronunciation": "/oʊld/"
+        },
+        {
+            "word": "Young",
+            "meaning": "Trẻ",
+            "pos": "adjective",
+            "example": "The baby is young.",
+            "pronunciation": "/jʌŋ/"
+        },
+        {
+            "word": "New",
+            "meaning": "Mới",
+            "pos": "adjective",
+            "example": "This is a new book.",
+            "pronunciation": "/nuː/"
+        },
+        {
+            "word": "Clean",
+            "meaning": "Sạch",
+            "pos": "adjective",
+            "example": "The room is clean.",
+            "pronunciation": "/kliːn/"
+        },
+        {
+            "word": "Dirty",
+            "meaning": "Bẩn",
+            "pos": "adjective",
+            "example": "The shoes are dirty.",
+            "pronunciation": "/ˈdɜːrti/"
+        },
+        {
+            "word": "Beautiful",
+            "meaning": "Đẹp",
+            "pos": "adjective",
+            "example": "The flower is beautiful.",
+            "pronunciation": "/ˈbjuːtəfəl/"
+        },
+        {
+            "word": "Ugly",
+            "meaning": "Xấu xí",
+            "pos": "adjective",
+            "example": "The monster is ugly.",
+            "pronunciation": "/ˈʌɡli/"
+        },
+        {
+            "word": "Rich",
+            "meaning": "Giàu",
+            "pos": "adjective",
+            "example": "He is a rich man.",
+            "pronunciation": "/rɪtʃ/"
+        },
+        {
+            "word": "Poor",
+            "meaning": "Nghèo",
+            "pos": "adjective",
+            "example": "They are poor but happy.",
+            "pronunciation": "/pʊr/"
+        }
+    ]
+}

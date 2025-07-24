@@ -1,0 +1,331 @@
+{
+    "id": "animals",
+    "name": "Động vật",
+    "level": "beginner",
+    "icon": "🐶",
+    "description": "Các loài động vật quen thuộc, thú cưng và động vật hoang dã",
+    "words": [
+        {
+            "word": "Animal",
+            "meaning": "Động vật",
+            "pos": "noun",
+            "example": "I love animals very much.",
+            "pronunciation": "/ˈænɪməl/"
+        },
+        {
+            "word": "Dog",
+            "meaning": "Chó",
+            "pos": "noun",
+            "example": "My dog is very friendly.",
+            "pronunciation": "/dɔːɡ/"
+        },
+        {
+            "word": "Cat",
+            "meaning": "Mèo",
+            "pos": "noun",
+            "example": "The cat is sleeping on the sofa.",
+            "pronunciation": "/kæt/"
+        },
+        {
+            "word": "Bird",
+            "meaning": "Chim",
+            "pos": "noun",
+            "example": "Birds can fly in the sky.",
+            "pronunciation": "/bɜːrd/"
+        },
+        {
+            "word": "Fish",
+            "meaning": "Cá",
+            "pos": "noun",
+            "example": "Fish live in the water.",
+            "pronunciation": "/fɪʃ/"
+        },
+        {
+            "word": "Horse",
+            "meaning": "Ngựa",
+            "pos": "noun",
+            "example": "The horse runs very fast.",
+            "pronunciation": "/hɔːrs/"
+        },
+        {
+            "word": "Cow",
+            "meaning": "Bò",
+            "pos": "noun",
+            "example": "Cows give us milk.",
+            "pronunciation": "/kaʊ/"
+        },
+        {
+            "word": "Pig",
+            "meaning": "Heo",
+            "pos": "noun",
+            "example": "Pigs are very smart animals.",
+            "pronunciation": "/pɪɡ/"
+        },
+        {
+            "word": "Chicken",
+            "meaning": "Gà",
+            "pos": "noun",
+            "example": "Chickens lay eggs.",
+            "pronunciation": "/ˈtʃɪkɪn/"
+        },
+        {
+            "word": "Duck",
+            "meaning": "Vịt",
+            "pos": "noun",
+            "example": "Ducks swim in the pond.",
+            "pronunciation": "/dʌk/"
+        },
+        {
+            "word": "Sheep",
+            "meaning": "Cừu",
+            "pos": "noun",
+            "example": "Sheep give us wool.",
+            "pronunciation": "/ʃiːp/"
+        },
+        {
+            "word": "Goat",
+            "meaning": "Dê",
+            "pos": "noun",
+            "example": "Goats can climb mountains.",
+            "pronunciation": "/ɡoʊt/"
+        },
+        {
+            "word": "Rabbit",
+            "meaning": "Thỏ",
+            "pos": "noun",
+            "example": "Rabbits eat carrots.",
+            "pronunciation": "/ˈræbɪt/"
+        },
+        {
+            "word": "Mouse",
+            "meaning": "Chuột",
+            "pos": "noun",
+            "example": "The mouse is very small.",
+            "pronunciation": "/maʊs/"
+        },
+        {
+            "word": "Elephant",
+            "meaning": "Voi",
+            "pos": "noun",
+            "example": "Elephants are very big.",
+            "pronunciation": "/ˈeləfənt/"
+        },
+        {
+            "word": "Lion",
+            "meaning": "Sư tử",
+            "pos": "noun",
+            "example": "The lion is the king of animals.",
+            "pronunciation": "/ˈlaɪən/"
+        },
+        {
+            "word": "Tiger",
+            "meaning": "Hổ",
+            "pos": "noun",
+            "example": "Tigers have black stripes.",
+            "pronunciation": "/ˈtaɪɡər/"
+        },
+        {
+            "word": "Bear",
+            "meaning": "Gấu",
+            "pos": "noun",
+            "example": "Bears sleep in winter.",
+            "pronunciation": "/ber/"
+        },
+        {
+            "word": "Monkey",
+            "meaning": "Khỉ",
+            "pos": "noun",
+            "example": "Monkeys like to eat bananas.",
+            "pronunciation": "/ˈmʌŋki/"
+        },
+        {
+            "word": "Snake",
+            "meaning": "Rắn",
+            "pos": "noun",
+            "example": "Some snakes are dangerous.",
+            "pronunciation": "/sneɪk/"
+        },
+        {
+            "word": "Turtle",
+            "meaning": "Rùa",
+            "pos": "noun",
+            "example": "Turtles move very slowly.",
+            "pronunciation": "/ˈtɜːrtəl/"
+        },
+        {
+            "word": "Frog",
+            "meaning": "Ếch",
+            "pos": "noun",
+            "example": "Frogs can jump very high.",
+            "pronunciation": "/frɔːɡ/"
+        },
+        {
+            "word": "Butterfly",
+            "meaning": "Bướm",
+            "pos": "noun",
+            "example": "Butterflies are very colorful.",
+            "pronunciation": "/ˈbʌtərflaɪ/"
+        },
+        {
+            "word": "Bee",
+            "meaning": "Ong",
+            "pos": "noun",
+            "example": "Bees make honey.",
+            "pronunciation": "/biː/"
+        },
+        {
+            "word": "Spider",
+            "meaning": "Nhện",
+            "pos": "noun",
+            "example": "Spiders make webs.",
+            "pronunciation": "/ˈspaɪdər/"
+        },
+        {
+            "word": "Ant",
+            "meaning": "Kiến",
+            "pos": "noun",
+            "example": "Ants work very hard.",
+            "pronunciation": "/ænt/"
+        },
+        {
+            "word": "Wolf",
+            "meaning": "Sói",
+            "pos": "noun",
+            "example": "Wolves live in the forest.",
+            "pronunciation": "/wʊlf/"
+        },
+        {
+            "word": "Fox",
+            "meaning": "Cáo",
+            "pos": "noun",
+            "example": "Foxes are very clever.",
+            "pronunciation": "/fɑːks/"
+        },
+        {
+            "word": "Deer",
+            "meaning": "Hươu",
+            "pos": "noun",
+            "example": "Deer can run very fast.",
+            "pronunciation": "/dɪr/"
+        },
+        {
+            "word": "Giraffe",
+            "meaning": "Hươu cao cổ",
+            "pos": "noun",
+            "example": "Giraffes have very long necks.",
+            "pronunciation": "/dʒəˈræf/"
+        },
+        {
+            "word": "Zebra",
+            "meaning": "Ngựa vằn",
+            "pos": "noun",
+            "example": "Zebras have black and white stripes.",
+            "pronunciation": "/ˈziːbrə/"
+        },
+        {
+            "word": "Kangaroo",
+            "meaning": "Chuột túi",
+            "pos": "noun",
+            "example": "Kangaroos can jump very far.",
+            "pronunciation": "/ˌkæŋɡəˈruː/"
+        },
+        {
+            "word": "Panda",
+            "meaning": "Gấu trúc",
+            "pos": "noun",
+            "example": "Pandas eat bamboo.",
+            "pronunciation": "/ˈpændə/"
+        },
+        {
+            "word": "Penguin",
+            "meaning": "Chim cánh cụt",
+            "pos": "noun",
+            "example": "Penguins live in cold places.",
+            "pronunciation": "/ˈpeŋɡwɪn/"
+        },
+        {
+            "word": "Dolphin",
+            "meaning": "Cá heo",
+            "pos": "noun",
+            "example": "Dolphins are very intelligent.",
+            "pronunciation": "/ˈdɑːlfɪn/"
+        },
+        {
+            "word": "Whale",
+            "meaning": "Cá voi",
+            "pos": "noun",
+            "example": "Whales are the largest animals.",
+            "pronunciation": "/weɪl/"
+        },
+        {
+            "word": "Shark",
+            "meaning": "Cá mập",
+            "pos": "noun",
+            "example": "Sharks live in the ocean.",
+            "pronunciation": "/ʃɑːrk/"
+        },
+        {
+            "word": "Pet",
+            "meaning": "Thú cưng",
+            "pos": "noun",
+            "example": "My pet is a golden retriever.",
+            "pronunciation": "/pet/"
+        },
+        {
+            "word": "Wild",
+            "meaning": "Hoang dã",
+            "pos": "adjective",
+            "example": "Wild animals live in nature.",
+            "pronunciation": "/waɪld/"
+        },
+        {
+            "word": "Zoo",
+            "meaning": "Sở thú",
+            "pos": "noun",
+            "example": "We visited the zoo yesterday.",
+            "pronunciation": "/zuː/"
+        },
+        {
+            "word": "Farm",
+            "meaning": "Trang trại",
+            "pos": "noun",
+            "example": "Many animals live on the farm.",
+            "pronunciation": "/fɑːrm/"
+        },
+        {
+            "word": "Tail",
+            "meaning": "Đuôi",
+            "pos": "noun",
+            "example": "The dog wags its tail.",
+            "pronunciation": "/teɪl/"
+        },
+        {
+            "word": "Wing",
+            "meaning": "Cánh",
+            "pos": "noun",
+            "example": "Birds use wings to fly.",
+            "pronunciation": "/wɪŋ/"
+        },
+        {
+            "word": "Paw",
+            "meaning": "Chân (của động vật)",
+            "pos": "noun",
+            "example": "The cat's paws are soft.",
+            "pronunciation": "/pɔː/"
+        },
+        {
+            "word": "Feather",
+            "meaning": "Lông vũ",
+            "pos": "noun",
+            "example": "Peacock feathers are beautiful.",
+            "pronunciation": "/ˈfeðər/"
+        },
+        {
+            "word": "Fur",
+            "meaning": "Lông thú",
+            "pos": "noun",
+            "example": "Rabbits have soft fur.",
+            "pronunciation": "/fɜːr/"
+        }
+    ]
+}

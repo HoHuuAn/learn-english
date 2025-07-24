@@ -1,0 +1,366 @@
+{
+    "id": "food",
+    "name": "Đồ ăn và thức uống",
+    "level": "elementary",
+    "icon": "🍕",
+    "description": "Từ vựng về các loại thực phẩm, đồ uống và bữa ăn",
+    "words": [
+        {
+            "word": "Food",
+            "meaning": "Thức ăn",
+            "pos": "noun",
+            "example": "I love Italian food.",
+            "pronunciation": "/fuːd/"
+        },
+        {
+            "word": "Drink",
+            "meaning": "Đồ uống",
+            "pos": "noun",
+            "example": "Water is the best drink.",
+            "pronunciation": "/drɪŋk/"
+        },
+        {
+            "word": "Water",
+            "meaning": "Nước",
+            "pos": "noun",
+            "example": "Please give me a glass of water.",
+            "pronunciation": "/ˈwɔːtər/"
+        },
+        {
+            "word": "Milk",
+            "meaning": "Sữa",
+            "pos": "noun",
+            "example": "Children need to drink milk.",
+            "pronunciation": "/mɪlk/"
+        },
+        {
+            "word": "Coffee",
+            "meaning": "Cà phê",
+            "pos": "noun",
+            "example": "I drink coffee every morning.",
+            "pronunciation": "/ˈkɔːfi/"
+        },
+        {
+            "word": "Tea",
+            "meaning": "Trà",
+            "pos": "noun",
+            "example": "Green tea is very healthy.",
+            "pronunciation": "/tiː/"
+        },
+        {
+            "word": "Juice",
+            "meaning": "Nước ép",
+            "pos": "noun",
+            "example": "Orange juice is delicious.",
+            "pronunciation": "/dʒuːs/"
+        },
+        {
+            "word": "Soda",
+            "meaning": "Nước ngọt",
+            "pos": "noun",
+            "example": "I don't drink soda often.",
+            "pronunciation": "/ˈsoʊdə/"
+        },
+        {
+            "word": "Beer",
+            "meaning": "Bia",
+            "pos": "noun",
+            "example": "Adults drink beer at parties.",
+            "pronunciation": "/bɪr/"
+        },
+        {
+            "word": "Wine",
+            "meaning": "Rượu vang",
+            "pos": "noun",
+            "example": "Red wine goes well with meat.",
+            "pronunciation": "/waɪn/"
+        },
+        {
+            "word": "Bread",
+            "meaning": "Bánh mì",
+            "pos": "noun",
+            "example": "Fresh bread smells wonderful.",
+            "pronunciation": "/bred/"
+        },
+        {
+            "word": "Rice",
+            "meaning": "Cơm",
+            "pos": "noun",
+            "example": "Rice is a staple food in Asia.",
+            "pronunciation": "/raɪs/"
+        },
+        {
+            "word": "Noodles",
+            "meaning": "Mì",
+            "pos": "noun",
+            "example": "I love chicken noodles soup.",
+            "pronunciation": "/ˈnuːdəlz/"
+        },
+        {
+            "word": "Pasta",
+            "meaning": "Mì ống",
+            "pos": "noun",
+            "example": "Italian pasta is very popular.",
+            "pronunciation": "/ˈpɑːstə/"
+        },
+        {
+            "word": "Pizza",
+            "meaning": "Bánh pizza",
+            "pos": "noun",
+            "example": "Let's order pizza for dinner.",
+            "pronunciation": "/ˈpiːtsə/"
+        },
+        {
+            "word": "Hamburger",
+            "meaning": "Bánh hamburger",
+            "pos": "noun",
+            "example": "This hamburger is very tasty.",
+            "pronunciation": "/ˈhæmbɜːrɡər/"
+        },
+        {
+            "word": "Sandwich",
+            "meaning": "Bánh mì kẹp",
+            "pos": "noun",
+            "example": "I made a sandwich for lunch.",
+            "pronunciation": "/ˈsænwɪtʃ/"
+        },
+        {
+            "word": "Soup",
+            "meaning": "Súp",
+            "pos": "noun",
+            "example": "Chicken soup is good when sick.",
+            "pronunciation": "/suːp/"
+        },
+        {
+            "word": "Salad",
+            "meaning": "Salad",
+            "pos": "noun",
+            "example": "Eat salad to stay healthy.",
+            "pronunciation": "/ˈsæləd/"
+        },
+        {
+            "word": "Meat",
+            "meaning": "Thịt",
+            "pos": "noun",
+            "example": "This restaurant serves good meat.",
+            "pronunciation": "/miːt/"
+        },
+        {
+            "word": "Chicken",
+            "meaning": "Thịt gà",
+            "pos": "noun",
+            "example": "Grilled chicken is my favorite.",
+            "pronunciation": "/ˈtʃɪkɪn/"
+        },
+        {
+            "word": "Beef",
+            "meaning": "Thịt bò",
+            "pos": "noun",
+            "example": "Beef steak is expensive.",
+            "pronunciation": "/biːf/"
+        },
+        {
+            "word": "Pork",
+            "meaning": "Thịt heo",
+            "pos": "noun",
+            "example": "Pork is popular in many countries.",
+            "pronunciation": "/pɔːrk/"
+        },
+        {
+            "word": "Fish",
+            "meaning": "Cá",
+            "pos": "noun",
+            "example": "Fish is very healthy food.",
+            "pronunciation": "/fɪʃ/"
+        },
+        {
+            "word": "Egg",
+            "meaning": "Trứng",
+            "pos": "noun",
+            "example": "I eat eggs for breakfast.",
+            "pronunciation": "/eɡ/"
+        },
+        {
+            "word": "Cheese",
+            "meaning": "Phô mai",
+            "pos": "noun",
+            "example": "Cheese makes everything taste better.",
+            "pronunciation": "/tʃiːz/"
+        },
+        {
+            "word": "Butter",
+            "meaning": "Bơ",
+            "pos": "noun",
+            "example": "Spread butter on the bread.",
+            "pronunciation": "/ˈbʌtər/"
+        },
+        {
+            "word": "Salt",
+            "meaning": "Muối",
+            "pos": "noun",
+            "example": "Add some salt to the soup.",
+            "pronunciation": "/sɔːlt/"
+        },
+        {
+            "word": "Sugar",
+            "meaning": "Đường",
+            "pos": "noun",
+            "example": "Too much sugar is bad for health.",
+            "pronunciation": "/ˈʃʊɡər/"
+        },
+        {
+            "word": "Pepper",
+            "meaning": "Tiêu",
+            "pos": "noun",
+            "example": "Black pepper is very spicy.",
+            "pronunciation": "/ˈpepər/"
+        },
+        {
+            "word": "Oil",
+            "meaning": "Dầu",
+            "pos": "noun",
+            "example": "Use olive oil for cooking.",
+            "pronunciation": "/ɔɪl/"
+        },
+        {
+            "word": "Cake",
+            "meaning": "Bánh ngọt",
+            "pos": "noun",
+            "example": "Birthday cake is always special.",
+            "pronunciation": "/keɪk/"
+        },
+        {
+            "word": "Cookie",
+            "meaning": "Bánh quy",
+            "pos": "noun",
+            "example": "Chocolate cookies are my favorite.",
+            "pronunciation": "/ˈkʊki/"
+        },
+        {
+            "word": "Candy",
+            "meaning": "Kẹo",
+            "pos": "noun",
+            "example": "Children love candy very much.",
+            "pronunciation": "/ˈkændi/"
+        },
+        {
+            "word": "Chocolate",
+            "meaning": "Sô cô la",
+            "pos": "noun",
+            "example": "Dark chocolate is good for health.",
+            "pronunciation": "/ˈtʃɔːklət/"
+        },
+        {
+            "word": "Ice cream",
+            "meaning": "Kem",
+            "pos": "noun",
+            "example": "Ice cream is perfect for summer.",
+            "pronunciation": "/ˈaɪs kriːm/"
+        },
+        {
+            "word": "Breakfast",
+            "meaning": "Bữa sáng",
+            "pos": "noun",
+            "example": "Breakfast is the most important meal.",
+            "pronunciation": "/ˈbrekfəst/"
+        },
+        {
+            "word": "Lunch",
+            "meaning": "Bữa trưa",
+            "pos": "noun",
+            "example": "Let's have lunch together.",
+            "pronunciation": "/lʌntʃ/"
+        },
+        {
+            "word": "Dinner",
+            "meaning": "Bữa tối",
+            "pos": "noun",
+            "example": "What's for dinner tonight?",
+            "pronunciation": "/ˈdɪnər/"
+        },
+        {
+            "word": "Snack",
+            "meaning": "Đồ ăn vặt",
+            "pos": "noun",
+            "example": "I need a healthy snack.",
+            "pronunciation": "/snæk/"
+        },
+        {
+            "word": "Menu",
+            "meaning": "Thực đơn",
+            "pos": "noun",
+            "example": "Can I see the menu, please?",
+            "pronunciation": "/ˈmenjuː/"
+        },
+        {
+            "word": "Recipe",
+            "meaning": "Công thức nấu ăn",
+            "pos": "noun",
+            "example": "I need a recipe for this dish.",
+            "pronunciation": "/ˈresəpi/"
+        },
+        {
+            "word": "Kitchen",
+            "meaning": "Nhà bếp",
+            "pos": "noun",
+            "example": "Mom is cooking in the kitchen.",
+            "pronunciation": "/ˈkɪtʃən/"
+        },
+        {
+            "word": "Restaurant",
+            "meaning": "Nhà hàng",
+            "pos": "noun",
+            "example": "This restaurant has good food.",
+            "pronunciation": "/ˈrestərɑːnt/"
+        },
+        {
+            "word": "Cook",
+            "meaning": "Nấu ăn",
+            "pos": "verb",
+            "example": "I like to cook for my family.",
+            "pronunciation": "/kʊk/"
+        },
+        {
+            "word": "Eat",
+            "meaning": "Ăn",
+            "pos": "verb",
+            "example": "Let's eat together.",
+            "pronunciation": "/iːt/"
+        },
+        {
+            "word": "Drink",
+            "meaning": "Uống",
+            "pos": "verb",
+            "example": "Drink more water every day.",
+            "pronunciation": "/drɪŋk/"
+        },
+        {
+            "word": "Taste",
+            "meaning": "Nếm",
+            "pos": "verb",
+            "example": "Can you taste this soup?",
+            "pronunciation": "/teɪst/"
+        },
+        {
+            "word": "Delicious",
+            "meaning": "Ngon",
+            "pos": "adjective",
+            "example": "This food is very delicious.",
+            "pronunciation": "/dɪˈlɪʃəs/"
+        },
+        {
+            "word": "Sweet",
+            "meaning": "Ngọt",
+            "pos": "adjective",
+            "example": "This cake is too sweet.",
+            "pronunciation": "/swiːt/"
+        },
+        {
+            "word": "Salty",
+            "meaning": "Mặn",
+            "pos": "adjective",
+            "example": "This soup is very salty.",
+            "pronunciation": "/ˈsɔːlti/"
+        }
+    ]
+}

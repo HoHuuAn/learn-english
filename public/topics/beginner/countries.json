@@ -1,0 +1,296 @@
+{
+  "id": "countries",
+  "name": "Quốc gia và quốc tịch",
+  "level": "beginner",
+  "icon": "🌍",
+  "description": "Tên các quốc gia và quốc tịch phổ biến",
+  "words": [
+    {
+      "word": "Country",
+      "meaning": "Quốc gia",
+      "pos": "noun",
+      "example": "Vietnam is a beautiful country.",
+      "pronunciation": "/ˈkʌntri/"
+    },
+    {
+      "word": "Nationality",
+      "meaning": "Quốc tịch",
+      "pos": "noun",
+      "example": "What's your nationality?",
+      "pronunciation": "/ˌnæʃəˈnæləti/"
+    },
+    {
+      "word": "Vietnam",
+      "meaning": "Việt Nam",
+      "pos": "noun",
+      "example": "I'm from Vietnam.",
+      "pronunciation": "/ˌviːetˈnɑːm/"
+    },
+    {
+      "word": "Vietnamese",
+      "meaning": "Người Việt Nam",
+      "pos": "adjective",
+      "example": "I am Vietnamese.",
+      "pronunciation": "/ˌviːetnəˈmiːz/"
+    },
+    {
+      "word": "China",
+      "meaning": "Trung Quốc",
+      "pos": "noun",
+      "example": "China is a large country.",
+      "pronunciation": "/ˈtʃaɪnə/"
+    },
+    {
+      "word": "Chinese",
+      "meaning": "Người Trung Quốc",
+      "pos": "adjective",
+      "example": "He is Chinese.",
+      "pronunciation": "/tʃaɪˈniːz/"
+    },
+    {
+      "word": "Japan",
+      "meaning": "Nhật Bản",
+      "pos": "noun",
+      "example": "Japan is famous for technology.",
+      "pronunciation": "/dʒəˈpæn/"
+    },
+    {
+      "word": "Japanese",
+      "meaning": "Người Nhật",
+      "pos": "adjective",
+      "example": "She speaks Japanese fluently.",
+      "pronunciation": "/ˌdʒæpəˈniːz/"
+    },
+    {
+      "word": "Korea",
+      "meaning": "Hàn Quốc",
+      "pos": "noun",
+      "example": "Korea has delicious food.",
+      "pronunciation": "/kəˈriə/"
+    },
+    {
+      "word": "Korean",
+      "meaning": "Người Hàn Quốc",
+      "pos": "adjective",
+      "example": "Korean culture is very rich.",
+      "pronunciation": "/kəˈriən/"
+    },
+    {
+      "word": "Thailand",
+      "meaning": "Thái Lan",
+      "pos": "noun",
+      "example": "Thailand is known for its beaches.",
+      "pronunciation": "/ˈtaɪlænd/"
+    },
+    {
+      "word": "Thai",
+      "meaning": "Người Thái",
+      "pos": "adjective",
+      "example": "Thai food is spicy.",
+      "pronunciation": "/taɪ/"
+    },
+    {
+      "word": "America",
+      "meaning": "Mỹ",
+      "pos": "noun",
+      "example": "America is also called the USA.",
+      "pronunciation": "/əˈmerɪkə/"
+    },
+    {
+      "word": "American",
+      "meaning": "Người Mỹ",
+      "pos": "adjective",
+      "example": "American movies are popular.",
+      "pronunciation": "/əˈmerɪkən/"
+    },
+    {
+      "word": "England",
+      "meaning": "Anh",
+      "pos": "noun",
+      "example": "England is part of the UK.",
+      "pronunciation": "/ˈɪŋɡlənd/"
+    },
+    {
+      "word": "English",
+      "meaning": "Người Anh",
+      "pos": "adjective",
+      "example": "English is a global language.",
+      "pronunciation": "/ˈɪŋɡlɪʃ/"
+    },
+    {
+      "word": "France",
+      "meaning": "Pháp",
+      "pos": "noun",
+      "example": "France is famous for wine.",
+      "pronunciation": "/fræns/"
+    },
+    {
+      "word": "French",
+      "meaning": "Người Pháp",
+      "pos": "adjective",
+      "example": "French cuisine is world-renowned.",
+      "pronunciation": "/frentʃ/"
+    },
+    {
+      "word": "Germany",
+      "meaning": "Đức",
+      "pos": "noun",
+      "example": "Germany makes good cars.",
+      "pronunciation": "/ˈdʒɜːrməni/"
+    },
+    {
+      "word": "German",
+      "meaning": "Người Đức",
+      "pos": "adjective",
+      "example": "German engineering is excellent.",
+      "pronunciation": "/ˈdʒɜːrmən/"
+    },
+    {
+      "word": "Italy",
+      "meaning": "Ý",
+      "pos": "noun",
+      "example": "Italy has beautiful art.",
+      "pronunciation": "/ˈɪtəli/"
+    },
+    {
+      "word": "Italian",
+      "meaning": "Người Ý",
+      "pos": "adjective",
+      "example": "Italian pasta is delicious.",
+      "pronunciation": "/ɪˈtæljən/"
+    },
+    {
+      "word": "Spain",
+      "meaning": "Tây Ban Nha",
+      "pos": "noun",
+      "example": "Spain has warm weather.",
+      "pronunciation": "/speɪn/"
+    },
+    {
+      "word": "Spanish",
+      "meaning": "Người Tây Ban Nha",
+      "pos": "adjective",
+      "example": "Spanish is spoken in many countries.",
+      "pronunciation": "/ˈspænɪʃ/"
+    },
+    {
+      "word": "Russia",
+      "meaning": "Nga",
+      "pos": "noun",
+      "example": "Russia is the largest country.",
+      "pronunciation": "/ˈrʌʃə/"
+    },
+    {
+      "word": "Russian",
+      "meaning": "Người Nga",
+      "pos": "adjective",
+      "example": "Russian winters are very cold.",
+      "pronunciation": "/ˈrʌʃən/"
+    },
+    {
+      "word": "India",
+      "meaning": "Ấn Độ",
+      "pos": "noun",
+      "example": "India has many languages.",
+      "pronunciation": "/ˈɪndiə/"
+    },
+    {
+      "word": "Indian",
+      "meaning": "Người Ấn Độ",
+      "pos": "adjective",
+      "example": "Indian food is very spicy.",
+      "pronunciation": "/ˈɪndiən/"
+    },
+    {
+      "word": "Australia",
+      "meaning": "Úc",
+      "pos": "noun",
+      "example": "Australia has unique animals.",
+      "pronunciation": "/ɔːˈstreɪljə/"
+    },
+    {
+      "word": "Australian",
+      "meaning": "Người Úc",
+      "pos": "adjective",
+      "example": "Australian accents are distinctive.",
+      "pronunciation": "/ɔːˈstreɪljən/"
+    },
+    {
+      "word": "Canada",
+      "meaning": "Canada",
+      "pos": "noun",
+      "example": "Canada is north of the USA.",
+      "pronunciation": "/ˈkænədə/"
+    },
+    {
+      "word": "Canadian",
+      "meaning": "Người Canada",
+      "pos": "adjective",
+      "example": "Canadians are very polite.",
+      "pronunciation": "/kəˈneɪdiən/"
+    },
+    {
+      "word": "Brazil",
+      "meaning": "Brazil",
+      "pos": "noun",
+      "example": "Brazil is famous for soccer.",
+      "pronunciation": "/brəˈzɪl/"
+    },
+    {
+      "word": "Brazilian",
+      "meaning": "Người Brazil",
+      "pos": "adjective",
+      "example": "Brazilian music is energetic.",
+      "pronunciation": "/brəˈzɪljən/"
+    },
+    {
+      "word": "Mexico",
+      "meaning": "Mexico",
+      "pos": "noun",
+      "example": "Mexico has ancient pyramids.",
+      "pronunciation": "/ˈmeksɪkoʊ/"
+    },
+    {
+      "word": "Mexican",
+      "meaning": "Người Mexico",
+      "pos": "adjective",
+      "example": "Mexican food is flavorful.",
+      "pronunciation": "/ˈmeksɪkən/"
+    },
+    {
+      "word": "Language",
+      "meaning": "Ngôn ngữ",
+      "pos": "noun",
+      "example": "English is an international language.",
+      "pronunciation": "/ˈlæŋɡwɪdʒ/"
+    },
+    {
+      "word": "Culture",
+      "meaning": "Văn hóa",
+      "pos": "noun",
+      "example": "Every country has its own culture.",
+      "pronunciation": "/ˈkʌltʃər/"
+    },
+    {
+      "word": "Capital",
+      "meaning": "Thủ đô",
+      "pos": "noun",
+      "example": "Hanoi is the capital of Vietnam.",
+      "pronunciation": "/ˈkæpɪtəl/"
+    },
+    {
+      "word": "City",
+      "meaning": "Thành phố",
+      "pos": "noun",
+      "example": "Ho Chi Minh City is very busy.",
+      "pronunciation": "/ˈsɪti/"
+    },
+    {
+      "word": "Flag",
+      "meaning": "Cờ",
+      "pos": "noun",
+      "example": "Every country has its own flag.",
+      "pronunciation": "/flæɡ/"
+    }
+  ]
+}

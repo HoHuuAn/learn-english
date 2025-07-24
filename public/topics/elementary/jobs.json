@@ -1,0 +1,254 @@
+{
+  "id": "jobs",
+  "name": "Nghề nghiệp",
+  "level": "elementary",
+  "icon": "👷",
+  "description": "Các nghề nghiệp và công việc phổ biến",
+  "words": [
+    {
+      "word": "Job",
+      "meaning": "Công việc",
+      "pos": "noun",
+      "example": "I love my job very much.",
+      "pronunciation": "/dʒɑːb/"
+    },
+    {
+      "word": "Work",
+      "meaning": "Làm việc",
+      "pos": "verb",
+      "example": "I work in an office.",
+      "pronunciation": "/wɜːrk/"
+    },
+    {
+      "word": "Teacher",
+      "meaning": "Giáo viên",
+      "pos": "noun",
+      "example": "My mother is a teacher.",
+      "pronunciation": "/ˈtiːtʃər/"
+    },
+    {
+      "word": "Doctor",
+      "meaning": "Bác sĩ",
+      "pos": "noun",
+      "example": "The doctor examined the patient.",
+      "pronunciation": "/ˈdɑːktər/"
+    },
+    {
+      "word": "Nurse",
+      "meaning": "Y tá",
+      "pos": "noun",
+      "example": "The nurse is very caring.",
+      "pronunciation": "/nɜːrs/"
+    },
+    {
+      "word": "Engineer",
+      "meaning": "Kỹ sư",
+      "pos": "noun",
+      "example": "He is a software engineer.",
+      "pronunciation": "/ˌendʒɪˈnɪr/"
+    },
+    {
+      "word": "Lawyer",
+      "meaning": "Luật sư",
+      "pos": "noun",
+      "example": "The lawyer defended his client.",
+      "pronunciation": "/ˈlɔːjər/"
+    },
+    {
+      "word": "Police officer",
+      "meaning": "Cảnh sát",
+      "pos": "noun",
+      "example": "The police officer helped the child.",
+      "pronunciation": "/pəˈliːs ˈɔːfɪsər/"
+    },
+    {
+      "word": "Firefighter",
+      "meaning": "Lính cứu hỏa",
+      "pos": "noun",
+      "example": "Firefighters are very brave.",
+      "pronunciation": "/ˈfaɪərfaɪtər/"
+    },
+    {
+      "word": "Chef",
+      "meaning": "Đầu bếp",
+      "pos": "noun",
+      "example": "The chef makes delicious food.",
+      "pronunciation": "/ʃef/"
+    },
+    {
+      "word": "Waiter",
+      "meaning": "Phục vụ (nam)",
+      "pos": "noun",
+      "example": "The waiter took our order.",
+      "pronunciation": "/ˈweɪtər/"
+    },
+    {
+      "word": "Waitress",
+      "meaning": "Phục vụ (nữ)",
+      "pos": "noun",
+      "example": "The waitress is very friendly.",
+      "pronunciation": "/ˈweɪtrəs/"
+    },
+    {
+      "word": "Driver",
+      "meaning": "Tài xế",
+      "pos": "noun",
+      "example": "The bus driver is careful.",
+      "pronunciation": "/ˈdraɪvər/"
+    },
+    {
+      "word": "Pilot",
+      "meaning": "Phi công",
+      "pos": "noun",
+      "example": "The pilot flies the airplane.",
+      "pronunciation": "/ˈpaɪlət/"
+    },
+    {
+      "word": "Farmer",
+      "meaning": "Nông dân",
+      "pos": "noun",
+      "example": "The farmer grows vegetables.",
+      "pronunciation": "/ˈfɑːrmər/"
+    },
+    {
+      "word": "Mechanic",
+      "meaning": "Thợ máy",
+      "pos": "noun",
+      "example": "The mechanic fixed my car.",
+      "pronunciation": "/məˈkænɪk/"
+    },
+    {
+      "word": "Builder",
+      "meaning": "Thợ xây",
+      "pos": "noun",
+      "example": "The builder constructed the house.",
+      "pronunciation": "/ˈbɪldər/"
+    },
+    {
+      "word": "Electrician",
+      "meaning": "Thợ điện",
+      "pos": "noun",
+      "example": "Call an electrician to fix the lights.",
+      "pronunciation": "/ɪˌlekˈtrɪʃən/"
+    },
+    {
+      "word": "Plumber",
+      "meaning": "Thợ sửa ống nước",
+      "pos": "noun",
+      "example": "The plumber fixed the leak.",
+      "pronunciation": "/ˈplʌmər/"
+    },
+    {
+      "word": "Artist",
+      "meaning": "Nghệ sĩ",
+      "pos": "noun",
+      "example": "The artist painted a beautiful picture.",
+      "pronunciation": "/ˈɑːrtɪst/"
+    },
+    {
+      "word": "Musician",
+      "meaning": "Nhạc sĩ",
+      "pos": "noun",
+      "example": "The musician plays guitar.",
+      "pronunciation": "/mjuˈzɪʃən/"
+    },
+    {
+      "word": "Singer",
+      "meaning": "Ca sĩ",
+      "pos": "noun",
+      "example": "The singer has a beautiful voice.",
+      "pronunciation": "/ˈsɪŋər/"
+    },
+    {
+      "word": "Actor",
+      "meaning": "Diễn viên (nam)",
+      "pos": "noun",
+      "example": "The actor starred in many movies.",
+      "pronunciation": "/ˈæktər/"
+    },
+    {
+      "word": "Actress",
+      "meaning": "Diễn viên (nữ)",
+      "pos": "noun",
+      "example": "She is a famous actress.",
+      "pronunciation": "/ˈæktrəs/"
+    },
+    {
+      "word": "Journalist",
+      "meaning": "Nhà báo",
+      "pos": "noun",
+      "example": "The journalist wrote an article.",
+      "pronunciation": "/ˈdʒɜːrnəlɪst/"
+    },
+    {
+      "word": "Photographer",
+      "meaning": "Nhiếp ảnh gia",
+      "pos": "noun",
+      "example": "The photographer took great photos.",
+      "pronunciation": "/fəˈtɑːɡrəfər/"
+    },
+    {
+      "word": "Accountant",
+      "meaning": "Kế toán",
+      "pos": "noun",
+      "example": "The accountant manages the finances.",
+      "pronunciation": "/əˈkaʊntənt/"
+    },
+    {
+      "word": "Manager",
+      "meaning": "Quản lý",
+      "pos": "noun",
+      "example": "The manager leads the team.",
+      "pronunciation": "/ˈmænɪdʒər/"
+    },
+    {
+      "word": "Secretary",
+      "meaning": "Thư ký",
+      "pos": "noun",
+      "example": "The secretary scheduled the meeting.",
+      "pronunciation": "/ˈsekrəteri/"
+    },
+    {
+      "word": "Dentist",
+      "meaning": "Nha sĩ",
+      "pos": "noun",
+      "example": "Visit the dentist twice a year.",
+      "pronunciation": "/ˈdentɪst/"
+    },
+    {
+      "word": "Pharmacist",
+      "meaning": "Dược sĩ",
+      "pos": "noun",
+      "example": "The pharmacist prepared the medicine.",
+      "pronunciation": "/ˈfɑːrməsɪst/"
+    },
+    {
+      "word": "Veterinarian",
+      "meaning": "Bác sĩ thú y",
+      "pos": "noun",
+      "example": "The veterinarian treats animals.",
+      "pronunciation": "/ˌvetərɪˈneriən/"
+    },
+    {
+      "word": "Barber",
+      "meaning": "Thợ cắt tóc (nam)",
+      "pos": "noun",
+      "example": "The barber cut my hair.",
+      "pronunciation": "/ˈbɑːrbər/"
+    },
+    {
+      "word": "Hairdresser",
+      "meaning": "Thợ làm tóc",
+      "pos": "noun",
+      "example": "The hairdresser styled her hair.",
+      "pronunciation": "/ˈherdresər/"
+    },
+    {
+      "word": "Scientist",
+      "meaning": "Nhà khoa học",
+      "pos": "noun",
+      "example": "The scientist made a discovery.",
+      "pronunciation": "/ˈsaɪəntɪst/"
+    }
+  ]
+}

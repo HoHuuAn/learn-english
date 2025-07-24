@@ -1,0 +1,268 @@
+{
+    "id": "household",
+    "name": "Đồ dùng gia đình",
+    "level": "elementary",
+    "icon": "🏠",
+    "description": "Từ vựng về các đồ dùng trong gia đình, vật dụng hàng ngày",
+    "words": [
+        {
+            "word": "Table",
+            "meaning": "Bàn",
+            "pos": "noun",
+            "example": "The table is made of wood.",
+            "pronunciation": "/ˈteɪbəl/"
+        },
+        {
+            "word": "Chair",
+            "meaning": "Ghế",
+            "pos": "noun",
+            "example": "There are four chairs in the kitchen.",
+            "pronunciation": "/tʃer/"
+        },
+        {
+            "word": "Sofa",
+            "meaning": "Ghế sofa",
+            "pos": "noun",
+            "example": "We sit on the sofa to watch TV.",
+            "pronunciation": "/ˈsoʊfə/"
+        },
+        {
+            "word": "Bed",
+            "meaning": "Giường",
+            "pos": "noun",
+            "example": "I sleep in my bed every night.",
+            "pronunciation": "/bed/"
+        },
+        {
+            "word": "Wardrobe",
+            "meaning": "Tủ quần áo",
+            "pos": "noun",
+            "example": "My clothes are in the wardrobe.",
+            "pronunciation": "/ˈwɔːrdroʊb/"
+        },
+        {
+            "word": "Drawer",
+            "meaning": "Ngăn kéo",
+            "pos": "noun",
+            "example": "The keys are in the drawer.",
+            "pronunciation": "/drɔːr/"
+        },
+        {
+            "word": "Cupboard",
+            "meaning": "Tủ chén",
+            "pos": "noun",
+            "example": "Plates are kept in the cupboard.",
+            "pronunciation": "/ˈkʌbərd/"
+        },
+        {
+            "word": "Shelf",
+            "meaning": "Kệ",
+            "pos": "noun",
+            "example": "Books are on the shelf.",
+            "pronunciation": "/ʃelf/"
+        },
+        {
+            "word": "Lamp",
+            "meaning": "Đèn bàn",
+            "pos": "noun",
+            "example": "Turn on the lamp to read.",
+            "pronunciation": "/læmp/"
+        },
+        {
+            "word": "Fan",
+            "meaning": "Quạt",
+            "pos": "noun",
+            "example": "The fan keeps the room cool.",
+            "pronunciation": "/fæn/"
+        },
+        {
+            "word": "Air conditioner",
+            "meaning": "Máy lạnh",
+            "pos": "noun",
+            "example": "The air conditioner is very cold.",
+            "pronunciation": "/ˈer kənˌdɪʃənər/"
+        },
+        {
+            "word": "Heater",
+            "meaning": "Máy sưởi",
+            "pos": "noun",
+            "example": "The heater warms the room in winter.",
+            "pronunciation": "/ˈhiːtər/"
+        },
+        {
+            "word": "Television",
+            "meaning": "Tivi",
+            "pos": "noun",
+            "example": "We watch movies on television.",
+            "pronunciation": "/ˈtelɪˌvɪʒən/"
+        },
+        {
+            "word": "Remote control",
+            "meaning": "Điều khiển từ xa",
+            "pos": "noun",
+            "example": "Use the remote control to change channels.",
+            "pronunciation": "/rɪˈmoʊt kənˈtroʊl/"
+        },
+        {
+            "word": "Refrigerator",
+            "meaning": "Tủ lạnh",
+            "pos": "noun",
+            "example": "Milk is in the refrigerator.",
+            "pronunciation": "/rɪˈfrɪdʒəˌreɪtər/"
+        },
+        {
+            "word": "Microwave",
+            "meaning": "Lò vi sóng",
+            "pos": "noun",
+            "example": "Heat food in the microwave.",
+            "pronunciation": "/ˈmaɪkrəˌweɪv/"
+        },
+        {
+            "word": "Stove",
+            "meaning": "Bếp",
+            "pos": "noun",
+            "example": "Cook soup on the stove.",
+            "pronunciation": "/stoʊv/"
+        },
+        {
+            "word": "Oven",
+            "meaning": "Lò nướng",
+            "pos": "noun",
+            "example": "Bake bread in the oven.",
+            "pronunciation": "/ˈʌvən/"
+        },
+        {
+            "word": "Washing machine",
+            "meaning": "Máy giặt",
+            "pos": "noun",
+            "example": "The washing machine is running.",
+            "pronunciation": "/ˈwɑːʃɪŋ məˌʃiːn/"
+        },
+        {
+            "word": "Vacuum cleaner",
+            "meaning": "Máy hút bụi",
+            "pos": "noun",
+            "example": "Use the vacuum cleaner to clean the floor.",
+            "pronunciation": "/ˈvækjuːm ˈkliːnər/"
+        },
+        {
+            "word": "Broom",
+            "meaning": "Chổi",
+            "pos": "noun",
+            "example": "Sweep the floor with a broom.",
+            "pronunciation": "/bruːm/"
+        },
+        {
+            "word": "Mop",
+            "meaning": "Cây lau nhà",
+            "pos": "noun",
+            "example": "Use a mop to clean the kitchen.",
+            "pronunciation": "/mɑːp/"
+        },
+        {
+            "word": "Bucket",
+            "meaning": "Xô",
+            "pos": "noun",
+            "example": "Fill the bucket with water.",
+            "pronunciation": "/ˈbʌkɪt/"
+        },
+        {
+            "word": "Mirror",
+            "meaning": "Gương",
+            "pos": "noun",
+            "example": "Look in the mirror.",
+            "pronunciation": "/ˈmɪrər/"
+        },
+        {
+            "word": "Clock",
+            "meaning": "Đồng hồ treo tường",
+            "pos": "noun",
+            "example": "The clock is on the wall.",
+            "pronunciation": "/klɑːk/"
+        },
+        {
+            "word": "Curtain",
+            "meaning": "Rèm cửa",
+            "pos": "noun",
+            "example": "Close the curtain at night.",
+            "pronunciation": "/ˈkɜːrtən/"
+        },
+        {
+            "word": "Carpet",
+            "meaning": "Thảm",
+            "pos": "noun",
+            "example": "The carpet is soft.",
+            "pronunciation": "/ˈkɑːrpɪt/"
+        },
+        {
+            "word": "Blanket",
+            "meaning": "Chăn",
+            "pos": "noun",
+            "example": "Use a blanket when it's cold.",
+            "pronunciation": "/ˈblæŋkɪt/"
+        },
+        {
+            "word": "Pillow",
+            "meaning": "Gối",
+            "pos": "noun",
+            "example": "I need a soft pillow.",
+            "pronunciation": "/ˈpɪloʊ/"
+        },
+        {
+            "word": "Towel",
+            "meaning": "Khăn tắm",
+            "pos": "noun",
+            "example": "Dry your hands with a towel.",
+            "pronunciation": "/ˈtaʊəl/"
+        },
+        {
+            "word": "Toothbrush",
+            "meaning": "Bàn chải đánh răng",
+            "pos": "noun",
+            "example": "Brush your teeth with a toothbrush.",
+            "pronunciation": "/ˈtuːθbrʌʃ/"
+        },
+        {
+            "word": "Soap",
+            "meaning": "Xà phòng",
+            "pos": "noun",
+            "example": "Wash your hands with soap.",
+            "pronunciation": "/soʊp/"
+        },
+        {
+            "word": "Shampoo",
+            "meaning": "Dầu gội",
+            "pos": "noun",
+            "example": "Use shampoo to wash your hair.",
+            "pronunciation": "/ʃæmˈpuː/"
+        },
+        {
+            "word": "Toilet",
+            "meaning": "Nhà vệ sinh",
+            "pos": "noun",
+            "example": "The toilet is clean.",
+            "pronunciation": "/ˈtɔɪlət/"
+        },
+        {
+            "word": "Sink",
+            "meaning": "Bồn rửa",
+            "pos": "noun",
+            "example": "Wash your hands in the sink.",
+            "pronunciation": "/sɪŋk/"
+        },
+        {
+            "word": "Bathtub",
+            "meaning": "Bồn tắm",
+            "pos": "noun",
+            "example": "The bathtub is full of water.",
+            "pronunciation": "/ˈbæθtʌb/"
+        },
+        {
+            "word": "Trash can",
+            "meaning": "Thùng rác",
+            "pos": "noun",
+            "example": "Throw garbage in the trash can.",
+            "pronunciation": "/træʃ kæn/"
+        }
+    ]
+}

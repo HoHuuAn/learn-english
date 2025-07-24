@@ -1,0 +1,261 @@
+{
+    "id": "numbers",
+    "name": "Số đếm",
+    "level": "beginner",
+    "icon": "🔢",
+    "description": "Các số từ 0 đến 100, số thứ tự và các khái niệm toán học cơ bản",
+    "words": [
+        {
+            "word": "Zero",
+            "meaning": "Số không",
+            "pos": "number",
+            "example": "The temperature is zero degrees.",
+            "pronunciation": "/ˈzɪroʊ/"
+        },
+        {
+            "word": "One",
+            "meaning": "Số một",
+            "pos": "number",
+            "example": "I have one apple.",
+            "pronunciation": "/wʌn/"
+        },
+        {
+            "word": "Two",
+            "meaning": "Số hai",
+            "pos": "number",
+            "example": "There are two cats.",
+            "pronunciation": "/tuː/"
+        },
+        {
+            "word": "Three",
+            "meaning": "Số ba",
+            "pos": "number",
+            "example": "I need three pencils.",
+            "pronunciation": "/θriː/"
+        },
+        {
+            "word": "Four",
+            "meaning": "Số bốn",
+            "pos": "number",
+            "example": "We have four chairs.",
+            "pronunciation": "/fɔːr/"
+        },
+        {
+            "word": "Five",
+            "meaning": "Số năm",
+            "pos": "number",
+            "example": "Five students are absent today.",
+            "pronunciation": "/faɪv/"
+        },
+        {
+            "word": "Six",
+            "meaning": "Số sáu",
+            "pos": "number",
+            "example": "The meeting is at six o'clock.",
+            "pronunciation": "/sɪks/"
+        },
+        {
+            "word": "Seven",
+            "meaning": "Số bảy",
+            "pos": "number",
+            "example": "Seven days make a week.",
+            "pronunciation": "/ˈsevən/"
+        },
+        {
+            "word": "Eight",
+            "meaning": "Số tám",
+            "pos": "number",
+            "example": "I wake up at eight.",
+            "pronunciation": "/eɪt/"
+        },
+        {
+            "word": "Nine",
+            "meaning": "Số chín",
+            "pos": "number",
+            "example": "Nine plus one equals ten.",
+            "pronunciation": "/naɪn/"
+        },
+        {
+            "word": "Ten",
+            "meaning": "Số mười",
+            "pos": "number",
+            "example": "Ten is my favorite number.",
+            "pronunciation": "/ten/"
+        },
+        {
+            "word": "Eleven",
+            "meaning": "Số mười một",
+            "pos": "number",
+            "example": "The class starts at eleven.",
+            "pronunciation": "/ɪˈlevən/"
+        },
+        {
+            "word": "Twelve",
+            "meaning": "Số mười hai",
+            "pos": "number",
+            "example": "There are twelve months in a year.",
+            "pronunciation": "/twelv/"
+        },
+        {
+            "word": "Thirteen",
+            "meaning": "Số mười ba",
+            "pos": "number",
+            "example": "She is thirteen years old.",
+            "pronunciation": "/ˌθɜːrˈtiːn/"
+        },
+        {
+            "word": "Fourteen",
+            "meaning": "Số mười bốn",
+            "pos": "number",
+            "example": "Fourteen people came to the party.",
+            "pronunciation": "/ˌfɔːrˈtiːn/"
+        },
+        {
+            "word": "Fifteen",
+            "meaning": "Số mười lăm",
+            "pos": "number",
+            "example": "The bus arrives every fifteen minutes.",
+            "pronunciation": "/ˌfɪfˈtiːn/"
+        },
+        {
+            "word": "Twenty",
+            "meaning": "Số hai mười",
+            "pos": "number",
+            "example": "I have twenty dollars.",
+            "pronunciation": "/ˈtwenti/"
+        },
+        {
+            "word": "Thirty",
+            "meaning": "Số ba mười",
+            "pos": "number",
+            "example": "The temperature is thirty degrees.",
+            "pronunciation": "/ˈθɜːrti/"
+        },
+        {
+            "word": "Forty",
+            "meaning": "Số bốn mười",
+            "pos": "number",
+            "example": "He is forty years old.",
+            "pronunciation": "/ˈfɔːrti/"
+        },
+        {
+            "word": "Fifty",
+            "meaning": "Số năm mười",
+            "pos": "number",
+            "example": "The speed limit is fifty.",
+            "pronunciation": "/ˈfɪfti/"
+        },
+        {
+            "word": "Sixty",
+            "meaning": "Số sáu mười",
+            "pos": "number",
+            "example": "Sixty seconds make a minute.",
+            "pronunciation": "/ˈsɪksti/"
+        },
+        {
+            "word": "Seventy",
+            "meaning": "Số bảy mười",
+            "pos": "number",
+            "example": "My grandmother is seventy.",
+            "pronunciation": "/ˈsevənti/"
+        },
+        {
+            "word": "Eighty",
+            "meaning": "Số tám mười",
+            "pos": "number",
+            "example": "The book has eighty pages.",
+            "pronunciation": "/ˈeɪti/"
+        },
+        {
+            "word": "Ninety",
+            "meaning": "Số chín mười",
+            "pos": "number",
+            "example": "Ninety percent of students passed.",
+            "pronunciation": "/ˈnaɪnti/"
+        },
+        {
+            "word": "One hundred",
+            "meaning": "Một trăm",
+            "pos": "number",
+            "example": "One hundred people attended.",
+            "pronunciation": "/wʌn ˈhʌndrəd/"
+        },
+        {
+            "word": "First",
+            "meaning": "Thứ nhất",
+            "pos": "ordinal",
+            "example": "This is my first day at school.",
+            "pronunciation": "/fɜːrst/"
+        },
+        {
+            "word": "Second",
+            "meaning": "Thứ hai",
+            "pos": "ordinal",
+            "example": "Wait a second, please.",
+            "pronunciation": "/ˈsekənd/"
+        },
+        {
+            "word": "Third",
+            "meaning": "Thứ ba",
+            "pos": "ordinal",
+            "example": "He finished third in the race.",
+            "pronunciation": "/θɜːrd/"
+        },
+        {
+            "word": "Last",
+            "meaning": "Cuối cùng",
+            "pos": "ordinal",
+            "example": "This is the last question.",
+            "pronunciation": "/læst/"
+        },
+        {
+            "word": "Number",
+            "meaning": "Số",
+            "pos": "noun",
+            "example": "What's your phone number?",
+            "pronunciation": "/ˈnʌmbər/"
+        },
+        {
+            "word": "Count",
+            "meaning": "Đếm",
+            "pos": "verb",
+            "example": "Can you count to ten?",
+            "pronunciation": "/kaʊnt/"
+        },
+        {
+            "word": "Plus",
+            "meaning": "Cộng",
+            "pos": "preposition",
+            "example": "Two plus three equals five.",
+            "pronunciation": "/plʌs/"
+        },
+        {
+            "word": "Minus",
+            "meaning": "Trừ",
+            "pos": "preposition",
+            "example": "Ten minus four equals six.",
+            "pronunciation": "/ˈmaɪnəs/"
+        },
+        {
+            "word": "Equals",
+            "meaning": "Bằng",
+            "pos": "verb",
+            "example": "Five plus five equals ten.",
+            "pronunciation": "/ˈiːkwəlz/"
+        },
+        {
+            "word": "Half",
+            "meaning": "Một nửa",
+            "pos": "noun",
+            "example": "I ate half of the pizza.",
+            "pronunciation": "/hæf/"
+        },
+        {
+            "word": "Double",
+            "meaning": "Gấp đôi",
+            "pos": "adjective",
+            "example": "This costs double the price.",
+            "pronunciation": "/ˈdʌbəl/"
+        }
+    ]
+}

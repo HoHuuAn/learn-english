@@ -1,0 +1,219 @@
+{
+  "id": "body",
+  "name": "Bộ phận cơ thể",
+  "level": "beginner",
+  "icon": "👤",
+  "description": "Các bộ phận cơ thể người từ đầu đến chân",
+  "words": [
+    {
+      "word": "Body",
+      "meaning": "Cơ thể",
+      "pos": "noun",
+      "example": "Exercise is good for your body.",
+      "pronunciation": "/ˈbɑːdi/"
+    },
+    {
+      "word": "Head",
+      "meaning": "Đầu",
+      "pos": "noun",
+      "example": "Wear a helmet to protect your head.",
+      "pronunciation": "/hed/"
+    },
+    {
+      "word": "Hair",
+      "meaning": "Tóc",
+      "pos": "noun",
+      "example": "Her hair is very long.",
+      "pronunciation": "/her/"
+    },
+    {
+      "word": "Face",
+      "meaning": "Mặt",
+      "pos": "noun",
+      "example": "Wash your face every morning.",
+      "pronunciation": "/feɪs/"
+    },
+    {
+      "word": "Eye",
+      "meaning": "Mắt",
+      "pos": "noun",
+      "example": "I have brown eyes.",
+      "pronunciation": "/aɪ/"
+    },
+    {
+      "word": "Nose",
+      "meaning": "Mũi",
+      "pos": "noun",
+      "example": "She has a small nose.",
+      "pronunciation": "/noʊz/"
+    },
+    {
+      "word": "Mouth",
+      "meaning": "Miệng",
+      "pos": "noun",
+      "example": "Open your mouth and say 'ah'.",
+      "pronunciation": "/maʊθ/"
+    },
+    {
+      "word": "Ear",
+      "meaning": "Tai",
+      "pos": "noun",
+      "example": "I can't hear with this ear.",
+      "pronunciation": "/ɪr/"
+    },
+    {
+      "word": "Tooth",
+      "meaning": "Răng",
+      "pos": "noun",
+      "example": "I have a toothache.",
+      "pronunciation": "/tuːθ/"
+    },
+    {
+      "word": "Teeth",
+      "meaning": "Những cái răng",
+      "pos": "noun",
+      "example": "Brush your teeth twice a day.",
+      "pronunciation": "/tiːθ/"
+    },
+    {
+      "word": "Tongue",
+      "meaning": "Lưỡi",
+      "pos": "noun",
+      "example": "The tongue helps us taste food.",
+      "pronunciation": "/tʌŋ/"
+    },
+    {
+      "word": "Lip",
+      "meaning": "Môi",
+      "pos": "noun",
+      "example": "My lips are dry.",
+      "pronunciation": "/lɪp/"
+    },
+    {
+      "word": "Neck",
+      "meaning": "Cổ",
+      "pos": "noun",
+      "example": "Turn your neck to the left.",
+      "pronunciation": "/nek/"
+    },
+    {
+      "word": "Shoulder",
+      "meaning": "Vai",
+      "pos": "noun",
+      "example": "Put the bag on your shoulder.",
+      "pronunciation": "/ˈʃoʊldər/"
+    },
+    {
+      "word": "Arm",
+      "meaning": "Cánh tay",
+      "pos": "noun",
+      "example": "Raise your right arm.",
+      "pronunciation": "/ɑːrm/"
+    },
+    {
+      "word": "Hand",
+      "meaning": "Bàn tay",
+      "pos": "noun",
+      "example": "Shake hands with your friend.",
+      "pronunciation": "/hænd/"
+    },
+    {
+      "word": "Finger",
+      "meaning": "Ngón tay",
+      "pos": "noun",
+      "example": "I cut my finger.",
+      "pronunciation": "/ˈfɪŋɡər/"
+    },
+    {
+      "word": "Thumb",
+      "meaning": "Ngón cái",
+      "pos": "noun",
+      "example": "The thumb is the strongest finger.",
+      "pronunciation": "/θʌm/"
+    },
+    {
+      "word": "Chest",
+      "meaning": "Ngực",
+      "pos": "noun",
+      "example": "Take a deep breath into your chest.",
+      "pronunciation": "/tʃest/"
+    },
+    {
+      "word": "Back",
+      "meaning": "Lưng",
+      "pos": "noun",
+      "example": "My back hurts from sitting too long.",
+      "pronunciation": "/bæk/"
+    },
+    {
+      "word": "Stomach",
+      "meaning": "Bụng",
+      "pos": "noun",
+      "example": "My stomach is empty.",
+      "pronunciation": "/ˈstʌmək/"
+    },
+    {
+      "word": "Leg",
+      "meaning": "Chân",
+      "pos": "noun",
+      "example": "I broke my leg playing soccer.",
+      "pronunciation": "/leɡ/"
+    },
+    {
+      "word": "Knee",
+      "meaning": "Đầu gối",
+      "pos": "noun",
+      "example": "Bend your knees when you lift.",
+      "pronunciation": "/niː/"
+    },
+    {
+      "word": "Foot",
+      "meaning": "Bàn chân",
+      "pos": "noun",
+      "example": "My foot is swollen.",
+      "pronunciation": "/fʊt/"
+    },
+    {
+      "word": "Feet",
+      "meaning": "Những bàn chân",
+      "pos": "noun",
+      "example": "My feet are tired from walking.",
+      "pronunciation": "/fiːt/"
+    },
+    {
+      "word": "Toe",
+      "meaning": "Ngón chân",
+      "pos": "noun",
+      "example": "I stubbed my toe on the table.",
+      "pronunciation": "/toʊ/"
+    },
+    {
+      "word": "Skin",
+      "meaning": "Da",
+      "pos": "noun",
+      "example": "Protect your skin from the sun.",
+      "pronunciation": "/skɪn/"
+    },
+    {
+      "word": "Bone",
+      "meaning": "Xương",
+      "pos": "noun",
+      "example": "Drink milk for strong bones.",
+      "pronunciation": "/boʊn/"
+    },
+    {
+      "word": "Heart",
+      "meaning": "Tim",
+      "pos": "noun",
+      "example": "My heart beats fast when I run.",
+      "pronunciation": "/hɑːrt/"
+    },
+    {
+      "word": "Brain",
+      "meaning": "Não",
+      "pos": "noun",
+      "example": "Use your brain to solve problems.",
+      "pronunciation": "/breɪn/"
+    }
+  ]
+}

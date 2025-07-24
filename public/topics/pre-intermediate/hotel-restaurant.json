@@ -1,0 +1,177 @@
+{
+    "id": "hotel-restaurant",
+    "name": "Khách sạn & nhà hàng",
+    "level": "pre-intermediate",
+    "icon": "🏨",
+    "description": "Từ vựng về khách sạn, nhà hàng, đặt phòng, gọi món, dịch vụ ăn uống",
+    "words": [
+        {
+            "word": "Hotel",
+            "meaning": "Khách sạn",
+            "pos": "noun",
+            "example": "We booked a hotel for our trip.",
+            "pronunciation": "/hoʊˈtel/"
+        },
+        {
+            "word": "Reception",
+            "meaning": "Quầy lễ tân",
+            "pos": "noun",
+            "example": "Ask for help at the reception.",
+            "pronunciation": "/rɪˈsepʃən/"
+        },
+        {
+            "word": "Reservation",
+            "meaning": "Đặt phòng",
+            "pos": "noun",
+            "example": "I have a reservation for tonight.",
+            "pronunciation": "/ˌrezərˈveɪʃən/"
+        },
+        {
+            "word": "Room",
+            "meaning": "Phòng",
+            "pos": "noun",
+            "example": "The room is very clean.",
+            "pronunciation": "/ruːm/"
+        },
+        {
+            "word": "Suite",
+            "meaning": "Phòng hạng sang",
+            "pos": "noun",
+            "example": "We stayed in a suite.",
+            "pronunciation": "/swiːt/"
+        },
+        {
+            "word": "Single room",
+            "meaning": "Phòng đơn",
+            "pos": "noun",
+            "example": "A single room is cheaper.",
+            "pronunciation": "/ˈsɪŋɡəl ruːm/"
+        },
+        {
+            "word": "Double room",
+            "meaning": "Phòng đôi",
+            "pos": "noun",
+            "example": "We need a double room.",
+            "pronunciation": "/ˈdʌbəl ruːm/"
+        },
+        {
+            "word": "Check-in",
+            "meaning": "Nhận phòng",
+            "pos": "verb",
+            "example": "Check-in is at 2 PM.",
+            "pronunciation": "/ˈtʃek ɪn/"
+        },
+        {
+            "word": "Check-out",
+            "meaning": "Trả phòng",
+            "pos": "verb",
+            "example": "Check-out is before noon.",
+            "pronunciation": "/ˈtʃek aʊt/"
+        },
+        {
+            "word": "Key card",
+            "meaning": "Thẻ phòng",
+            "pos": "noun",
+            "example": "Use your key card to open the door.",
+            "pronunciation": "/kiː kɑːrd/"
+        },
+        {
+            "word": "Elevator",
+            "meaning": "Thang máy",
+            "pos": "noun",
+            "example": "Take the elevator to the fifth floor.",
+            "pronunciation": "/ˈelɪveɪtər/"
+        },
+        {
+            "word": "Stairs",
+            "meaning": "Cầu thang",
+            "pos": "noun",
+            "example": "The stairs are next to the elevator.",
+            "pronunciation": "/sterz/"
+        },
+        {
+            "word": "Restaurant",
+            "meaning": "Nhà hàng",
+            "pos": "noun",
+            "example": "The hotel has a restaurant.",
+            "pronunciation": "/ˈrestərɑːnt/"
+        },
+        {
+            "word": "Menu",
+            "meaning": "Thực đơn",
+            "pos": "noun",
+            "example": "Can I see the menu, please?",
+            "pronunciation": "/ˈmenjuː/"
+        },
+        {
+            "word": "Order",
+            "meaning": "Gọi món",
+            "pos": "verb",
+            "example": "We ordered pizza for dinner.",
+            "pronunciation": "/ˈɔːrdər/"
+        },
+        {
+            "word": "Waiter",
+            "meaning": "Phục vụ (nam)",
+            "pos": "noun",
+            "example": "The waiter is very polite.",
+            "pronunciation": "/ˈweɪtər/"
+        },
+        {
+            "word": "Waitress",
+            "meaning": "Phục vụ (nữ)",
+            "pos": "noun",
+            "example": "The waitress brought our drinks.",
+            "pronunciation": "/ˈweɪtrəs/"
+        },
+        {
+            "word": "Bill",
+            "meaning": "Hóa đơn",
+            "pos": "noun",
+            "example": "Can I have the bill, please?",
+            "pronunciation": "/bɪl/"
+        },
+        {
+            "word": "Tip",
+            "meaning": "Tiền boa",
+            "pos": "noun",
+            "example": "Leave a tip for good service.",
+            "pronunciation": "/tɪp/"
+        },
+        {
+            "word": "Buffet",
+            "meaning": "Tiệc buffet",
+            "pos": "noun",
+            "example": "The hotel offers a breakfast buffet.",
+            "pronunciation": "/bəˈfeɪ/"
+        },
+        {
+            "word": "Reservation number",
+            "meaning": "Mã đặt phòng",
+            "pos": "noun",
+            "example": "Show your reservation number at check-in.",
+            "pronunciation": "/ˌrezərˈveɪʃən ˈnʌmbər/"
+        },
+        {
+            "word": "Room service",
+            "meaning": "Dịch vụ phòng",
+            "pos": "noun",
+            "example": "Order food with room service.",
+            "pronunciation": "/ruːm ˈsɜːrvɪs/"
+        },
+        {
+            "word": "Laundry",
+            "meaning": "Giặt là",
+            "pos": "noun",
+            "example": "The hotel has a laundry service.",
+            "pronunciation": "/ˈlɔːndri/"
+        },
+        {
+            "word": "Reservation desk",
+            "meaning": "Bàn đặt phòng",
+            "pos": "noun",
+            "example": "Ask at the reservation desk.",
+            "pronunciation": "/ˌrezərˈveɪʃən desk/"
+        }
+    ]
+}

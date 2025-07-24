@@ -1,0 +1,296 @@
+{
+    "id": "time",
+    "name": "Ngày, tháng, năm",
+    "level": "beginner",
+    "icon": "📅",
+    "description": "Từ vựng về thời gian, ngày trong tuần, tháng trong năm",
+    "words": [
+        {
+            "word": "Time",
+            "meaning": "Thời gian",
+            "pos": "noun",
+            "example": "What time is it?",
+            "pronunciation": "/taɪm/"
+        },
+        {
+            "word": "Day",
+            "meaning": "Ngày",
+            "pos": "noun",
+            "example": "Today is a beautiful day.",
+            "pronunciation": "/deɪ/"
+        },
+        {
+            "word": "Week",
+            "meaning": "Tuần",
+            "pos": "noun",
+            "example": "I work five days a week.",
+            "pronunciation": "/wiːk/"
+        },
+        {
+            "word": "Month",
+            "meaning": "Tháng",
+            "pos": "noun",
+            "example": "December is the last month.",
+            "pronunciation": "/mʌnθ/"
+        },
+        {
+            "word": "Year",
+            "meaning": "Năm",
+            "pos": "noun",
+            "example": "This year goes by so fast.",
+            "pronunciation": "/jɪr/"
+        },
+        {
+            "word": "Monday",
+            "meaning": "Thứ hai",
+            "pos": "noun",
+            "example": "I start work on Monday.",
+            "pronunciation": "/ˈmʌndeɪ/"
+        },
+        {
+            "word": "Tuesday",
+            "meaning": "Thứ ba",
+            "pos": "noun",
+            "example": "Tuesday is my favorite day.",
+            "pronunciation": "/ˈtuːzdeɪ/"
+        },
+        {
+            "word": "Wednesday",
+            "meaning": "Thứ tư",
+            "pos": "noun",
+            "example": "Wednesday is in the middle of the week.",
+            "pronunciation": "/ˈwenzdeɪ/"
+        },
+        {
+            "word": "Thursday",
+            "meaning": "Thứ năm",
+            "pos": "noun",
+            "example": "Thursday comes before Friday.",
+            "pronunciation": "/ˈθɜːrzdeɪ/"
+        },
+        {
+            "word": "Friday",
+            "meaning": "Thứ sáu",
+            "pos": "noun",
+            "example": "Friday is the end of the work week.",
+            "pronunciation": "/ˈfraɪdeɪ/"
+        },
+        {
+            "word": "Saturday",
+            "meaning": "Thứ bảy",
+            "pos": "noun",
+            "example": "Saturday is a weekend day.",
+            "pronunciation": "/ˈsætərdeɪ/"
+        },
+        {
+            "word": "Sunday",
+            "meaning": "Chủ nhật",
+            "pos": "noun",
+            "example": "Sunday is a day for rest.",
+            "pronunciation": "/ˈsʌndeɪ/"
+        },
+        {
+            "word": "January",
+            "meaning": "Tháng một",
+            "pos": "noun",
+            "example": "January is the first month.",
+            "pronunciation": "/ˈdʒænjueri/"
+        },
+        {
+            "word": "February",
+            "meaning": "Tháng hai",
+            "pos": "noun",
+            "example": "February has 28 days.",
+            "pronunciation": "/ˈfebrueri/"
+        },
+        {
+            "word": "March",
+            "meaning": "Tháng ba",
+            "pos": "noun",
+            "example": "Spring begins in March.",
+            "pronunciation": "/mɑːrtʃ/"
+        },
+        {
+            "word": "April",
+            "meaning": "Tháng tư",
+            "pos": "noun",
+            "example": "April showers bring May flowers.",
+            "pronunciation": "/ˈeɪprəl/"
+        },
+        {
+            "word": "May",
+            "meaning": "Tháng năm",
+            "pos": "noun",
+            "example": "May is a beautiful month.",
+            "pronunciation": "/meɪ/"
+        },
+        {
+            "word": "June",
+            "meaning": "Tháng sáu",
+            "pos": "noun",
+            "example": "June is when summer starts.",
+            "pronunciation": "/dʒuːn/"
+        },
+        {
+            "word": "July",
+            "meaning": "Tháng bảy",
+            "pos": "noun",
+            "example": "July is very hot.",
+            "pronunciation": "/dʒuˈlaɪ/"
+        },
+        {
+            "word": "August",
+            "meaning": "Tháng tám",
+            "pos": "noun",
+            "example": "August is the last summer month.",
+            "pronunciation": "/ˈɔːɡəst/"
+        },
+        {
+            "word": "September",
+            "meaning": "Tháng chín",
+            "pos": "noun",
+            "example": "September is back to school time.",
+            "pronunciation": "/sepˈtembər/"
+        },
+        {
+            "word": "October",
+            "meaning": "Tháng mười",
+            "pos": "noun",
+            "example": "October has Halloween.",
+            "pronunciation": "/ɑːkˈtoʊbər/"
+        },
+        {
+            "word": "November",
+            "meaning": "Tháng mười một",
+            "pos": "noun",
+            "example": "November is getting cold.",
+            "pronunciation": "/noʊˈvembər/"
+        },
+        {
+            "word": "December",
+            "meaning": "Tháng mười hai",
+            "pos": "noun",
+            "example": "December has Christmas.",
+            "pronunciation": "/dɪˈsembər/"
+        },
+        {
+            "word": "Today",
+            "meaning": "Hôm nay",
+            "pos": "adverb",
+            "example": "Today is Monday.",
+            "pronunciation": "/təˈdeɪ/"
+        },
+        {
+            "word": "Tomorrow",
+            "meaning": "Ngày mai",
+            "pos": "adverb",
+            "example": "Tomorrow is another day.",
+            "pronunciation": "/təˈmɑːroʊ/"
+        },
+        {
+            "word": "Yesterday",
+            "meaning": "Hôm qua",
+            "pos": "adverb",
+            "example": "Yesterday was Sunday.",
+            "pronunciation": "/ˈjestərdeɪ/"
+        },
+        {
+            "word": "Weekend",
+            "meaning": "Cuối tuần",
+            "pos": "noun",
+            "example": "I love the weekend.",
+            "pronunciation": "/ˈwiːkend/"
+        },
+        {
+            "word": "Weekday",
+            "meaning": "Ngày trong tuần",
+            "pos": "noun",
+            "example": "Monday is a weekday.",
+            "pronunciation": "/ˈwiːkdeɪ/"
+        },
+        {
+            "word": "Holiday",
+            "meaning": "Ngày lễ",
+            "pos": "noun",
+            "example": "Christmas is my favorite holiday.",
+            "pronunciation": "/ˈhɑːlədeɪ/"
+        },
+        {
+            "word": "Birthday",
+            "meaning": "Sinh nhật",
+            "pos": "noun",
+            "example": "My birthday is in June.",
+            "pronunciation": "/ˈbɜːrθdeɪ/"
+        },
+        {
+            "word": "Date",
+            "meaning": "Ngày tháng",
+            "pos": "noun",
+            "example": "What's today's date?",
+            "pronunciation": "/deɪt/"
+        },
+        {
+            "word": "Calendar",
+            "meaning": "Lịch",
+            "pos": "noun",
+            "example": "Check the calendar for dates.",
+            "pronunciation": "/ˈkæləndər/"
+        },
+        {
+            "word": "Season",
+            "meaning": "Mùa",
+            "pos": "noun",
+            "example": "Winter is my favorite season.",
+            "pronunciation": "/ˈsiːzən/"
+        },
+        {
+            "word": "Spring",
+            "meaning": "Mùa xuân",
+            "pos": "noun",
+            "example": "Spring brings new life.",
+            "pronunciation": "/sprɪŋ/"
+        },
+        {
+            "word": "Summer",
+            "meaning": "Mùa hè",
+            "pos": "noun",
+            "example": "Summer is hot and sunny.",
+            "pronunciation": "/ˈsʌmər/"
+        },
+        {
+            "word": "Fall",
+            "meaning": "Mùa thu",
+            "pos": "noun",
+            "example": "Fall has beautiful colors.",
+            "pronunciation": "/fɔːl/"
+        },
+        {
+            "word": "Autumn",
+            "meaning": "Mùa thu",
+            "pos": "noun",
+            "example": "Autumn leaves are colorful.",
+            "pronunciation": "/ˈɔːtəm/"
+        },
+        {
+            "word": "Winter",
+            "meaning": "Mùa đông",
+            "pos": "noun",
+            "example": "Winter is cold and snowy.",
+            "pronunciation": "/ˈwɪntər/"
+        },
+        {
+            "word": "Age",
+            "meaning": "Tuổi",
+            "pos": "noun",
+            "example": "What's your age?",
+            "pronunciation": "/eɪdʒ/"
+        },
+        {
+            "word": "Old",
+            "meaning": "Già, cũ",
+            "pos": "adjective",
+            "example": "My grandfather is very old.",
+            "pronunciation": "/oʊld/"
+        }
+    ]
+}

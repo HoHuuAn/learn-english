@@ -1,0 +1,149 @@
+{
+    "id": "emotions",
+    "name": "Cảm xúc và tính cách",
+    "level": "elementary",
+    "icon": "😊",
+    "description": "Từ vựng về cảm xúc, tâm trạng và tính cách con người",
+    "words": [
+        {
+            "word": "Happy",
+            "meaning": "Vui vẻ",
+            "pos": "adjective",
+            "example": "She is always happy.",
+            "pronunciation": "/ˈhæpi/"
+        },
+        {
+            "word": "Sad",
+            "meaning": "Buồn",
+            "pos": "adjective",
+            "example": "He looks sad today.",
+            "pronunciation": "/sæd/"
+        },
+        {
+            "word": "Angry",
+            "meaning": "Tức giận",
+            "pos": "adjective",
+            "example": "Don't be angry with me.",
+            "pronunciation": "/ˈæŋɡri/"
+        },
+        {
+            "word": "Excited",
+            "meaning": "Hào hứng",
+            "pos": "adjective",
+            "example": "The children are excited for the trip.",
+            "pronunciation": "/ɪkˈsaɪtɪd/"
+        },
+        {
+            "word": "Bored",
+            "meaning": "Chán nản",
+            "pos": "adjective",
+            "example": "I'm bored with this movie.",
+            "pronunciation": "/bɔːrd/"
+        },
+        {
+            "word": "Scared",
+            "meaning": "Sợ hãi",
+            "pos": "adjective",
+            "example": "She is scared of the dark.",
+            "pronunciation": "/skerd/"
+        },
+        {
+            "word": "Surprised",
+            "meaning": "Ngạc nhiên",
+            "pos": "adjective",
+            "example": "He was surprised by the gift.",
+            "pronunciation": "/sərˈpraɪzd/"
+        },
+        {
+            "word": "Tired",
+            "meaning": "Mệt mỏi",
+            "pos": "adjective",
+            "example": "I feel tired after work.",
+            "pronunciation": "/ˈtaɪərd/"
+        },
+        {
+            "word": "Worried",
+            "meaning": "Lo lắng",
+            "pos": "adjective",
+            "example": "She is worried about the exam.",
+            "pronunciation": "/ˈwɜːrid/"
+        },
+        {
+            "word": "Calm",
+            "meaning": "Bình tĩnh",
+            "pos": "adjective",
+            "example": "Stay calm in an emergency.",
+            "pronunciation": "/kɑːm/"
+        },
+        {
+            "word": "Kind",
+            "meaning": "Tốt bụng",
+            "pos": "adjective",
+            "example": "He is very kind to everyone.",
+            "pronunciation": "/kaɪnd/"
+        },
+        {
+            "word": "Friendly",
+            "meaning": "Thân thiện",
+            "pos": "adjective",
+            "example": "Our neighbors are friendly.",
+            "pronunciation": "/ˈfrendli/"
+        },
+        {
+            "word": "Polite",
+            "meaning": "Lịch sự",
+            "pos": "adjective",
+            "example": "Be polite to your elders.",
+            "pronunciation": "/pəˈlaɪt/"
+        },
+        {
+            "word": "Honest",
+            "meaning": "Trung thực",
+            "pos": "adjective",
+            "example": "Always be honest.",
+            "pronunciation": "/ˈɑːnɪst/"
+        },
+        {
+            "word": "Brave",
+            "meaning": "Dũng cảm",
+            "pos": "adjective",
+            "example": "Firefighters are brave.",
+            "pronunciation": "/breɪv/"
+        },
+        {
+            "word": "Shy",
+            "meaning": "Nhút nhát",
+            "pos": "adjective",
+            "example": "He is shy in front of strangers.",
+            "pronunciation": "/ʃaɪ/"
+        },
+        {
+            "word": "Funny",
+            "meaning": "Hài hước",
+            "pos": "adjective",
+            "example": "My uncle is very funny.",
+            "pronunciation": "/ˈfʌni/"
+        },
+        {
+            "word": "Clever",
+            "meaning": "Thông minh",
+            "pos": "adjective",
+            "example": "She is clever and quick.",
+            "pronunciation": "/ˈklevər/"
+        },
+        {
+            "word": "Lazy",
+            "meaning": "Lười biếng",
+            "pos": "adjective",
+            "example": "Don't be lazy, do your homework.",
+            "pronunciation": "/ˈleɪzi/"
+        },
+        {
+            "word": "Hard-working",
+            "meaning": "Chăm chỉ",
+            "pos": "adjective",
+            "example": "He is a hard-working student.",
+            "pronunciation": "/ˌhɑːrdˈwɜːrkɪŋ/"
+        }
+    ]
+}

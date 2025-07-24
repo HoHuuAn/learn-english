@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Greetings",
+        "words": [
+            {
+                "word": "Hello",
+                "meaning": "Xin chào",
+                "pos": "interjection",
+                "example": "Hello, how are you?"
+            },
+            {
+                "word": "Hi",
+                "meaning": "Chào",
+                "pos": "interjection",
+                "example": "Hi, I'm Peter."
+            },
+            {
+                "word": "Hey",
+                "meaning": "Chào (thân mật)",
+                "pos": "interjection",
+                "example": "Hey! What's up?"
+            },
+            {
+                "word": "Goodbye",
+                "meaning": "Tạm biệt",
+                "pos": "interjection",
+                "example": "Goodbye, see you tomorrow!"
+            },
+            {
+                "word": "Bye",
+                "meaning": "Tạm biệt",
+                "pos": "interjection",
+                "example": "Bye, take care!"
+            },
+            {
+                "word": "Morning",
+                "meaning": "Buổi sáng",
+                "pos": "noun",
+                "example": "I go jogging every morning."
+            },
+            {
+                "word": "Evening",
+                "meaning": "Buổi tối",
+                "pos": "noun",
+                "example": "Good music in the evening helps me relax."
+            },
+            {
+                "word": "Night",
+                "meaning": "Ban đêm",
+                "pos": "noun",
+                "example": "Have a good night!"
+            },
+            {
+                "word": "Name",
+                "meaning": "Tên",
+                "pos": "noun",
+                "example": "My name is Anna."
+            },
+            {
+                "word": "Thanks",
+                "meaning": "Cảm ơn",
+                "pos": "noun",
+                "example": "Thanks for your help."
+            },
+            {
+                "word": "Welcome",
+                "meaning": "Hoan nghênh",
+                "pos": "interjection",
+                "example": "You're welcome!"
+            },
+            {
+                "word": "Fine",
+                "meaning": "Khỏe",
+                "pos": "adjective",
+                "example": "I'm fine, thank you."
+            },
+            {
+                "word": "Friend",
+                "meaning": "Bạn",
+                "pos": "noun",
+                "example": "He is my best friend."
+            },
+            {
+                "word": "Smile",
+                "meaning": "Nụ cười",
+                "pos": "noun",
+                "example": "She has a nice smile."
+            },
+            {
+                "word": "Talk",
+                "meaning": "Nói chuyện",
+                "pos": "verb",
+                "example": "We talk every day."
+            }
+        ]
+    },
+    {
+        "name": "Family",
+        "words": [
+            {
+                "word": "Father",
+                "meaning": "Cha",
+                "pos": "noun",
+                "example": "My father is a farmer."
+            },
+            {
+                "word": "Mother",
+                "meaning": "Mẹ",
+                "pos": "noun",
+                "example": "I live with my mother."
+            },
+            {
+                "word": "Brother",
+                "meaning": "Anh/em trai",
+                "pos": "noun",
+                "example": "My brother is 15 years old."
+            },
+            {
+                "word": "Sister",
+                "meaning": "Chị/em gái",
+                "pos": "noun",
+                "example": "I have one sister."
+            },
+            {
+                "word": "Grandfather",
+                "meaning": "Ông",
+                "pos": "noun",
+                "example": "My grandfather tells great stories."
+            },
+            {
+                "word": "Grandmother",
+                "meaning": "Bà",
+                "pos": "noun",
+                "example": "My grandmother is kind."
+            },
+            {
+                "word": "Uncle",
+                "meaning": "Chú / bác trai / cậu",
+                "pos": "noun",
+                "example": "My uncle is a mechanic."
+            },
+            {
+                "word": "Aunt",
+                "meaning": "Cô / dì / bác gái",
+                "pos": "noun",
+                "example": "My aunt lives in Hue."
+            },
+            {
+                "word": "Cousin",
+                "meaning": "Anh/chị/em họ",
+                "pos": "noun",
+                "example": "I play with my cousin."
+            },
+            {
+                "word": "Baby",
+                "meaning": "Em bé",
+                "pos": "noun",
+                "example": "The baby is cute."
+            },
+            {
+                "word": "Parent",
+                "meaning": "Phụ huynh",
+                "pos": "noun",
+                "example": "I respect my parents."
+            },
+            {
+                "word": "Child",
+                "meaning": "Đứa trẻ",
+                "pos": "noun",
+                "example": "That child is very smart."
+            },
+            {
+                "word": "Son",
+                "meaning": "Con trai",
+                "pos": "noun",
+                "example": "They have a son and a daughter."
+            },
+            {
+                "word": "Daughter",
+                "meaning": "Con gái",
+                "pos": "noun",
+                "example": "Their daughter is a nurse."
+            },
+            {
+                "word": "Husband",
+                "meaning": "Chồng",
+                "pos": "noun",
+                "example": "My husband is a chef."
+            },
+            {
+                "word": "Wife",
+                "meaning": "Vợ",
+                "pos": "noun",
+                "example": "His wife is very friendly."
+            },
+            {
+                "word": "Family",
+                "meaning": "Gia đình",
+                "pos": "noun",
+                "example": "Family is everything to me."
+            },
+            {
+                "word": "Relative",
+                "meaning": "Họ hàng",
+                "pos": "noun",
+                "example": "We visit our relatives every Tet."
+            },
+            {
+                "word": "Marriage",
+                "meaning": "Hôn nhân",
+                "pos": "noun",
+                "example": "Their marriage is very happy."
+            },
+            {
+                "word": "Sibling",
+                "meaning": "Anh/chị/em ruột",
+                "pos": "noun",
+                "example": "I have three siblings."
+            }
+        ]
+    }
+]

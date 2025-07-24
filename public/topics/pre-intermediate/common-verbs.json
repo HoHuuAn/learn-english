@@ -1,0 +1,114 @@
+{
+    "id": "common-verbs",
+    "name": "Động từ thông dụng",
+    "level": "pre-intermediate",
+    "icon": "🔤",
+    "description": "Các động từ phổ biến trong giao tiếp hàng ngày",
+    "words": [
+        {
+            "word": "Go",
+            "meaning": "Đi",
+            "pos": "verb",
+            "example": "I go to school every day.",
+            "pronunciation": "/ɡoʊ/"
+        },
+        {
+            "word": "Come",
+            "meaning": "Đến",
+            "pos": "verb",
+            "example": "She comes home at 6 PM.",
+            "pronunciation": "/kʌm/"
+        },
+        {
+            "word": "See",
+            "meaning": "Nhìn, thấy",
+            "pos": "verb",
+            "example": "Can you see the bird?",
+            "pronunciation": "/siː/"
+        },
+        {
+            "word": "Look",
+            "meaning": "Nhìn",
+            "pos": "verb",
+            "example": "Look at the board.",
+            "pronunciation": "/lʊk/"
+        },
+        {
+            "word": "Make",
+            "meaning": "Làm, tạo ra",
+            "pos": "verb",
+            "example": "He makes a cake.",
+            "pronunciation": "/meɪk/"
+        },
+        {
+            "word": "Do",
+            "meaning": "Làm",
+            "pos": "verb",
+            "example": "I do my homework.",
+            "pronunciation": "/duː/"
+        },
+        {
+            "word": "Take",
+            "meaning": "Lấy, mang",
+            "pos": "verb",
+            "example": "Take your umbrella.",
+            "pronunciation": "/teɪk/"
+        },
+        {
+            "word": "Give",
+            "meaning": "Đưa, cho",
+            "pos": "verb",
+            "example": "Give me the book.",
+            "pronunciation": "/ɡɪv/"
+        },
+        {
+            "word": "Get",
+            "meaning": "Nhận, lấy",
+            "pos": "verb",
+            "example": "I get up at 7 o'clock.",
+            "pronunciation": "/ɡet/"
+        },
+        {
+            "word": "Know",
+            "meaning": "Biết",
+            "pos": "verb",
+            "example": "I know the answer.",
+            "pronunciation": "/noʊ/"
+        },
+        {
+            "word": "Think",
+            "meaning": "Nghĩ",
+            "pos": "verb",
+            "example": "I think it's a good idea.",
+            "pronunciation": "/θɪŋk/"
+        },
+        {
+            "word": "Want",
+            "meaning": "Muốn",
+            "pos": "verb",
+            "example": "I want some water.",
+            "pronunciation": "/wɑːnt/"
+        },
+        {
+            "word": "Need",
+            "meaning": "Cần",
+            "pos": "verb",
+            "example": "I need help.",
+            "pronunciation": "/niːd/"
+        },
+        {
+            "word": "Like",
+            "meaning": "Thích",
+            "pos": "verb",
+            "example": "I like apples.",
+            "pronunciation": "/laɪk/"
+        },
+        {
+            "word": "Love",
+            "meaning": "Yêu",
+            "pos": "verb",
+            "example": "I love my family.",
+            "pronunciation": "/lʌv/"
+        }
+    ]
+}

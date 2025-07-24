@@ -1,0 +1,254 @@
+{
+  "id": "fruits-vegetables",
+  "name": "Rau củ và trái cây",
+  "level": "elementary",
+  "icon": "🥕",
+  "description": "Các loại rau củ quả tươi ngon và bổ dưỡng",
+  "words": [
+    {
+      "word": "Fruit",
+      "meaning": "Trái cây",
+      "pos": "noun",
+      "example": "Eat more fruit for vitamins.",
+      "pronunciation": "/fruːt/"
+    },
+    {
+      "word": "Vegetable",
+      "meaning": "Rau củ",
+      "pos": "noun",
+      "example": "Vegetables are good for health.",
+      "pronunciation": "/ˈvedʒtəbəl/"
+    },
+    {
+      "word": "Apple",
+      "meaning": "Táo",
+      "pos": "noun",
+      "example": "An apple a day keeps the doctor away.",
+      "pronunciation": "/ˈæpəl/"
+    },
+    {
+      "word": "Banana",
+      "meaning": "Chuối",
+      "pos": "noun",
+      "example": "Monkeys love to eat bananas.",
+      "pronunciation": "/bəˈnænə/"
+    },
+    {
+      "word": "Orange",
+      "meaning": "Cam",
+      "pos": "noun",
+      "example": "Orange juice is rich in vitamin C.",
+      "pronunciation": "/ˈɔːrɪndʒ/"
+    },
+    {
+      "word": "Grape",
+      "meaning": "Nho",
+      "pos": "noun",
+      "example": "Grapes are used to make wine.",
+      "pronunciation": "/ɡreɪp/"
+    },
+    {
+      "word": "Strawberry",
+      "meaning": "Dâu tây",
+      "pos": "noun",
+      "example": "Strawberries are red and sweet.",
+      "pronunciation": "/ˈstrɔːberi/"
+    },
+    {
+      "word": "Pineapple",
+      "meaning": "Dứa/Khóm",
+      "pos": "noun",
+      "example": "Pineapple is a tropical fruit.",
+      "pronunciation": "/ˈpaɪnæpəl/"
+    },
+    {
+      "word": "Mango",
+      "meaning": "Xoài",
+      "pos": "noun",
+      "example": "Mango is the king of fruits.",
+      "pronunciation": "/ˈmæŋɡoʊ/"
+    },
+    {
+      "word": "Watermelon",
+      "meaning": "Dưa hấu",
+      "pos": "noun",
+      "example": "Watermelon is perfect for summer.",
+      "pronunciation": "/ˈwɔːtərmelən/"
+    },
+    {
+      "word": "Lemon",
+      "meaning": "Chanh",
+      "pos": "noun",
+      "example": "Add lemon to your tea.",
+      "pronunciation": "/ˈlemən/"
+    },
+    {
+      "word": "Coconut",
+      "meaning": "Dừa",
+      "pos": "noun",
+      "example": "Coconut water is very refreshing.",
+      "pronunciation": "/ˈkoʊkənʌt/"
+    },
+    {
+      "word": "Peach",
+      "meaning": "Đào",
+      "pos": "noun",
+      "example": "Peaches are soft and juicy.",
+      "pronunciation": "/piːtʃ/"
+    },
+    {
+      "word": "Cherry",
+      "meaning": "Cherry",
+      "pos": "noun",
+      "example": "Cherries are small and red.",
+      "pronunciation": "/ˈtʃeri/"
+    },
+    {
+      "word": "Carrot",
+      "meaning": "Cà rốt",
+      "pos": "noun",
+      "example": "Carrots are good for your eyes.",
+      "pronunciation": "/ˈkærət/"
+    },
+    {
+      "word": "Potato",
+      "meaning": "Khoai tây",
+      "pos": "noun",
+      "example": "French fries are made from potatoes.",
+      "pronunciation": "/pəˈteɪtoʊ/"
+    },
+    {
+      "word": "Tomato",
+      "meaning": "Cà chua",
+      "pos": "noun",
+      "example": "Tomatoes are used in many dishes.",
+      "pronunciation": "/təˈmeɪtoʊ/"
+    },
+    {
+      "word": "Onion",
+      "meaning": "Hành tây",
+      "pos": "noun",
+      "example": "Cutting onions makes me cry.",
+      "pronunciation": "/ˈʌnjən/"
+    },
+    {
+      "word": "Garlic",
+      "meaning": "Tỏi",
+      "pos": "noun",
+      "example": "Garlic adds flavor to food.",
+      "pronunciation": "/ˈɡɑːrlɪk/"
+    },
+    {
+      "word": "Cabbage",
+      "meaning": "Bắp cải",
+      "pos": "noun",
+      "example": "Cabbage is used in salads.",
+      "pronunciation": "/ˈkæbɪdʒ/"
+    },
+    {
+      "word": "Lettuce",
+      "meaning": "Rau xà lách",
+      "pos": "noun",
+      "example": "Lettuce is crispy and fresh.",
+      "pronunciation": "/ˈletɪs/"
+    },
+    {
+      "word": "Cucumber",
+      "meaning": "Dưa leo",
+      "pos": "noun",
+      "example": "Cucumber is very refreshing.",
+      "pronunciation": "/ˈkjuːkʌmbər/"
+    },
+    {
+      "word": "Pepper",
+      "meaning": "Ớt/Tiêu",
+      "pos": "noun",
+      "example": "This pepper is very spicy.",
+      "pronunciation": "/ˈpepər/"
+    },
+    {
+      "word": "Corn",
+      "meaning": "Ngô",
+      "pos": "noun",
+      "example": "Corn is a popular vegetable.",
+      "pronunciation": "/kɔːrn/"
+    },
+    {
+      "word": "Broccoli",
+      "meaning": "Súp lơ xanh",
+      "pos": "noun",
+      "example": "Broccoli is very nutritious.",
+      "pronunciation": "/ˈbrɑːkəli/"
+    },
+    {
+      "word": "Spinach",
+      "meaning": "Rau bina",
+      "pos": "noun",
+      "example": "Popeye eats spinach for strength.",
+      "pronunciation": "/ˈspɪnɪtʃ/"
+    },
+    {
+      "word": "Bean",
+      "meaning": "Đậu",
+      "pos": "noun",
+      "example": "Beans are rich in protein.",
+      "pronunciation": "/biːn/"
+    },
+    {
+      "word": "Pea",
+      "meaning": "Đậu Hà Lan",
+      "pos": "noun",
+      "example": "Green peas are small and round.",
+      "pronunciation": "/piː/"
+    },
+    {
+      "word": "Mushroom",
+      "meaning": "Nấm",
+      "pos": "noun",
+      "example": "This soup has fresh mushrooms.",
+      "pronunciation": "/ˈmʌʃruːm/"
+    },
+    {
+      "word": "Sweet potato",
+      "meaning": "Khoai lang",
+      "pos": "noun",
+      "example": "Sweet potatoes are orange inside.",
+      "pronunciation": "/swiːt pəˈteɪtoʊ/"
+    },
+    {
+      "word": "Pumpkin",
+      "meaning": "Bí ngô",
+      "pos": "noun",
+      "example": "Pumpkin pie is popular in autumn.",
+      "pronunciation": "/ˈpʌmpkɪn/"
+    },
+    {
+      "word": "Radish",
+      "meaning": "Củ cải",
+      "pos": "noun",
+      "example": "Radishes are crispy and peppery.",
+      "pronunciation": "/ˈrædɪʃ/"
+    },
+    {
+      "word": "Celery",
+      "meaning": "Cần tây",
+      "pos": "noun",
+      "example": "Celery is crunchy and healthy.",
+      "pronunciation": "/ˈseləri/"
+    },
+    {
+      "word": "Fresh",
+      "meaning": "Tươi",
+      "pos": "adjective",
+      "example": "Buy fresh vegetables from the market.",
+      "pronunciation": "/freʃ/"
+    },
+    {
+      "word": "Ripe",
+      "meaning": "Chín",
+      "pos": "adjective",
+      "example": "This banana is perfectly ripe.",
+      "pronunciation": "/raɪp/"
+    }
+  ]
+}

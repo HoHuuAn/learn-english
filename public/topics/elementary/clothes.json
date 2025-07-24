@@ -1,0 +1,219 @@
+{
+  "id": "clothes",
+  "name": "Quần áo",
+  "level": "elementary",
+  "icon": "👕",
+  "description": "Các loại quần áo và phụ kiện thời trang",
+  "words": [
+    {
+      "word": "Clothes",
+      "meaning": "Quần áo",
+      "pos": "noun",
+      "example": "I need new clothes for work.",
+      "pronunciation": "/kloʊðz/"
+    },
+    {
+      "word": "Shirt",
+      "meaning": "Áo sơ mi",
+      "pos": "noun",
+      "example": "He wears a white shirt to work.",
+      "pronunciation": "/ʃɜːrt/"
+    },
+    {
+      "word": "T-shirt",
+      "meaning": "Áo thun",
+      "pos": "noun",
+      "example": "I love wearing t-shirts in summer.",
+      "pronunciation": "/ˈtiː ʃɜːrt/"
+    },
+    {
+      "word": "Pants",
+      "meaning": "Quần dài",
+      "pos": "noun",
+      "example": "These pants are too tight.",
+      "pronunciation": "/pænts/"
+    },
+    {
+      "word": "Jeans",
+      "meaning": "Quần jean",
+      "pos": "noun",
+      "example": "Blue jeans are very popular.",
+      "pronunciation": "/dʒiːnz/"
+    },
+    {
+      "word": "Shorts",
+      "meaning": "Quần ngắn",
+      "pos": "noun",
+      "example": "I wear shorts when it's hot.",
+      "pronunciation": "/ʃɔːrts/"
+    },
+    {
+      "word": "Skirt",
+      "meaning": "Váy",
+      "pos": "noun",
+      "example": "She looks beautiful in that skirt.",
+      "pronunciation": "/skɜːrt/"
+    },
+    {
+      "word": "Dress",
+      "meaning": "Váy liền",
+      "pos": "noun",
+      "example": "The bride wore a white dress.",
+      "pronunciation": "/dres/"
+    },
+    {
+      "word": "Sweater",
+      "meaning": "Áo len",
+      "pos": "noun",
+      "example": "This sweater keeps me warm.",
+      "pronunciation": "/ˈswetər/"
+    },
+    {
+      "word": "Jacket",
+      "meaning": "Áo khoác",
+      "pos": "noun",
+      "example": "Don't forget your jacket.",
+      "pronunciation": "/ˈdʒækɪt/"
+    },
+    {
+      "word": "Coat",
+      "meaning": "Áo choàng",
+      "pos": "noun",
+      "example": "Winter coats are very thick.",
+      "pronunciation": "/koʊt/"
+    },
+    {
+      "word": "Suit",
+      "meaning": "Bộ vest",
+      "pos": "noun",
+      "example": "He wears a suit to business meetings.",
+      "pronunciation": "/suːt/"
+    },
+    {
+      "word": "Tie",
+      "meaning": "Cà vạt",
+      "pos": "noun",
+      "example": "His tie matches his shirt.",
+      "pronunciation": "/taɪ/"
+    },
+    {
+      "word": "Underwear",
+      "meaning": "Đồ lót",
+      "pos": "noun",
+      "example": "Change your underwear daily.",
+      "pronunciation": "/ˈʌndərwer/"
+    },
+    {
+      "word": "Socks",
+      "meaning": "Tất",
+      "pos": "noun",
+      "example": "My socks are wet from the rain.",
+      "pronunciation": "/sɑːks/"
+    },
+    {
+      "word": "Shoes",
+      "meaning": "Giày",
+      "pos": "noun",
+      "example": "These shoes are very comfortable.",
+      "pronunciation": "/ʃuːz/"
+    },
+    {
+      "word": "Boots",
+      "meaning": "Ủng",
+      "pos": "noun",
+      "example": "Rain boots keep your feet dry.",
+      "pronunciation": "/buːts/"
+    },
+    {
+      "word": "Sneakers",
+      "meaning": "Giày thể thao",
+      "pos": "noun",
+      "example": "I wear sneakers when I exercise.",
+      "pronunciation": "/ˈsniːkərz/"
+    },
+    {
+      "word": "Sandals",
+      "meaning": "Dép",
+      "pos": "noun",
+      "example": "Sandals are perfect for the beach.",
+      "pronunciation": "/ˈsændəlz/"
+    },
+    {
+      "word": "Hat",
+      "meaning": "Mũ",
+      "pos": "noun",
+      "example": "Wear a hat to protect from sun.",
+      "pronunciation": "/hæt/"
+    },
+    {
+      "word": "Cap",
+      "meaning": "Mũ lưỡi trai",
+      "pos": "noun",
+      "example": "Baseball players wear caps.",
+      "pronunciation": "/kæp/"
+    },
+    {
+      "word": "Gloves",
+      "meaning": "Găng tay",
+      "pos": "noun",
+      "example": "Gloves keep your hands warm.",
+      "pronunciation": "/ɡlʌvz/"
+    },
+    {
+      "word": "Scarf",
+      "meaning": "Khăn quàng",
+      "pos": "noun",
+      "example": "This scarf is very soft.",
+      "pronunciation": "/skɑːrf/"
+    },
+    {
+      "word": "Belt",
+      "meaning": "Thắt lưng",
+      "pos": "noun",
+      "example": "This belt is too big for me.",
+      "pronunciation": "/belt/"
+    },
+    {
+      "word": "Watch",
+      "meaning": "Đồng hồ đeo tay",
+      "pos": "noun",
+      "example": "My watch stopped working.",
+      "pronunciation": "/wɑːtʃ/"
+    },
+    {
+      "word": "Jewelry",
+      "meaning": "Trang sức",
+      "pos": "noun",
+      "example": "She loves wearing jewelry.",
+      "pronunciation": "/ˈdʒuːəlri/"
+    },
+    {
+      "word": "Ring",
+      "meaning": "Nhẫn",
+      "pos": "noun",
+      "example": "The wedding ring is gold.",
+      "pronunciation": "/rɪŋ/"
+    },
+    {
+      "word": "Necklace",
+      "meaning": "Dây chuyền",
+      "pos": "noun",
+      "example": "This necklace is very expensive.",
+      "pronunciation": "/ˈnekləs/"
+    },
+    {
+      "word": "Earrings",
+      "meaning": "Bông tai",
+      "pos": "noun",
+      "example": "Her earrings are beautiful.",
+      "pronunciation": "/ˈɪrɪŋz/"
+    },
+    {
+      "word": "Uniform",
+      "meaning": "Đồng phục",
+      "pos": "noun",
+      "example": "Students must wear school uniforms.",
+      "pronunciation": "/ˈjuːnɪfɔːrm/"
+    }
+  ]
+}

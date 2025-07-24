@@ -1,0 +1,184 @@
+{
+    "id": "shopping",
+    "name": "Mua sắm",
+    "level": "elementary",
+    "icon": "🛒",
+    "description": "Từ vựng về hoạt động mua sắm, cửa hàng và sản phẩm",
+    "words": [
+        {
+            "word": "Shop",
+            "meaning": "Cửa hàng",
+            "pos": "noun",
+            "example": "I go to the shop every day.",
+            "pronunciation": "/ʃɑːp/"
+        },
+        {
+            "word": "Store",
+            "meaning": "Cửa hiệu",
+            "pos": "noun",
+            "example": "The store opens at 8 AM.",
+            "pronunciation": "/stɔːr/"
+        },
+        {
+            "word": "Market",
+            "meaning": "Chợ",
+            "pos": "noun",
+            "example": "We buy vegetables at the market.",
+            "pronunciation": "/ˈmɑːrkɪt/"
+        },
+        {
+            "word": "Supermarket",
+            "meaning": "Siêu thị",
+            "pos": "noun",
+            "example": "The supermarket is very big.",
+            "pronunciation": "/ˈsuːpərˌmɑːrkɪt/"
+        },
+        {
+            "word": "Mall",
+            "meaning": "Trung tâm thương mại",
+            "pos": "noun",
+            "example": "Let's go to the mall this weekend.",
+            "pronunciation": "/mɔːl/"
+        },
+        {
+            "word": "Cashier",
+            "meaning": "Thu ngân",
+            "pos": "noun",
+            "example": "The cashier gave me change.",
+            "pronunciation": "/kæˈʃɪr/"
+        },
+        {
+            "word": "Customer",
+            "meaning": "Khách hàng",
+            "pos": "noun",
+            "example": "The customer is always right.",
+            "pronunciation": "/ˈkʌstəmər/"
+        },
+        {
+            "word": "Price",
+            "meaning": "Giá",
+            "pos": "noun",
+            "example": "What is the price of this shirt?",
+            "pronunciation": "/praɪs/"
+        },
+        {
+            "word": "Sale",
+            "meaning": "Giảm giá",
+            "pos": "noun",
+            "example": "There is a big sale today.",
+            "pronunciation": "/seɪl/"
+        },
+        {
+            "word": "Discount",
+            "meaning": "Chiết khấu",
+            "pos": "noun",
+            "example": "Can I get a discount?",
+            "pronunciation": "/ˈdɪskaʊnt/"
+        },
+        {
+            "word": "Receipt",
+            "meaning": "Hóa đơn",
+            "pos": "noun",
+            "example": "Keep the receipt for return.",
+            "pronunciation": "/rɪˈsiːt/"
+        },
+        {
+            "word": "Bag",
+            "meaning": "Túi",
+            "pos": "noun",
+            "example": "Put the apples in a bag.",
+            "pronunciation": "/bæɡ/"
+        },
+        {
+            "word": "Basket",
+            "meaning": "Giỏ",
+            "pos": "noun",
+            "example": "Use a basket for shopping.",
+            "pronunciation": "/ˈbæskɪt/"
+        },
+        {
+            "word": "Cart",
+            "meaning": "Xe đẩy",
+            "pos": "noun",
+            "example": "Push the cart down the aisle.",
+            "pronunciation": "/kɑːrt/"
+        },
+        {
+            "word": "Product",
+            "meaning": "Sản phẩm",
+            "pos": "noun",
+            "example": "This product is new.",
+            "pronunciation": "/ˈprɑːdʌkt/"
+        },
+        {
+            "word": "Brand",
+            "meaning": "Thương hiệu",
+            "pos": "noun",
+            "example": "Which brand do you prefer?",
+            "pronunciation": "/brænd/"
+        },
+        {
+            "word": "Cash",
+            "meaning": "Tiền mặt",
+            "pos": "noun",
+            "example": "Do you pay by cash or card?",
+            "pronunciation": "/kæʃ/"
+        },
+        {
+            "word": "Credit card",
+            "meaning": "Thẻ tín dụng",
+            "pos": "noun",
+            "example": "I paid by credit card.",
+            "pronunciation": "/ˈkredɪt kɑːrd/"
+        },
+        {
+            "word": "Change",
+            "meaning": "Tiền thừa",
+            "pos": "noun",
+            "example": "Here is your change.",
+            "pronunciation": "/tʃeɪndʒ/"
+        },
+        {
+            "word": "Exchange",
+            "meaning": "Đổi hàng",
+            "pos": "verb",
+            "example": "Can I exchange this shirt?",
+            "pronunciation": "/ɪksˈtʃeɪndʒ/"
+        },
+        {
+            "word": "Return",
+            "meaning": "Trả lại hàng",
+            "pos": "verb",
+            "example": "I want to return this item.",
+            "pronunciation": "/rɪˈtɜːrn/"
+        },
+        {
+            "word": "Try on",
+            "meaning": "Thử đồ",
+            "pos": "verb",
+            "example": "Can I try on these pants?",
+            "pronunciation": "/traɪ ɑːn/"
+        },
+        {
+            "word": "Size",
+            "meaning": "Kích cỡ",
+            "pos": "noun",
+            "example": "What size do you wear?",
+            "pronunciation": "/saɪz/"
+        },
+        {
+            "word": "Fit",
+            "meaning": "Vừa vặn",
+            "pos": "verb",
+            "example": "These shoes fit me well.",
+            "pronunciation": "/fɪt/"
+        },
+        {
+            "word": "Queue",
+            "meaning": "Xếp hàng",
+            "pos": "noun",
+            "example": "There is a long queue at the checkout.",
+            "pronunciation": "/kjuː/"
+        }
+    ]
+}

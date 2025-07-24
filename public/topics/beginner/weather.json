@@ -1,0 +1,219 @@
+{
+    "id": "weather",
+    "name": "Thời tiết",
+    "level": "beginner",
+    "icon": "☀️",
+    "description": "Từ vựng về các hiện tượng thời tiết và khí hậu",
+    "words": [
+        {
+            "word": "Weather",
+            "meaning": "Thời tiết",
+            "pos": "noun",
+            "example": "The weather is nice today.",
+            "pronunciation": "/ˈweðər/"
+        },
+        {
+            "word": "Sun",
+            "meaning": "Mặt trời",
+            "pos": "noun",
+            "example": "The sun is shining brightly.",
+            "pronunciation": "/sʌn/"
+        },
+        {
+            "word": "Sunny",
+            "meaning": "Có nắng",
+            "pos": "adjective",
+            "example": "It's a sunny day today.",
+            "pronunciation": "/ˈsʌni/"
+        },
+        {
+            "word": "Rain",
+            "meaning": "Mưa",
+            "pos": "noun",
+            "example": "The rain is falling heavily.",
+            "pronunciation": "/reɪn/"
+        },
+        {
+            "word": "Rainy",
+            "meaning": "Có mưa",
+            "pos": "adjective",
+            "example": "I don't like rainy days.",
+            "pronunciation": "/ˈreɪni/"
+        },
+        {
+            "word": "Cloud",
+            "meaning": "Đám mây",
+            "pos": "noun",
+            "example": "The clouds are white and fluffy.",
+            "pronunciation": "/klaʊd/"
+        },
+        {
+            "word": "Cloudy",
+            "meaning": "Có mây",
+            "pos": "adjective",
+            "example": "It's cloudy but not raining.",
+            "pronunciation": "/ˈklaʊdi/"
+        },
+        {
+            "word": "Wind",
+            "meaning": "Gió",
+            "pos": "noun",
+            "example": "The wind is blowing hard.",
+            "pronunciation": "/wɪnd/"
+        },
+        {
+            "word": "Windy",
+            "meaning": "Có gió",
+            "pos": "adjective",
+            "example": "It's too windy to fly a kite.",
+            "pronunciation": "/ˈwɪndi/"
+        },
+        {
+            "word": "Snow",
+            "meaning": "Tuyết",
+            "pos": "noun",
+            "example": "Snow is falling from the sky.",
+            "pronunciation": "/snoʊ/"
+        },
+        {
+            "word": "Snowy",
+            "meaning": "Có tuyết",
+            "pos": "adjective",
+            "example": "It's a snowy winter day.",
+            "pronunciation": "/ˈsnoʊi/"
+        },
+        {
+            "word": "Storm",
+            "meaning": "Bão",
+            "pos": "noun",
+            "example": "The storm is coming this way.",
+            "pronunciation": "/stɔːrm/"
+        },
+        {
+            "word": "Thunder",
+            "meaning": "Sấm",
+            "pos": "noun",
+            "example": "I can hear thunder in the distance.",
+            "pronunciation": "/ˈθʌndər/"
+        },
+        {
+            "word": "Lightning",
+            "meaning": "Chớp",
+            "pos": "noun",
+            "example": "Lightning lit up the sky.",
+            "pronunciation": "/ˈlaɪtnɪŋ/"
+        },
+        {
+            "word": "Hot",
+            "meaning": "Nóng",
+            "pos": "adjective",
+            "example": "Summer days are very hot.",
+            "pronunciation": "/hɑːt/"
+        },
+        {
+            "word": "Cold",
+            "meaning": "Lạnh",
+            "pos": "adjective",
+            "example": "Winter nights are cold.",
+            "pronunciation": "/koʊld/"
+        },
+        {
+            "word": "Warm",
+            "meaning": "Ấm",
+            "pos": "adjective",
+            "example": "Spring weather is warm and pleasant.",
+            "pronunciation": "/wɔːrm/"
+        },
+        {
+            "word": "Cool",
+            "meaning": "Mát",
+            "pos": "adjective",
+            "example": "Autumn evenings are cool.",
+            "pronunciation": "/kuːl/"
+        },
+        {
+            "word": "Temperature",
+            "meaning": "Nhiệt độ",
+            "pos": "noun",
+            "example": "The temperature is 25 degrees.",
+            "pronunciation": "/ˈtemprətʃər/"
+        },
+        {
+            "word": "Humidity",
+            "meaning": "Độ ẩm",
+            "pos": "noun",
+            "example": "High humidity makes it feel hotter.",
+            "pronunciation": "/hjuːˈmɪdəti/"
+        },
+        {
+            "word": "Fog",
+            "meaning": "Sương mù",
+            "pos": "noun",
+            "example": "Thick fog covers the city.",
+            "pronunciation": "/fɔːɡ/"
+        },
+        {
+            "word": "Foggy",
+            "meaning": "Có sương mù",
+            "pos": "adjective",
+            "example": "It's too foggy to drive safely.",
+            "pronunciation": "/ˈfɔːɡi/"
+        },
+        {
+            "word": "Ice",
+            "meaning": "Băng",
+            "pos": "noun",
+            "example": "The lake is covered with ice.",
+            "pronunciation": "/aɪs/"
+        },
+        {
+            "word": "Icy",
+            "meaning": "Băng giá",
+            "pos": "adjective",
+            "example": "Be careful on icy roads.",
+            "pronunciation": "/ˈaɪsi/"
+        },
+        {
+            "word": "Forecast",
+            "meaning": "Dự báo",
+            "pos": "noun",
+            "example": "The weather forecast says rain.",
+            "pronunciation": "/ˈfɔːrkæst/"
+        },
+        {
+            "word": "Climate",
+            "meaning": "Khí hậu",
+            "pos": "noun",
+            "example": "This region has a tropical climate.",
+            "pronunciation": "/ˈklaɪmət/"
+        },
+        {
+            "word": "Umbrella",
+            "meaning": "Ô",
+            "pos": "noun",
+            "example": "Don't forget your umbrella.",
+            "pronunciation": "/ʌmˈbrelə/"
+        },
+        {
+            "word": "Raincoat",
+            "meaning": "Áo mưa",
+            "pos": "noun",
+            "example": "Wear a raincoat when it rains.",
+            "pronunciation": "/ˈreɪnkoʊt/"
+        },
+        {
+            "word": "Rainbow",
+            "meaning": "Cầu vồng",
+            "pos": "noun",
+            "example": "A beautiful rainbow appeared after rain.",
+            "pronunciation": "/ˈreɪnboʊ/"
+        },
+        {
+            "word": "Seasons",
+            "meaning": "Các mùa",
+            "pos": "noun",
+            "example": "There are four seasons in a year.",
+            "pronunciation": "/ˈsiːzənz/"
+        }
+    ]
+}

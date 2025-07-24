@@ -1,0 +1,331 @@
+{
+  "id": "travel",
+  "name": "Du lịch & địa điểm công cộng",
+  "level": "pre-intermediate",
+  "icon": "✈️",
+  "description": "Từ vựng về du lịch, giao thông và các địa điểm công cộng",
+  "words": [
+    {
+      "word": "Travel",
+      "meaning": "Du lịch",
+      "pos": "verb",
+      "example": "I love to travel around the world.",
+      "pronunciation": "/ˈtrævəl/"
+    },
+    {
+      "word": "Trip",
+      "meaning": "Chuyến đi",
+      "pos": "noun",
+      "example": "We had a wonderful trip to Japan.",
+      "pronunciation": "/trɪp/"
+    },
+    {
+      "word": "Journey",
+      "meaning": "Hành trình",
+      "pos": "noun",
+      "example": "The journey took five hours.",
+      "pronunciation": "/ˈdʒɜːrni/"
+    },
+    {
+      "word": "Vacation",
+      "meaning": "Kỳ nghỉ",
+      "pos": "noun",
+      "example": "Summer vacation is coming soon.",
+      "pronunciation": "/veɪˈkeɪʃən/"
+    },
+    {
+      "word": "Holiday",
+      "meaning": "Ngày lễ/Nghỉ mát",
+      "pos": "noun",
+      "example": "We're going on holiday next week.",
+      "pronunciation": "/ˈhɑːlədeɪ/"
+    },
+    {
+      "word": "Tourist",
+      "meaning": "Du khách",
+      "pos": "noun",
+      "example": "Many tourists visit Vietnam.",
+      "pronunciation": "/ˈtʊrɪst/"
+    },
+    {
+      "word": "Airport",
+      "meaning": "Sân bay",
+      "pos": "noun",
+      "example": "The airport is very busy today.",
+      "pronunciation": "/ˈerpɔːrt/"
+    },
+    {
+      "word": "Flight",
+      "meaning": "Chuyến bay",
+      "pos": "noun",
+      "example": "My flight is delayed.",
+      "pronunciation": "/flaɪt/"
+    },
+    {
+      "word": "Airplane",
+      "meaning": "Máy bay",
+      "pos": "noun",
+      "example": "The airplane is flying overhead.",
+      "pronunciation": "/ˈerplen/"
+    },
+    {
+      "word": "Passport",
+      "meaning": "Hộ chiếu",
+      "pos": "noun",
+      "example": "Don't forget your passport.",
+      "pronunciation": "/ˈpæspɔːrt/"
+    },
+    {
+      "word": "Visa",
+      "meaning": "Thị thực",
+      "pos": "noun",
+      "example": "I need a visa to enter that country.",
+      "pronunciation": "/ˈviːzə/"
+    },
+    {
+      "word": "Luggage",
+      "meaning": "Hành lý",
+      "pos": "noun",
+      "example": "My luggage is very heavy.",
+      "pronunciation": "/ˈlʌɡɪdʒ/"
+    },
+    {
+      "word": "Suitcase",
+      "meaning": "Vali",
+      "pos": "noun",
+      "example": "Pack your clothes in the suitcase.",
+      "pronunciation": "/ˈsuːtkeɪs/"
+    },
+    {
+      "word": "Hotel",
+      "meaning": "Khách sạn",
+      "pos": "noun",
+      "example": "We stayed at a nice hotel.",
+      "pronunciation": "/hoʊˈtel/"
+    },
+    {
+      "word": "Motel",
+      "meaning": "Nhà nghỉ",
+      "pos": "noun",
+      "example": "The motel is cheap but clean.",
+      "pronunciation": "/moʊˈtel/"
+    },
+    {
+      "word": "Hostel",
+      "meaning": "Nhà trọ",
+      "pos": "noun",
+      "example": "Students often stay in hostels.",
+      "pronunciation": "/ˈhɑːstəl/"
+    },
+    {
+      "word": "Reservation",
+      "meaning": "Đặt chỗ",
+      "pos": "noun",
+      "example": "I have a reservation under my name.",
+      "pronunciation": "/ˌrezərˈveɪʃən/"
+    },
+    {
+      "word": "Check-in",
+      "meaning": "Làm thủ tục nhận phòng",
+      "pos": "noun",
+      "example": "Hotel check-in is at 3 PM.",
+      "pronunciation": "/ˈtʃek ɪn/"
+    },
+    {
+      "word": "Check-out",
+      "meaning": "Làm thủ tục trả phòng",
+      "pos": "noun",
+      "example": "Check-out time is 11 AM.",
+      "pronunciation": "/ˈtʃek aʊt/"
+    },
+    {
+      "word": "Museum",
+      "meaning": "Bảo tàng",
+      "pos": "noun",
+      "example": "The museum has ancient artifacts.",
+      "pronunciation": "/mjuˈziːəm/"
+    },
+    {
+      "word": "Gallery",
+      "meaning": "Phòng trưng bày",
+      "pos": "noun",
+      "example": "The art gallery is beautiful.",
+      "pronunciation": "/ˈɡæləri/"
+    },
+    {
+      "word": "Castle",
+      "meaning": "Lâu đài",
+      "pos": "noun",
+      "example": "The castle is very old.",
+      "pronunciation": "/ˈkæsəl/"
+    },
+    {
+      "word": "Temple",
+      "meaning": "Chùa/Đền",
+      "pos": "noun",
+      "example": "The temple is a sacred place.",
+      "pronunciation": "/ˈtempəl/"
+    },
+    {
+      "word": "Church",
+      "meaning": "Nhà thờ",
+      "pos": "noun",
+      "example": "The church bells are ringing.",
+      "pronunciation": "/tʃɜːrtʃ/"
+    },
+    {
+      "word": "Market",
+      "meaning": "Chợ",
+      "pos": "noun",
+      "example": "Buy fresh food at the market.",
+      "pronunciation": "/ˈmɑːrkɪt/"
+    },
+    {
+      "word": "Square",
+      "meaning": "Quảng trường",
+      "pos": "noun",
+      "example": "People gather in the town square.",
+      "pronunciation": "/skwer/"
+    },
+    {
+      "word": "Beach",
+      "meaning": "Bãi biển",
+      "pos": "noun",
+      "example": "The beach has white sand.",
+      "pronunciation": "/biːtʃ/"
+    },
+    {
+      "word": "Mountain",
+      "meaning": "Núi",
+      "pos": "noun",
+      "example": "The mountain is very high.",
+      "pronunciation": "/ˈmaʊntən/"
+    },
+    {
+      "word": "Forest",
+      "meaning": "Rừng",
+      "pos": "noun",
+      "example": "Wild animals live in the forest.",
+      "pronunciation": "/ˈfɔːrəst/"
+    },
+    {
+      "word": "Lake",
+      "meaning": "Hồ",
+      "pos": "noun",
+      "example": "The lake is very peaceful.",
+      "pronunciation": "/leɪk/"
+    },
+    {
+      "word": "River",
+      "meaning": "Sông",
+      "pos": "noun",
+      "example": "Fish swim in the river.",
+      "pronunciation": "/ˈrɪvər/"
+    },
+    {
+      "word": "Bridge",
+      "meaning": "Cầu",
+      "pos": "noun",
+      "example": "Cross the bridge carefully.",
+      "pronunciation": "/brɪdʒ/"
+    },
+    {
+      "word": "Island",
+      "meaning": "Đảo",
+      "pos": "noun",
+      "example": "The island is surrounded by water.",
+      "pronunciation": "/ˈaɪlənd/"
+    },
+    {
+      "word": "Park",
+      "meaning": "Công viên",
+      "pos": "noun",
+      "example": "Children play in the park.",
+      "pronunciation": "/pɑːrk/"
+    },
+    {
+      "word": "Zoo",
+      "meaning": "Sở thú",
+      "pos": "noun",
+      "example": "We saw many animals at the zoo.",
+      "pronunciation": "/zuː/"
+    },
+    {
+      "word": "Stadium",
+      "meaning": "Sân vận động",
+      "pos": "noun",
+      "example": "The stadium holds 50,000 people.",
+      "pronunciation": "/ˈsteɪdiəm/"
+    },
+    {
+      "word": "Theater",
+      "meaning": "Rạp hát",
+      "pos": "noun",
+      "example": "We watched a play at the theater.",
+      "pronunciation": "/ˈθiːətər/"
+    },
+    {
+      "word": "Cinema",
+      "meaning": "Rạp chiếu phim",
+      "pos": "noun",
+      "example": "Let's go to the cinema tonight.",
+      "pronunciation": "/ˈsɪnəmə/"
+    },
+    {
+      "word": "Library",
+      "meaning": "Thư viện",
+      "pos": "noun",
+      "example": "I borrow books from the library.",
+      "pronunciation": "/ˈlaɪbreri/"
+    },
+    {
+      "word": "Hospital",
+      "meaning": "Bệnh viện",
+      "pos": "noun",
+      "example": "The hospital is open 24 hours.",
+      "pronunciation": "/ˈhɑːspɪtəl/"
+    },
+    {
+      "word": "Bank",
+      "meaning": "Ngân hàng",
+      "pos": "noun",
+      "example": "I need to go to the bank.",
+      "pronunciation": "/bæŋk/"
+    },
+    {
+      "word": "Post office",
+      "meaning": "Bưu điện",
+      "pos": "noun",
+      "example": "Send the letter at the post office.",
+      "pronunciation": "/poʊst ˈɔːfɪs/"
+    },
+    {
+      "word": "Station",
+      "meaning": "Ga/Trạm",
+      "pos": "noun",
+      "example": "The train station is crowded.",
+      "pronunciation": "/ˈsteɪʃən/"
+    },
+    {
+      "word": "Map",
+      "meaning": "Bản đồ",
+      "pos": "noun",
+      "example": "Use the map to find your way.",
+      "pronunciation": "/mæp/"
+    },
+    {
+      "word": "Guide",
+      "meaning": "Hướng dẫn viên",
+      "pos": "noun",
+      "example": "The tour guide was very helpful.",
+      "pronunciation": "/ɡaɪd/"
+    },
+    {
+      "word": "Souvenir",
+      "meaning": "Quà lưu niệm",
+      "pos": "noun",
+      "example": "I bought souvenirs for my family.",
+      "pronunciation": "/ˌsuːvəˈnɪr/"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+    "id": "hobbies-interests",
+    "name": "Sở thích & quan tâm",
+    "level": "pre-intermediate",
+    "icon": "🎨",
+    "description": "Từ vựng về sở thích, hoạt động giải trí, đam mê cá nhân",
+    "words": [
+        {
+            "word": "Hobby",
+            "meaning": "Sở thích",
+            "pos": "noun",
+            "example": "Reading is my hobby.",
+            "pronunciation": "/ˈhɑːbi/"
+        },
+        {
+            "word": "Interest",
+            "meaning": "Quan tâm",
+            "pos": "noun",
+            "example": "I have many interests.",
+            "pronunciation": "/ˈɪntrəst/"
+        },
+        {
+            "word": "Collect",
+            "meaning": "Sưu tầm",
+            "pos": "verb",
+            "example": "I collect stamps.",
+            "pronunciation": "/kəˈlekt/"
+        },
+        {
+            "word": "Painting",
+            "meaning": "Vẽ tranh",
+            "pos": "noun",
+            "example": "Painting relaxes me.",
+            "pronunciation": "/ˈpeɪntɪŋ/"
+        },
+        {
+            "word": "Photography",
+            "meaning": "Nhiếp ảnh",
+            "pos": "noun",
+            "example": "Photography is a popular hobby.",
+            "pronunciation": "/fəˈtɑːɡrəfi/"
+        },
+        {
+            "word": "Gardening",
+            "meaning": "Làm vườn",
+            "pos": "noun",
+            "example": "Gardening is good for health.",
+            "pronunciation": "/ˈɡɑːrdnɪŋ/"
+        },
+        {
+            "word": "Cooking",
+            "meaning": "Nấu ăn",
+            "pos": "noun",
+            "example": "Cooking is my passion.",
+            "pronunciation": "/ˈkʊkɪŋ/"
+        },
+        {
+            "word": "Dancing",
+            "meaning": "Nhảy múa",
+            "pos": "noun",
+            "example": "Dancing is fun.",
+            "pronunciation": "/ˈdænsɪŋ/"
+        },
+        {
+            "word": "Singing",
+            "meaning": "Hát",
+            "pos": "noun",
+            "example": "Singing makes me happy.",
+            "pronunciation": "/ˈsɪŋɪŋ/"
+        },
+        {
+            "word": "Traveling",
+            "meaning": "Du lịch",
+            "pos": "noun",
+            "example": "Traveling broadens the mind.",
+            "pronunciation": "/ˈtrævəlɪŋ/"
+        },
+        {
+            "word": "Fishing",
+            "meaning": "Câu cá",
+            "pos": "noun",
+            "example": "Fishing is relaxing.",
+            "pronunciation": "/ˈfɪʃɪŋ/"
+        },
+        {
+            "word": "Cycling",
+            "meaning": "Đạp xe",
+            "pos": "noun",
+            "example": "Cycling is good exercise.",
+            "pronunciation": "/ˈsaɪklɪŋ/"
+        },
+        {
+            "word": "Knitting",
+            "meaning": "Đan len",
+            "pos": "noun",
+            "example": "Knitting is creative.",
+            "pronunciation": "/ˈnɪtɪŋ/"
+        },
+        {
+            "word": "Board games",
+            "meaning": "Trò chơi bàn cờ",
+            "pos": "noun",
+            "example": "We play board games on weekends.",
+            "pronunciation": "/bɔːrd ɡeɪmz/"
+        },
+        {
+            "word": "Playing cards",
+            "meaning": "Chơi bài",
+            "pos": "noun",
+            "example": "Playing cards is a family activity.",
+            "pronunciation": "/ˈpleɪɪŋ kɑːrdz/"
+        }
+    ]
+}

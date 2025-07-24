@@ -1,0 +1,331 @@
+{
+  "id": "health",
+  "name": "Sức khỏe và bệnh tật",
+  "level": "pre-intermediate",
+  "icon": "🏥",
+  "description": "Từ vựng về sức khỏe, y tế và các bệnh thường gặp",
+  "words": [
+    {
+      "word": "Health",
+      "meaning": "Sức khỏe",
+      "pos": "noun",
+      "example": "Good health is very important.",
+      "pronunciation": "/helθ/"
+    },
+    {
+      "word": "Healthy",
+      "meaning": "Khỏe mạnh",
+      "pos": "adjective",
+      "example": "Eating vegetables keeps you healthy.",
+      "pronunciation": "/ˈhelθi/"
+    },
+    {
+      "word": "Sick",
+      "meaning": "Ốm",
+      "pos": "adjective",
+      "example": "I feel sick today.",
+      "pronunciation": "/sɪk/"
+    },
+    {
+      "word": "Illness",
+      "meaning": "Bệnh tật",
+      "pos": "noun",
+      "example": "He recovered from his illness.",
+      "pronunciation": "/ˈɪlnəs/"
+    },
+    {
+      "word": "Disease",
+      "meaning": "Bệnh",
+      "pos": "noun",
+      "example": "This disease is contagious.",
+      "pronunciation": "/dɪˈziːz/"
+    },
+    {
+      "word": "Pain",
+      "meaning": "Đau",
+      "pos": "noun",
+      "example": "The pain in my back is terrible.",
+      "pronunciation": "/peɪn/"
+    },
+    {
+      "word": "Hurt",
+      "meaning": "Đau",
+      "pos": "verb",
+      "example": "My head hurts.",
+      "pronunciation": "/hɜːrt/"
+    },
+    {
+      "word": "Ache",
+      "meaning": "Đau nhức",
+      "pos": "noun",
+      "example": "I have a stomach ache.",
+      "pronunciation": "/eɪk/"
+    },
+    {
+      "word": "Fever",
+      "meaning": "Sốt",
+      "pos": "noun",
+      "example": "The child has a high fever.",
+      "pronunciation": "/ˈfiːvər/"
+    },
+    {
+      "word": "Cold",
+      "meaning": "Cảm lạnh",
+      "pos": "noun",
+      "example": "I caught a cold yesterday.",
+      "pronunciation": "/koʊld/"
+    },
+    {
+      "word": "Flu",
+      "meaning": "Cúm",
+      "pos": "noun",
+      "example": "The flu spreads quickly.",
+      "pronunciation": "/fluː/"
+    },
+    {
+      "word": "Cough",
+      "meaning": "Ho",
+      "pos": "noun",
+      "example": "This cough won't go away.",
+      "pronunciation": "/kɔːf/"
+    },
+    {
+      "word": "Sneeze",
+      "meaning": "Hắt hơi",
+      "pos": "verb",
+      "example": "Cover your mouth when you sneeze.",
+      "pronunciation": "/sniːz/"
+    },
+    {
+      "word": "Headache",
+      "meaning": "Đau đầu",
+      "pos": "noun",
+      "example": "I have a terrible headache.",
+      "pronunciation": "/ˈhedeɪk/"
+    },
+    {
+      "word": "Toothache",
+      "meaning": "Đau răng",
+      "pos": "noun",
+      "example": "See a dentist for your toothache.",
+      "pronunciation": "/ˈtuːθeɪk/"
+    },
+    {
+      "word": "Stomachache",
+      "meaning": "Đau bụng",
+      "pos": "noun",
+      "example": "Eating too much causes stomachache.",
+      "pronunciation": "/ˈstʌməkeɪk/"
+    },
+    {
+      "word": "Backache",
+      "meaning": "Đau lưng",
+      "pos": "noun",
+      "example": "Sitting too long causes backache.",
+      "pronunciation": "/ˈbækeɪk/"
+    },
+    {
+      "word": "Sore throat",
+      "meaning": "Đau họng",
+      "pos": "noun",
+      "example": "Warm tea helps a sore throat.",
+      "pronunciation": "/sɔːr θroʊt/"
+    },
+    {
+      "word": "Injury",
+      "meaning": "Chấn thương",
+      "pos": "noun",
+      "example": "The sports injury was serious.",
+      "pronunciation": "/ˈɪndʒəri/"
+    },
+    {
+      "word": "Wound",
+      "meaning": "Vết thương",
+      "pos": "noun",
+      "example": "Clean the wound carefully.",
+      "pronunciation": "/wuːnd/"
+    },
+    {
+      "word": "Cut",
+      "meaning": "Vết cắt",
+      "pos": "noun",
+      "example": "Put a bandage on the cut.",
+      "pronunciation": "/kʌt/"
+    },
+    {
+      "word": "Burn",
+      "meaning": "Vết bỏng",
+      "pos": "noun",
+      "example": "Ice helps cool a burn.",
+      "pronunciation": "/bɜːrn/"
+    },
+    {
+      "word": "Bruise",
+      "meaning": "Vết bầm",
+      "pos": "noun",
+      "example": "The bruise turned purple.",
+      "pronunciation": "/bruːz/"
+    },
+    {
+      "word": "Broken bone",
+      "meaning": "Xương gãy",
+      "pos": "noun",
+      "example": "A broken bone needs time to heal.",
+      "pronunciation": "/ˈbroʊkən boʊn/"
+    },
+    {
+      "word": "Medicine",
+      "meaning": "Thuốc",
+      "pos": "noun",
+      "example": "Take this medicine twice daily.",
+      "pronunciation": "/ˈmedəsən/"
+    },
+    {
+      "word": "Pill",
+      "meaning": "Viên thuốc",
+      "pos": "noun",
+      "example": "Swallow the pill with water.",
+      "pronunciation": "/pɪl/"
+    },
+    {
+      "word": "Tablet",
+      "meaning": "Viên thuốc",
+      "pos": "noun",
+      "example": "Take one tablet before meals.",
+      "pronunciation": "/ˈtæblət/"
+    },
+    {
+      "word": "Injection",
+      "meaning": "Tiêm",
+      "pos": "noun",
+      "example": "The injection prevents disease.",
+      "pronunciation": "/ɪnˈdʒekʃən/"
+    },
+    {
+      "word": "Vaccine",
+      "meaning": "Vắc-xin",
+      "pos": "noun",
+      "example": "Get the vaccine to stay healthy.",
+      "pronunciation": "/vækˈsiːn/"
+    },
+    {
+      "word": "Treatment",
+      "meaning": "Điều trị",
+      "pos": "noun",
+      "example": "The treatment was successful.",
+      "pronunciation": "/ˈtriːtmənt/"
+    },
+    {
+      "word": "Cure",
+      "meaning": "Chữa khỏi",
+      "pos": "verb",
+      "example": "Rest will cure your headache.",
+      "pronunciation": "/kjʊr/"
+    },
+    {
+      "word": "Heal",
+      "meaning": "Lành",
+      "pos": "verb",
+      "example": "The wound will heal in a week.",
+      "pronunciation": "/hiːl/"
+    },
+    {
+      "word": "Recovery",
+      "meaning": "Hồi phục",
+      "pos": "noun",
+      "example": "His recovery was very quick.",
+      "pronunciation": "/rɪˈkʌvəri/"
+    },
+    {
+      "word": "Emergency",
+      "meaning": "Cấp cứu",
+      "pos": "noun",
+      "example": "Call 911 in an emergency.",
+      "pronunciation": "/ɪˈmɜːrdʒənsi/"
+    },
+    {
+      "word": "Ambulance",
+      "meaning": "Xe cứu thương",
+      "pos": "noun",
+      "example": "The ambulance arrived quickly.",
+      "pronunciation": "/ˈæmbjələns/"
+    },
+    {
+      "word": "Surgery",
+      "meaning": "Phẫu thuật",
+      "pos": "noun",
+      "example": "The surgery was successful.",
+      "pronunciation": "/ˈsɜːrdʒəri/"
+    },
+    {
+      "word": "Operation",
+      "meaning": "Ca phẫu thuật",
+      "pos": "noun",
+      "example": "The operation lasted three hours.",
+      "pronunciation": "/ˌɑːpəˈreɪʃən/"
+    },
+    {
+      "word": "Appointment",
+      "meaning": "Cuộc hẹn",
+      "pos": "noun",
+      "example": "I have a doctor's appointment.",
+      "pronunciation": "/əˈpɔɪntmənt/"
+    },
+    {
+      "word": "Examination",
+      "meaning": "Khám bệnh",
+      "pos": "noun",
+      "example": "The examination showed good health.",
+      "pronunciation": "/ɪɡˌzæməˈneɪʃən/"
+    },
+    {
+      "word": "Diagnosis",
+      "meaning": "Chẩn đoán",
+      "pos": "noun",
+      "example": "The diagnosis was accurate.",
+      "pronunciation": "/ˌdaɪəɡˈnoʊsəs/"
+    },
+    {
+      "word": "Symptom",
+      "meaning": "Triệu chứng",
+      "pos": "noun",
+      "example": "Fever is a common symptom.",
+      "pronunciation": "/ˈsɪmptəm/"
+    },
+    {
+      "word": "Patient",
+      "meaning": "Bệnh nhân",
+      "pos": "noun",
+      "example": "The patient is recovering well.",
+      "pronunciation": "/ˈpeɪʃənt/"
+    },
+    {
+      "word": "Prescription",
+      "meaning": "Đơn thuốc",
+      "pos": "noun",
+      "example": "Follow the prescription carefully.",
+      "pronunciation": "/prɪˈskrɪpʃən/"
+    },
+    {
+      "word": "Pharmacy",
+      "meaning": "Hiệu thuốc",
+      "pos": "noun",
+      "example": "Buy medicine at the pharmacy.",
+      "pronunciation": "/ˈfɑːrməsi/"
+    },
+    {
+      "word": "Dentist",
+      "meaning": "Nha sĩ",
+      "pos": "noun",
+      "example": "Visit the dentist regularly.",
+      "pronunciation": "/ˈdentɪst/"
+    },
+    {
+      "word": "Checkup",
+      "meaning": "Khám sức khỏe",
+      "pos": "noun",
+      "example": "Annual checkups are important.",
+      "pronunciation": "/ˈtʃekʌp/"
+    }
+  ]
+}

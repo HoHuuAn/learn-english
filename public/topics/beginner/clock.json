@@ -1,0 +1,184 @@
+{
+  "id": "clock",
+  "name": "Thời gian & Giờ giấc",
+  "level": "beginner",
+  "icon": "🕐",
+  "description": "Từ vựng về giờ giấc và thời gian trong ngày",
+  "words": [
+    {
+      "word": "Clock",
+      "meaning": "Đồng hồ",
+      "pos": "noun",
+      "example": "The clock shows 3 o'clock.",
+      "pronunciation": "/klɑːk/"
+    },
+    {
+      "word": "Time",
+      "meaning": "Thời gian",
+      "pos": "noun",
+      "example": "What time is it?",
+      "pronunciation": "/taɪm/"
+    },
+    {
+      "word": "Hour",
+      "meaning": "Giờ",
+      "pos": "noun",
+      "example": "I waited for one hour.",
+      "pronunciation": "/aʊr/"
+    },
+    {
+      "word": "Minute",
+      "meaning": "Phút",
+      "pos": "noun",
+      "example": "Wait a minute, please.",
+      "pronunciation": "/ˈmɪnɪt/"
+    },
+    {
+      "word": "Second",
+      "meaning": "Giây",
+      "pos": "noun",
+      "example": "It takes 60 seconds to make a minute.",
+      "pronunciation": "/ˈsekənd/"
+    },
+    {
+      "word": "Morning",
+      "meaning": "Buổi sáng",
+      "pos": "noun",
+      "example": "I exercise every morning.",
+      "pronunciation": "/ˈmɔːrnɪŋ/"
+    },
+    {
+      "word": "Afternoon",
+      "meaning": "Buổi chiều",
+      "pos": "noun",
+      "example": "Good afternoon, everyone!",
+      "pronunciation": "/ˌæftərˈnuːn/"
+    },
+    {
+      "word": "Evening",
+      "meaning": "Buổi tối",
+      "pos": "noun",
+      "example": "We have dinner in the evening.",
+      "pronunciation": "/ˈiːvnɪŋ/"
+    },
+    {
+      "word": "Night",
+      "meaning": "Ban đêm",
+      "pos": "noun",
+      "example": "Good night, sleep well!",
+      "pronunciation": "/naɪt/"
+    },
+    {
+      "word": "Midnight",
+      "meaning": "Nửa đêm",
+      "pos": "noun",
+      "example": "The party ends at midnight.",
+      "pronunciation": "/ˈmɪdnaɪt/"
+    },
+    {
+      "word": "Noon",
+      "meaning": "Buổi trưa",
+      "pos": "noun",
+      "example": "We eat lunch at noon.",
+      "pronunciation": "/nuːn/"
+    },
+    {
+      "word": "Early",
+      "meaning": "Sớm",
+      "pos": "adverb",
+      "example": "I wake up early every day.",
+      "pronunciation": "/ˈɜːrli/"
+    },
+    {
+      "word": "Late",
+      "meaning": "Muộn",
+      "pos": "adverb",
+      "example": "Don't be late for school.",
+      "pronunciation": "/leɪt/"
+    },
+    {
+      "word": "On time",
+      "meaning": "Đúng giờ",
+      "pos": "phrase",
+      "example": "Please arrive on time.",
+      "pronunciation": "/ɑːn taɪm/"
+    },
+    {
+      "word": "Schedule",
+      "meaning": "Lịch trình",
+      "pos": "noun",
+      "example": "Check your schedule for tomorrow.",
+      "pronunciation": "/ˈskedʒuːl/"
+    },
+    {
+      "word": "Alarm",
+      "meaning": "Báo thức",
+      "pos": "noun",
+      "example": "Set the alarm for 7 AM.",
+      "pronunciation": "/əˈlɑːrm/"
+    },
+    {
+      "word": "Watch",
+      "meaning": "Đồng hồ đeo tay",
+      "pos": "noun",
+      "example": "My watch is very accurate.",
+      "pronunciation": "/wɑːtʃ/"
+    },
+    {
+      "word": "Now",
+      "meaning": "Bây giờ",
+      "pos": "adverb",
+      "example": "Come here now!",
+      "pronunciation": "/naʊ/"
+    },
+    {
+      "word": "Then",
+      "meaning": "Khi đó",
+      "pos": "adverb",
+      "example": "First study, then play.",
+      "pronunciation": "/ðen/"
+    },
+    {
+      "word": "Soon",
+      "meaning": "Sớm",
+      "pos": "adverb",
+      "example": "I'll be there soon.",
+      "pronunciation": "/suːn/"
+    },
+    {
+      "word": "Before",
+      "meaning": "Trước",
+      "pos": "preposition",
+      "example": "Come before 5 PM.",
+      "pronunciation": "/bɪˈfɔːr/"
+    },
+    {
+      "word": "After",
+      "meaning": "Sau",
+      "pos": "preposition",
+      "example": "After lunch, we'll go out.",
+      "pronunciation": "/ˈæftər/"
+    },
+    {
+      "word": "During",
+      "meaning": "Trong lúc",
+      "pos": "preposition",
+      "example": "Don't talk during the movie.",
+      "pronunciation": "/ˈdʊrɪŋ/"
+    },
+    {
+      "word": "While",
+      "meaning": "Trong khi",
+      "pos": "conjunction",
+      "example": "I read while waiting.",
+      "pronunciation": "/waɪl/"
+    },
+    {
+      "word": "Always",
+      "meaning": "Luôn luôn",
+      "pos": "adverb",
+      "example": "I always brush my teeth.",
+      "pronunciation": "/ˈɔːlweɪz/"
+    }
+  ]
+}

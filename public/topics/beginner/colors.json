@@ -1,0 +1,149 @@
+{
+    "id": "colors",
+    "name": "Màu sắc",
+    "level": "beginner",
+    "icon": "🎨",
+    "description": "Các màu sắc cơ bản và nâng cao, từ vựng mô tả màu sắc",
+    "words": [
+        {
+            "word": "Color",
+            "meaning": "Màu sắc",
+            "pos": "noun",
+            "example": "What's your favorite color?",
+            "pronunciation": "/ˈkʌlər/"
+        },
+        {
+            "word": "Red",
+            "meaning": "Màu đỏ",
+            "pos": "adjective",
+            "example": "She wore a red dress.",
+            "pronunciation": "/red/"
+        },
+        {
+            "word": "Blue",
+            "meaning": "Màu xanh dương",
+            "pos": "adjective",
+            "example": "The sky is blue today.",
+            "pronunciation": "/bluː/"
+        },
+        {
+            "word": "Green",
+            "meaning": "Màu xanh lá",
+            "pos": "adjective",
+            "example": "The grass is green.",
+            "pronunciation": "/ɡriːn/"
+        },
+        {
+            "word": "Yellow",
+            "meaning": "Màu vàng",
+            "pos": "adjective",
+            "example": "The sun looks yellow.",
+            "pronunciation": "/ˈjeloʊ/"
+        },
+        {
+            "word": "Orange",
+            "meaning": "Màu cam",
+            "pos": "adjective",
+            "example": "The orange is orange.",
+            "pronunciation": "/ˈɔːrɪndʒ/"
+        },
+        {
+            "word": "Purple",
+            "meaning": "Màu tím",
+            "pos": "adjective",
+            "example": "Purple is a royal color.",
+            "pronunciation": "/ˈpɜːrpəl/"
+        },
+        {
+            "word": "Pink",
+            "meaning": "Màu hồng",
+            "pos": "adjective",
+            "example": "Pink flowers are beautiful.",
+            "pronunciation": "/pɪŋk/"
+        },
+        {
+            "word": "Brown",
+            "meaning": "Màu nâu",
+            "pos": "adjective",
+            "example": "He has brown eyes.",
+            "pronunciation": "/braʊn/"
+        },
+        {
+            "word": "Black",
+            "meaning": "Màu đen",
+            "pos": "adjective",
+            "example": "I like black coffee.",
+            "pronunciation": "/blæk/"
+        },
+        {
+            "word": "White",
+            "meaning": "Màu trắng",
+            "pos": "adjective",
+            "example": "Snow is white.",
+            "pronunciation": "/waɪt/"
+        },
+        {
+            "word": "Gray",
+            "meaning": "Màu xám",
+            "pos": "adjective",
+            "example": "The clouds are gray.",
+            "pronunciation": "/ɡreɪ/"
+        },
+        {
+            "word": "Silver",
+            "meaning": "Màu bạc",
+            "pos": "adjective",
+            "example": "She has silver jewelry.",
+            "pronunciation": "/ˈsɪlvər/"
+        },
+        {
+            "word": "Gold",
+            "meaning": "Màu vàng kim",
+            "pos": "adjective",
+            "example": "The ring is gold.",
+            "pronunciation": "/ɡoʊld/"
+        },
+        {
+            "word": "Dark",
+            "meaning": "Tối, đậm",
+            "pos": "adjective",
+            "example": "Dark blue is my favorite.",
+            "pronunciation": "/dɑːrk/"
+        },
+        {
+            "word": "Light",
+            "meaning": "Nhạt, sáng",
+            "pos": "adjective",
+            "example": "Light green looks nice.",
+            "pronunciation": "/laɪt/"
+        },
+        {
+            "word": "Bright",
+            "meaning": "Sáng, rực rỡ",
+            "pos": "adjective",
+            "example": "Bright colors make me happy.",
+            "pronunciation": "/braɪt/"
+        },
+        {
+            "word": "Pale",
+            "meaning": "Nhạt",
+            "pos": "adjective",
+            "example": "She wore a pale pink shirt.",
+            "pronunciation": "/peɪl/"
+        },
+        {
+            "word": "Rainbow",
+            "meaning": "Cầu vồng",
+            "pos": "noun",
+            "example": "I can see a rainbow after the rain.",
+            "pronunciation": "/ˈreɪnboʊ/"
+        },
+        {
+            "word": "Colorful",
+            "meaning": "Đầy màu sắc",
+            "pos": "adjective",
+            "example": "The garden is very colorful.",
+            "pronunciation": "/ˈkʌlərfəl/"
+        }
+    ]
+}

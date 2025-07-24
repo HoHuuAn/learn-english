@@ -1,0 +1,219 @@
+{
+    "id": "family",
+    "name": "Gia đình",
+    "level": "beginner",
+    "icon": "👨‍👩‍👧‍👦",
+    "description": "Từ vựng về các thành viên trong gia đình và mối quan hệ họ hàng",
+    "words": [
+        {
+            "word": "Family",
+            "meaning": "Gia đình",
+            "pos": "noun",
+            "example": "Family is everything to me.",
+            "pronunciation": "/ˈfæməli/"
+        },
+        {
+            "word": "Father",
+            "meaning": "Cha, bố",
+            "pos": "noun",
+            "example": "My father is a doctor.",
+            "pronunciation": "/ˈfɑːðər/"
+        },
+        {
+            "word": "Dad",
+            "meaning": "Bố (thân mật)",
+            "pos": "noun",
+            "example": "Dad, can you help me?",
+            "pronunciation": "/dæd/"
+        },
+        {
+            "word": "Daddy",
+            "meaning": "Ba (trẻ em gọi)",
+            "pos": "noun",
+            "example": "Daddy, read me a story!",
+            "pronunciation": "/ˈdædi/"
+        },
+        {
+            "word": "Mother",
+            "meaning": "Mẹ",
+            "pos": "noun",
+            "example": "Mother is cooking dinner.",
+            "pronunciation": "/ˈmʌðər/"
+        },
+        {
+            "word": "Mom",
+            "meaning": "Mẹ (thân mật)",
+            "pos": "noun",
+            "example": "Mom, I'm home!",
+            "pronunciation": "/mɑːm/"
+        },
+        {
+            "word": "Mommy",
+            "meaning": "Mẹ (trẻ em gọi)",
+            "pos": "noun",
+            "example": "Mommy, I love you!",
+            "pronunciation": "/ˈmɑːmi/"
+        },
+        {
+            "word": "Parent",
+            "meaning": "Phụ huynh",
+            "pos": "noun",
+            "example": "Every parent loves their children.",
+            "pronunciation": "/ˈperənt/"
+        },
+        {
+            "word": "Parents",
+            "meaning": "Cha mẹ",
+            "pos": "noun",
+            "example": "My parents are very kind.",
+            "pronunciation": "/ˈperənts/"
+        },
+        {
+            "word": "Son",
+            "meaning": "Con trai",
+            "pos": "noun",
+            "example": "They have two sons.",
+            "pronunciation": "/sʌn/"
+        },
+        {
+            "word": "Daughter",
+            "meaning": "Con gái",
+            "pos": "noun",
+            "example": "Their daughter is a teacher.",
+            "pronunciation": "/ˈdɔːtər/"
+        },
+        {
+            "word": "Child",
+            "meaning": "Đứa trẻ, con",
+            "pos": "noun",
+            "example": "Every child needs love.",
+            "pronunciation": "/tʃaɪld/"
+        },
+        {
+            "word": "Children",
+            "meaning": "Những đứa trẻ",
+            "pos": "noun",
+            "example": "The children are playing.",
+            "pronunciation": "/ˈtʃɪldrən/"
+        },
+        {
+            "word": "Brother",
+            "meaning": "Anh trai/em trai",
+            "pos": "noun",
+            "example": "My brother is 20 years old.",
+            "pronunciation": "/ˈbrʌðər/"
+        },
+        {
+            "word": "Sister",
+            "meaning": "Chị gái/em gái",
+            "pos": "noun",
+            "example": "I have one older sister.",
+            "pronunciation": "/ˈsɪstər/"
+        },
+        {
+            "word": "Sibling",
+            "meaning": "Anh chị em ruột",
+            "pos": "noun",
+            "example": "I have three siblings.",
+            "pronunciation": "/ˈsɪblɪŋ/"
+        },
+        {
+            "word": "Grandfather",
+            "meaning": "Ông (nội/ngoại)",
+            "pos": "noun",
+            "example": "My grandfather is 75 years old.",
+            "pronunciation": "/ˈɡrændfɑːðər/"
+        },
+        {
+            "word": "Grandpa",
+            "meaning": "Ông (thân mật)",
+            "pos": "noun",
+            "example": "Grandpa tells funny stories.",
+            "pronunciation": "/ˈɡrænpɑː/"
+        },
+        {
+            "word": "Grandmother",
+            "meaning": "Bà (nội/ngoại)",
+            "pos": "noun",
+            "example": "Grandmother makes delicious cookies.",
+            "pronunciation": "/ˈɡrænmʌðər/"
+        },
+        {
+            "word": "Grandma",
+            "meaning": "Bà (thân mật)",
+            "pos": "noun",
+            "example": "Grandma lives with us.",
+            "pronunciation": "/ˈɡrænmɑː/"
+        },
+        {
+            "word": "Uncle",
+            "meaning": "Chú/bác/cậu",
+            "pos": "noun",
+            "example": "Uncle Tom is very funny.",
+            "pronunciation": "/ˈʌŋkəl/"
+        },
+        {
+            "word": "Aunt",
+            "meaning": "Cô/dì/thím/bác gái",
+            "pos": "noun",
+            "example": "Aunt Mary is a nurse.",
+            "pronunciation": "/ænt/"
+        },
+        {
+            "word": "Cousin",
+            "meaning": "Anh/chị/em họ",
+            "pos": "noun",
+            "example": "My cousin lives in Canada.",
+            "pronunciation": "/ˈkʌzən/"
+        },
+        {
+            "word": "Husband",
+            "meaning": "Chồng",
+            "pos": "noun",
+            "example": "Her husband is a chef.",
+            "pronunciation": "/ˈhʌzbənd/"
+        },
+        {
+            "word": "Wife",
+            "meaning": "Vợ",
+            "pos": "noun",
+            "example": "His wife is very beautiful.",
+            "pronunciation": "/waɪf/"
+        },
+        {
+            "word": "Baby",
+            "meaning": "Em bé",
+            "pos": "noun",
+            "example": "The baby is sleeping.",
+            "pronunciation": "/ˈbeɪbi/"
+        },
+        {
+            "word": "Relative",
+            "meaning": "Họ hàng",
+            "pos": "noun",
+            "example": "We visit our relatives every year.",
+            "pronunciation": "/ˈrelətɪv/"
+        },
+        {
+            "word": "Marriage",
+            "meaning": "Hôn nhân",
+            "pos": "noun",
+            "example": "Marriage requires love and trust.",
+            "pronunciation": "/ˈmærɪdʒ/"
+        },
+        {
+            "word": "Married",
+            "meaning": "Đã kết hôn",
+            "pos": "adjective",
+            "example": "They have been married for 10 years.",
+            "pronunciation": "/ˈmærid/"
+        },
+        {
+            "word": "Single",
+            "meaning": "Độc thân",
+            "pos": "adjective",
+            "example": "She is still single.",
+            "pronunciation": "/ˈsɪŋɡəl/"
+        }
+    ]
+}

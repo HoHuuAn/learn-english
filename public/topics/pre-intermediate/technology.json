@@ -1,0 +1,331 @@
+{
+  "id": "technology",
+  "name": "Công nghệ cơ bản",
+  "level": "pre-intermediate",
+  "icon": "💻",
+  "description": "Từ vựng về công nghệ, máy tính và thiết bị điện tử",
+  "words": [
+    {
+      "word": "Technology",
+      "meaning": "Công nghệ",
+      "pos": "noun",
+      "example": "Technology changes our lives.",
+      "pronunciation": "/tekˈnɑːlədʒi/"
+    },
+    {
+      "word": "Computer",
+      "meaning": "Máy tính",
+      "pos": "noun",
+      "example": "I use a computer for work.",
+      "pronunciation": "/kəmˈpjuːtər/"
+    },
+    {
+      "word": "Laptop",
+      "meaning": "Máy tính xách tay",
+      "pos": "noun",
+      "example": "My laptop is very light.",
+      "pronunciation": "/ˈlæptɑːp/"
+    },
+    {
+      "word": "Desktop",
+      "meaning": "Máy tính để bàn",
+      "pos": "noun",
+      "example": "Desktop computers are powerful.",
+      "pronunciation": "/ˈdesktɑːp/"
+    },
+    {
+      "word": "Tablet",
+      "meaning": "Máy tính bảng",
+      "pos": "noun",
+      "example": "Tablets are good for reading.",
+      "pronunciation": "/ˈtæblət/"
+    },
+    {
+      "word": "Smartphone",
+      "meaning": "Điện thoại thông minh",
+      "pos": "noun",
+      "example": "Everyone has a smartphone now.",
+      "pronunciation": "/ˈsmɑːrtfoʊn/"
+    },
+    {
+      "word": "Phone",
+      "meaning": "Điện thoại",
+      "pos": "noun",
+      "example": "My phone battery is low.",
+      "pronunciation": "/foʊn/"
+    },
+    {
+      "word": "Screen",
+      "meaning": "Màn hình",
+      "pos": "noun",
+      "example": "The screen is very clear.",
+      "pronunciation": "/skriːn/"
+    },
+    {
+      "word": "Monitor",
+      "meaning": "Màn hình máy tính",
+      "pos": "noun",
+      "example": "I need a bigger monitor.",
+      "pronunciation": "/ˈmɑːnətər/"
+    },
+    {
+      "word": "Keyboard",
+      "meaning": "Bàn phím",
+      "pos": "noun",
+      "example": "This keyboard is comfortable.",
+      "pronunciation": "/ˈkiːbɔːrd/"
+    },
+    {
+      "word": "Mouse",
+      "meaning": "Chuột máy tính",
+      "pos": "noun",
+      "example": "Click the mouse to select.",
+      "pronunciation": "/maʊs/"
+    },
+    {
+      "word": "Printer",
+      "meaning": "Máy in",
+      "pos": "noun",
+      "example": "The printer needs more ink.",
+      "pronunciation": "/ˈprɪntər/"
+    },
+    {
+      "word": "Scanner",
+      "meaning": "Máy quét",
+      "pos": "noun",
+      "example": "Use the scanner for documents.",
+      "pronunciation": "/ˈskænər/"
+    },
+    {
+      "word": "Camera",
+      "meaning": "Máy ảnh",
+      "pos": "noun",
+      "example": "This camera takes great photos.",
+      "pronunciation": "/ˈkæmərə/"
+    },
+    {
+      "word": "Internet",
+      "meaning": "Mạng internet",
+      "pos": "noun",
+      "example": "Internet connects the world.",
+      "pronunciation": "/ˈɪntərnet/"
+    },
+    {
+      "word": "Website",
+      "meaning": "Trang web",
+      "pos": "noun",
+      "example": "Visit our website for information.",
+      "pronunciation": "/ˈwebsaɪt/"
+    },
+    {
+      "word": "Email",
+      "meaning": "Thư điện tử",
+      "pos": "noun",
+      "example": "Send me an email later.",
+      "pronunciation": "/ˈiːmeɪl/"
+    },
+    {
+      "word": "Password",
+      "meaning": "Mật khẩu",
+      "pos": "noun",
+      "example": "Create a strong password.",
+      "pronunciation": "/ˈpæswɜːrd/"
+    },
+    {
+      "word": "Software",
+      "meaning": "Phần mềm",
+      "pos": "noun",
+      "example": "Install the latest software.",
+      "pronunciation": "/ˈsɔːftwer/"
+    },
+    {
+      "word": "Hardware",
+      "meaning": "Phần cứng",
+      "pos": "noun",
+      "example": "Hardware includes all physical parts.",
+      "pronunciation": "/ˈhɑːrdwer/"
+    },
+    {
+      "word": "Program",
+      "meaning": "Chương trình",
+      "pos": "noun",
+      "example": "This program is very useful.",
+      "pronunciation": "/ˈproʊɡræm/"
+    },
+    {
+      "word": "Application",
+      "meaning": "Ứng dụng",
+      "pos": "noun",
+      "example": "Download this application.",
+      "pronunciation": "/ˌæplɪˈkeɪʃən/"
+    },
+    {
+      "word": "App",
+      "meaning": "Ứng dụng",
+      "pos": "noun",
+      "example": "There's an app for everything.",
+      "pronunciation": "/æp/"
+    },
+    {
+      "word": "File",
+      "meaning": "Tập tin",
+      "pos": "noun",
+      "example": "Save the file on your computer.",
+      "pronunciation": "/faɪl/"
+    },
+    {
+      "word": "Folder",
+      "meaning": "Thư mục",
+      "pos": "noun",
+      "example": "Put files in the correct folder.",
+      "pronunciation": "/ˈfoʊldər/"
+    },
+    {
+      "word": "Document",
+      "meaning": "Tài liệu",
+      "pos": "noun",
+      "example": "Edit the document carefully.",
+      "pronunciation": "/ˈdɑːkjəmənt/"
+    },
+    {
+      "word": "Data",
+      "meaning": "Dữ liệu",
+      "pos": "noun",
+      "example": "Back up your data regularly.",
+      "pronunciation": "/ˈdeɪtə/"
+    },
+    {
+      "word": "Download",
+      "meaning": "Tải xuống",
+      "pos": "verb",
+      "example": "Download the file from the internet.",
+      "pronunciation": "/ˌdaʊnˈloʊd/"
+    },
+    {
+      "word": "Upload",
+      "meaning": "Tải lên",
+      "pos": "verb",
+      "example": "Upload your photos to the cloud.",
+      "pronunciation": "/ˌʌpˈloʊd/"
+    },
+    {
+      "word": "Save",
+      "meaning": "Lưu",
+      "pos": "verb",
+      "example": "Don't forget to save your work.",
+      "pronunciation": "/seɪv/"
+    },
+    {
+      "word": "Delete",
+      "meaning": "Xóa",
+      "pos": "verb",
+      "example": "Delete unnecessary files.",
+      "pronunciation": "/dɪˈliːt/"
+    },
+    {
+      "word": "Copy",
+      "meaning": "Sao chép",
+      "pos": "verb",
+      "example": "Copy the text to clipboard.",
+      "pronunciation": "/ˈkɑːpi/"
+    },
+    {
+      "word": "Paste",
+      "meaning": "Dán",
+      "pos": "verb",
+      "example": "Paste the text here.",
+      "pronunciation": "/peɪst/"
+    },
+    {
+      "word": "Search",
+      "meaning": "Tìm kiếm",
+      "pos": "verb",
+      "example": "Search for information online.",
+      "pronunciation": "/sɜːrtʃ/"
+    },
+    {
+      "word": "Click",
+      "meaning": "Nhấp chuột",
+      "pos": "verb",
+      "example": "Click on the icon to open.",
+      "pronunciation": "/klɪk/"
+    },
+    {
+      "word": "Type",
+      "meaning": "Gõ phím",
+      "pos": "verb",
+      "example": "Type your message here.",
+      "pronunciation": "/taɪp/"
+    },
+    {
+      "word": "Connect",
+      "meaning": "Kết nối",
+      "pos": "verb",
+      "example": "Connect to the Wi-Fi network.",
+      "pronunciation": "/kəˈnekt/"
+    },
+    {
+      "word": "Disconnect",
+      "meaning": "Ngắt kết nối",
+      "pos": "verb",
+      "example": "Disconnect from the internet.",
+      "pronunciation": "/ˌdɪskəˈnekt/"
+    },
+    {
+      "word": "Install",
+      "meaning": "Cài đặt",
+      "pos": "verb",
+      "example": "Install the new software.",
+      "pronunciation": "/ɪnˈstɔːl/"
+    },
+    {
+      "word": "Update",
+      "meaning": "Cập nhật",
+      "pos": "verb",
+      "example": "Update your software regularly.",
+      "pronunciation": "/ʌpˈdeɪt/"
+    },
+    {
+      "word": "Backup",
+      "meaning": "Sao lưu",
+      "pos": "noun",
+      "example": "Make a backup of important files.",
+      "pronunciation": "/ˈbækʌp/"
+    },
+    {
+      "word": "Virus",
+      "meaning": "Virus máy tính",
+      "pos": "noun",
+      "example": "Protect your computer from viruses.",
+      "pronunciation": "/ˈvaɪrəs/"
+    },
+    {
+      "word": "Network",
+      "meaning": "Mạng",
+      "pos": "noun",
+      "example": "Join the wireless network.",
+      "pronunciation": "/ˈnetwɜːrk/"
+    },
+    {
+      "word": "Wi-Fi",
+      "meaning": "Wi-Fi",
+      "pos": "noun",
+      "example": "The Wi-Fi signal is strong.",
+      "pronunciation": "/ˈwaɪfaɪ/"
+    },
+    {
+      "word": "Bluetooth",
+      "meaning": "Bluetooth",
+      "pos": "noun",
+      "example": "Connect via Bluetooth.",
+      "pronunciation": "/ˈbluːtuːθ/"
+    },
+    {
+      "word": "Battery",
+      "meaning": "Pin",
+      "pos": "noun",
+      "example": "The battery needs charging.",
+      "pronunciation": "/ˈbætəri/"
+    }
+  ]
+}

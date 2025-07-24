@@ -1,0 +1,149 @@
+{
+    "id": "transportation",
+    "name": "Phương tiện giao thông",
+    "level": "elementary",
+    "icon": "🚗",
+    "description": "Từ vựng về các loại phương tiện giao thông và di chuyển",
+    "words": [
+        {
+            "word": "Car",
+            "meaning": "Ô tô",
+            "pos": "noun",
+            "example": "My father drives a car.",
+            "pronunciation": "/kɑːr/"
+        },
+        {
+            "word": "Bus",
+            "meaning": "Xe buýt",
+            "pos": "noun",
+            "example": "I go to school by bus.",
+            "pronunciation": "/bʌs/"
+        },
+        {
+            "word": "Bicycle",
+            "meaning": "Xe đạp",
+            "pos": "noun",
+            "example": "She rides a bicycle to the park.",
+            "pronunciation": "/ˈbaɪsɪkəl/"
+        },
+        {
+            "word": "Motorbike",
+            "meaning": "Xe máy",
+            "pos": "noun",
+            "example": "Motorbikes are popular in Vietnam.",
+            "pronunciation": "/ˈmoʊtərˌbaɪk/"
+        },
+        {
+            "word": "Train",
+            "meaning": "Tàu hỏa",
+            "pos": "noun",
+            "example": "The train is very fast.",
+            "pronunciation": "/treɪn/"
+        },
+        {
+            "word": "Plane",
+            "meaning": "Máy bay",
+            "pos": "noun",
+            "example": "We travel by plane to Hanoi.",
+            "pronunciation": "/pleɪn/"
+        },
+        {
+            "word": "Boat",
+            "meaning": "Thuyền",
+            "pos": "noun",
+            "example": "The boat is on the river.",
+            "pronunciation": "/boʊt/"
+        },
+        {
+            "word": "Ship",
+            "meaning": "Tàu thủy",
+            "pos": "noun",
+            "example": "The ship sails across the sea.",
+            "pronunciation": "/ʃɪp/"
+        },
+        {
+            "word": "Taxi",
+            "meaning": "Xe taxi",
+            "pos": "noun",
+            "example": "We take a taxi to the airport.",
+            "pronunciation": "/ˈtæksi/"
+        },
+        {
+            "word": "Truck",
+            "meaning": "Xe tải",
+            "pos": "noun",
+            "example": "The truck carries heavy goods.",
+            "pronunciation": "/trʌk/"
+        },
+        {
+            "word": "Subway",
+            "meaning": "Tàu điện ngầm",
+            "pos": "noun",
+            "example": "The subway is crowded in the morning.",
+            "pronunciation": "/ˈsʌbˌweɪ/"
+        },
+        {
+            "word": "Helicopter",
+            "meaning": "Trực thăng",
+            "pos": "noun",
+            "example": "The helicopter flies over the city.",
+            "pronunciation": "/ˈhelɪˌkɑːptər/"
+        },
+        {
+            "word": "Van",
+            "meaning": "Xe tải nhỏ",
+            "pos": "noun",
+            "example": "The van delivers packages.",
+            "pronunciation": "/væn/"
+        },
+        {
+            "word": "Scooter",
+            "meaning": "Xe tay ga",
+            "pos": "noun",
+            "example": "She rides a scooter to school.",
+            "pronunciation": "/ˈskuːtər/"
+        },
+        {
+            "word": "Ferry",
+            "meaning": "Phà",
+            "pos": "noun",
+            "example": "We cross the river by ferry.",
+            "pronunciation": "/ˈferi/"
+        },
+        {
+            "word": "Bus stop",
+            "meaning": "Trạm xe buýt",
+            "pos": "noun",
+            "example": "Wait at the bus stop.",
+            "pronunciation": "/bʌs stɑːp/"
+        },
+        {
+            "word": "Station",
+            "meaning": "Nhà ga",
+            "pos": "noun",
+            "example": "The train station is far from here.",
+            "pronunciation": "/ˈsteɪʃən/"
+        },
+        {
+            "word": "Airport",
+            "meaning": "Sân bay",
+            "pos": "noun",
+            "example": "The airport is very big.",
+            "pronunciation": "/ˈerpɔːrt/"
+        },
+        {
+            "word": "Traffic",
+            "meaning": "Giao thông",
+            "pos": "noun",
+            "example": "The traffic is heavy in the morning.",
+            "pronunciation": "/ˈtræfɪk/"
+        },
+        {
+            "word": "Road",
+            "meaning": "Con đường",
+            "pos": "noun",
+            "example": "The road is very long.",
+            "pronunciation": "/roʊd/"
+        }
+    ]
+}

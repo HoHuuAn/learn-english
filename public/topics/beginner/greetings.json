@@ -1,0 +1,184 @@
+{
+    "id": "greetings",
+    "name": "Chào hỏi & Giới thiệu",
+    "level": "beginner",
+    "icon": "👋",
+    "description": "Các từ và cụm từ cơ bản để chào hỏi và giới thiệu bản thân",
+    "words": [
+        {
+            "word": "Hello",
+            "meaning": "Xin chào",
+            "pos": "interjection",
+            "example": "Hello, how are you?",
+            "pronunciation": "/həˈloʊ/"
+        },
+        {
+            "word": "Hi",
+            "meaning": "Chào",
+            "pos": "interjection",
+            "example": "Hi, I'm Peter.",
+            "pronunciation": "/haɪ/"
+        },
+        {
+            "word": "Hey",
+            "meaning": "Chào (thân mật)",
+            "pos": "interjection",
+            "example": "Hey! What's up?",
+            "pronunciation": "/heɪ/"
+        },
+        {
+            "word": "Good morning",
+            "meaning": "Chào buổi sáng",
+            "pos": "phrase",
+            "example": "Good morning, everyone!",
+            "pronunciation": "/ɡʊd ˈmɔːrnɪŋ/"
+        },
+        {
+            "word": "Good afternoon",
+            "meaning": "Chào buổi chiều",
+            "pos": "phrase",
+            "example": "Good afternoon, Mrs. Smith.",
+            "pronunciation": "/ɡʊd ˌæftərˈnuːn/"
+        },
+        {
+            "word": "Good evening",
+            "meaning": "Chào buổi tối",
+            "pos": "phrase",
+            "example": "Good evening, ladies and gentlemen.",
+            "pronunciation": "/ɡʊd ˈiːvnɪŋ/"
+        },
+        {
+            "word": "Good night",
+            "meaning": "Chúc ngủ ngon",
+            "pos": "phrase",
+            "example": "Good night, sweet dreams!",
+            "pronunciation": "/ɡʊd naɪt/"
+        },
+        {
+            "word": "Goodbye",
+            "meaning": "Tạm biệt",
+            "pos": "interjection",
+            "example": "Goodbye, see you tomorrow!",
+            "pronunciation": "/ɡʊdˈbaɪ/"
+        },
+        {
+            "word": "Bye",
+            "meaning": "Tạm biệt",
+            "pos": "interjection",
+            "example": "Bye, take care!",
+            "pronunciation": "/baɪ/"
+        },
+        {
+            "word": "See you later",
+            "meaning": "Hẹn gặp lại",
+            "pos": "phrase",
+            "example": "See you later, John!",
+            "pronunciation": "/siː juː ˈleɪtər/"
+        },
+        {
+            "word": "Nice to meet you",
+            "meaning": "Rất vui được gặp bạn",
+            "pos": "phrase",
+            "example": "Nice to meet you, Sarah.",
+            "pronunciation": "/naɪs tuː miːt juː/"
+        },
+        {
+            "word": "How are you?",
+            "meaning": "Bạn có khỏe không?",
+            "pos": "phrase",
+            "example": "How are you today?",
+            "pronunciation": "/haʊ ɑːr juː/"
+        },
+        {
+            "word": "I'm fine",
+            "meaning": "Tôi khỏe",
+            "pos": "phrase",
+            "example": "I'm fine, thank you.",
+            "pronunciation": "/aɪm faɪn/"
+        },
+        {
+            "word": "Thank you",
+            "meaning": "Cảm ơn",
+            "pos": "phrase",
+            "example": "Thank you for your help.",
+            "pronunciation": "/θæŋk juː/"
+        },
+        {
+            "word": "Thanks",
+            "meaning": "Cảm ơn",
+            "pos": "interjection",
+            "example": "Thanks a lot!",
+            "pronunciation": "/θæŋks/"
+        },
+        {
+            "word": "You're welcome",
+            "meaning": "Không có gì",
+            "pos": "phrase",
+            "example": "You're welcome, anytime!",
+            "pronunciation": "/jʊr ˈwelkəm/"
+        },
+        {
+            "word": "Please",
+            "meaning": "Xin vui lòng",
+            "pos": "adverb",
+            "example": "Please help me.",
+            "pronunciation": "/pliːz/"
+        },
+        {
+            "word": "Excuse me",
+            "meaning": "Xin lỗi (để xin phép)",
+            "pos": "phrase",
+            "example": "Excuse me, where is the bathroom?",
+            "pronunciation": "/ɪkˈskjuːz miː/"
+        },
+        {
+            "word": "Sorry",
+            "meaning": "Xin lỗi",
+            "pos": "interjection",
+            "example": "Sorry, I'm late.",
+            "pronunciation": "/ˈsɑːri/"
+        },
+        {
+            "word": "My name is",
+            "meaning": "Tên tôi là",
+            "pos": "phrase",
+            "example": "My name is Anna.",
+            "pronunciation": "/maɪ neɪm ɪz/"
+        },
+        {
+            "word": "What's your name?",
+            "meaning": "Tên bạn là gì?",
+            "pos": "phrase",
+            "example": "What's your name, please?",
+            "pronunciation": "/wʌts jʊr neɪm/"
+        },
+        {
+            "word": "Where are you from?",
+            "meaning": "Bạn đến từ đâu?",
+            "pos": "phrase",
+            "example": "Where are you from originally?",
+            "pronunciation": "/wer ɑːr juː frʌm/"
+        },
+        {
+            "word": "I'm from",
+            "meaning": "Tôi đến từ",
+            "pos": "phrase",
+            "example": "I'm from Vietnam.",
+            "pronunciation": "/aɪm frʌm/"
+        },
+        {
+            "word": "Welcome",
+            "meaning": "Chào mừng",
+            "pos": "interjection",
+            "example": "Welcome to our school!",
+            "pronunciation": "/ˈwelkəm/"
+        },
+        {
+            "word": "Have a nice day",
+            "meaning": "Chúc bạn một ngày tốt lành",
+            "pos": "phrase",
+            "example": "Have a nice day at work!",
+            "pronunciation": "/hæv ə naɪs deɪ/"
+        }
+    ]
+}

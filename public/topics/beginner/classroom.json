@@ -1,0 +1,254 @@
+{
+  "id": "classroom",
+  "name": "Đồ vật trong lớp học",
+  "level": "beginner",
+  "icon": "📚",
+  "description": "Các đồ vật và thiết bị thường thấy trong lớp học",
+  "words": [
+    {
+      "word": "Classroom",
+      "meaning": "Lớp học",
+      "pos": "noun",
+      "example": "Our classroom is very clean.",
+      "pronunciation": "/ˈklæsruːm/"
+    },
+    {
+      "word": "Teacher",
+      "meaning": "Giáo viên",
+      "pos": "noun",
+      "example": "The teacher is very kind.",
+      "pronunciation": "/ˈtiːtʃər/"
+    },
+    {
+      "word": "Student",
+      "meaning": "Học sinh",
+      "pos": "noun",
+      "example": "I am a good student.",
+      "pronunciation": "/ˈstuːdənt/"
+    },
+    {
+      "word": "Desk",
+      "meaning": "Bàn học",
+      "pos": "noun",
+      "example": "Put your books on the desk.",
+      "pronunciation": "/desk/"
+    },
+    {
+      "word": "Chair",
+      "meaning": "Ghế",
+      "pos": "noun",
+      "example": "Sit down on your chair.",
+      "pronunciation": "/tʃer/"
+    },
+    {
+      "word": "Book",
+      "meaning": "Sách",
+      "pos": "noun",
+      "example": "This book is very interesting.",
+      "pronunciation": "/bʊk/"
+    },
+    {
+      "word": "Notebook",
+      "meaning": "Vở",
+      "pos": "noun",
+      "example": "Write notes in your notebook.",
+      "pronunciation": "/ˈnoʊtbʊk/"
+    },
+    {
+      "word": "Pen",
+      "meaning": "Bút bi",
+      "pos": "noun",
+      "example": "I need a pen to write.",
+      "pronunciation": "/pen/"
+    },
+    {
+      "word": "Pencil",
+      "meaning": "Bút chì",
+      "pos": "noun",
+      "example": "Use a pencil for the math test.",
+      "pronunciation": "/ˈpensəl/"
+    },
+    {
+      "word": "Eraser",
+      "meaning": "Cục tẩy",
+      "pos": "noun",
+      "example": "Can I borrow your eraser?",
+      "pronunciation": "/ɪˈreɪsər/"
+    },
+    {
+      "word": "Ruler",
+      "meaning": "Thước",
+      "pos": "noun",
+      "example": "Use a ruler to draw straight lines.",
+      "pronunciation": "/ˈruːlər/"
+    },
+    {
+      "word": "Blackboard",
+      "meaning": "Bảng đen",
+      "pos": "noun",
+      "example": "The teacher writes on the blackboard.",
+      "pronunciation": "/ˈblækbɔːrd/"
+    },
+    {
+      "word": "Whiteboard",
+      "meaning": "Bảng trắng",
+      "pos": "noun",
+      "example": "We have a new whiteboard.",
+      "pronunciation": "/ˈwaɪtbɔːrd/"
+    },
+    {
+      "word": "Chalk",
+      "meaning": "Phấn",
+      "pos": "noun",
+      "example": "The teacher uses white chalk.",
+      "pronunciation": "/tʃɔːk/"
+    },
+    {
+      "word": "Marker",
+      "meaning": "Bút lông",
+      "pos": "noun",
+      "example": "This marker is running out of ink.",
+      "pronunciation": "/ˈmɑːrkər/"
+    },
+    {
+      "word": "Paper",
+      "meaning": "Giấy",
+      "pos": "noun",
+      "example": "I need more paper to write.",
+      "pronunciation": "/ˈpeɪpər/"
+    },
+    {
+      "word": "Homework",
+      "meaning": "Bài tập về nhà",
+      "pos": "noun",
+      "example": "Don't forget to do your homework.",
+      "pronunciation": "/ˈhoʊmwɜːrk/"
+    },
+    {
+      "word": "Test",
+      "meaning": "Bài kiểm tra",
+      "pos": "noun",
+      "example": "We have a test tomorrow.",
+      "pronunciation": "/test/"
+    },
+    {
+      "word": "Lesson",
+      "meaning": "Bài học",
+      "pos": "noun",
+      "example": "Today's lesson is about animals.",
+      "pronunciation": "/ˈlesən/"
+    },
+    {
+      "word": "Answer",
+      "meaning": "Câu trả lời",
+      "pos": "noun",
+      "example": "What's the answer to this question?",
+      "pronunciation": "/ˈænsər/"
+    },
+    {
+      "word": "Question",
+      "meaning": "Câu hỏi",
+      "pos": "noun",
+      "example": "Ask me any question.",
+      "pronunciation": "/ˈkwestʃən/"
+    },
+    {
+      "word": "Backpack",
+      "meaning": "Ba lô",
+      "pos": "noun",
+      "example": "My backpack is heavy today.",
+      "pronunciation": "/ˈbækpæk/"
+    },
+    {
+      "word": "Calculator",
+      "meaning": "Máy tính",
+      "pos": "noun",
+      "example": "Use a calculator for math problems.",
+      "pronunciation": "/ˈkælkjəleɪtər/"
+    },
+    {
+      "word": "Dictionary",
+      "meaning": "Từ điển",
+      "pos": "noun",
+      "example": "Look up the word in the dictionary.",
+      "pronunciation": "/ˈdɪkʃəneri/"
+    },
+    {
+      "word": "Map",
+      "meaning": "Bản đồ",
+      "pos": "noun",
+      "example": "Show me Vietnam on the map.",
+      "pronunciation": "/mæp/"
+    },
+    {
+      "word": "Globe",
+      "meaning": "Quả địa cầu",
+      "pos": "noun",
+      "example": "The globe shows all countries.",
+      "pronunciation": "/ɡloʊb/"
+    },
+    {
+      "word": "Computer",
+      "meaning": "Máy tính",
+      "pos": "noun",
+      "example": "We learn computer skills.",
+      "pronunciation": "/kəmˈpjuːtər/"
+    },
+    {
+      "word": "Projector",
+      "meaning": "Máy chiếu",
+      "pos": "noun",
+      "example": "The projector displays the slides.",
+      "pronunciation": "/prəˈdʒektər/"
+    },
+    {
+      "word": "Screen",
+      "meaning": "Màn hình",
+      "pos": "noun",
+      "example": "Look at the screen, please.",
+      "pronunciation": "/skriːn/"
+    },
+    {
+      "word": "Bell",
+      "meaning": "Chuông",
+      "pos": "noun",
+      "example": "The school bell rings at 8 AM.",
+      "pronunciation": "/bel/"
+    },
+    {
+      "word": "Flag",
+      "meaning": "Cờ",
+      "pos": "noun",
+      "example": "The Vietnamese flag is red.",
+      "pronunciation": "/flæɡ/"
+    },
+    {
+      "word": "Clock",
+      "meaning": "Đồng hồ",
+      "pos": "noun",
+      "example": "The classroom clock is accurate.",
+      "pronunciation": "/klɑːk/"
+    },
+    {
+      "word": "Trash can",
+      "meaning": "Thùng rác",
+      "pos": "noun",
+      "example": "Throw the paper in the trash can.",
+      "pronunciation": "/træʃ kæn/"
+    },
+    {
+      "word": "Locker",
+      "meaning": "Tủ khóa",
+      "pos": "noun",
+      "example": "Keep your books in the locker.",
+      "pronunciation": "/ˈlɑːkər/"
+    },
+    {
+      "word": "Supplies",
+      "meaning": "Đồ dùng học tập",
+      "pos": "noun",
+      "example": "Buy school supplies for the new year.",
+      "pronunciation": "/səˈplaɪz/"
+    }
+  ]
+}

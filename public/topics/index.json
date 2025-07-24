@@ -1,0 +1,244 @@
+{
+  "topics": [
+    {
+      "id": "greetings",
+      "name": "Chào hỏi & Giới thiệu",
+      "level": "beginner",
+      "icon": "👋",
+      "wordCount": 25,
+      "file": "beginner/greetings.json"
+    },
+    {
+      "id": "family",
+      "name": "Gia đình",
+      "level": "beginner",
+      "icon": "👨‍👩‍👧‍👦",
+      "wordCount": 30,
+      "file": "beginner/family.json"
+    },
+    {
+      "id": "numbers",
+      "name": "Số đếm",
+      "level": "beginner",
+      "icon": "🔢",
+      "wordCount": 35,
+      "file": "beginner/numbers.json"
+    },
+    {
+      "id": "colors",
+      "name": "Màu sắc",
+      "level": "beginner",
+      "icon": "🎨",
+      "wordCount": 20,
+      "file": "beginner/colors.json"
+    },
+    {
+      "id": "time",
+      "name": "Ngày, tháng, năm",
+      "level": "beginner",
+      "icon": "📅",
+      "wordCount": 40,
+      "file": "beginner/time.json"
+    },
+    {
+      "id": "clock",
+      "name": "Thời gian & Giờ giấc",
+      "level": "beginner",
+      "icon": "🕐",
+      "wordCount": 25,
+      "file": "beginner/clock.json"
+    },
+    {
+      "id": "animals",
+      "name": "Động vật",
+      "level": "beginner",
+      "icon": "🐶",
+      "wordCount": 30,
+      "file": "beginner/animals.json"
+    },
+    {
+      "id": "weather",
+      "name": "Thời tiết",
+      "level": "beginner",
+      "icon": "☀️",
+      "wordCount": 25,
+      "file": "beginner/weather.json"
+    },
+    {
+      "id": "classroom",
+      "name": "Lớp học",
+      "level": "beginner",
+      "icon": "📚",
+      "wordCount": 25,
+      "file": "beginner/classroom.json"
+    },
+    {
+      "id": "body",
+      "name": "Bộ phận cơ thể",
+      "level": "beginner",
+      "icon": "👤",
+      "wordCount": 25,
+      "file": "beginner/body.json"
+    },
+    {
+      "id": "countries",
+      "name": "Quốc gia",
+      "level": "beginner",
+      "icon": "🌍",
+      "wordCount": 25,
+      "file": "beginner/countries.json"
+    },
+    {
+      "id": "food",
+      "name": "Đồ ăn",
+      "level": "elementary",
+      "icon": "🍎",
+      "wordCount": 30,
+      "file": "elementary/food.json"
+    },
+    {
+      "id": "fruits-vegetables",
+      "name": "Trái cây & Rau củ",
+      "level": "elementary",
+      "icon": "🥕",
+      "wordCount": 35,
+      "file": "elementary/fruits-vegetables.json"
+    },
+    {
+      "id": "clothes",
+      "name": "Quần áo",
+      "level": "elementary",
+      "icon": "👕",
+      "wordCount": 30,
+      "file": "elementary/clothes.json"
+    },
+    {
+      "id": "jobs",
+      "name": "Nghề nghiệp",
+      "level": "elementary",
+      "icon": "👨‍💼",
+      "wordCount": 25,
+      "file": "elementary/jobs.json"
+    },
+    {
+      "id": "household",
+      "name": "Đồ gia dụng",
+      "level": "elementary",
+      "icon": "🏠",
+      "wordCount": 25,
+      "file": "elementary/household.json"
+    },
+    {
+      "id": "rooms",
+      "name": "Phòng trong nhà",
+      "level": "elementary",
+      "icon": "🚪",
+      "wordCount": 20,
+      "file": "elementary/rooms.json"
+    },
+    {
+      "id": "shopping",
+      "name": "Mua sắm",
+      "level": "elementary",
+      "icon": "🛒",
+      "wordCount": 25,
+      "file": "elementary/shopping.json"
+    },
+    {
+      "id": "daily-routines",
+      "name": "Hoạt động hàng ngày",
+      "level": "elementary",
+      "icon": "⏰",
+      "wordCount": 25,
+      "file": "elementary/daily-routines.json"
+    },
+    {
+      "id": "transportation",
+      "name": "Phương tiện giao thông",
+      "level": "elementary",
+      "icon": "🚗",
+      "wordCount": 25,
+      "file": "elementary/transportation.json"
+    },
+    {
+      "id": "emotions",
+      "name": "Cảm xúc",
+      "level": "elementary",
+      "icon": "😊",
+      "wordCount": 20,
+      "file": "elementary/emotions.json"
+    },
+    {
+      "id": "adjectives",
+      "name": "Tính từ mô tả",
+      "level": "elementary",
+      "icon": "📏",
+      "wordCount": 30,
+      "file": "elementary/adjectives.json"
+    },
+    {
+      "id": "travel",
+      "name": "Du lịch",
+      "level": "pre-intermediate",
+      "icon": "✈️",
+      "wordCount": 25,
+      "file": "pre-intermediate/travel.json"
+    },
+    {
+      "id": "health",
+      "name": "Sức khỏe",
+      "level": "pre-intermediate",
+      "icon": "🏥",
+      "wordCount": 25,
+      "file": "pre-intermediate/health.json"
+    },
+    {
+      "id": "technology",
+      "name": "Công nghệ",
+      "level": "pre-intermediate",
+      "icon": "💻",
+      "wordCount": 25,
+      "file": "pre-intermediate/technology.json"
+    },
+    {
+      "id": "hotel-restaurant",
+      "name": "Khách sạn & nhà hàng",
+      "level": "pre-intermediate",
+      "icon": "🏨",
+      "wordCount": 24,
+      "file": "pre-intermediate/hotel-restaurant.json"
+    },
+    {
+      "id": "school-subjects",
+      "name": "Trường học & môn học",
+      "level": "pre-intermediate",
+      "icon": "🏫",
+      "wordCount": 20,
+      "file": "pre-intermediate/school-subjects.json"
+    },
+    {
+      "id": "hobbies-interests",
+      "name": "Sở thích & quan tâm",
+      "level": "pre-intermediate",
+      "icon": "🎨",
+      "wordCount": 15,
+      "file": "pre-intermediate/hobbies-interests.json"
+    },
+    {
+      "id": "sports",
+      "name": "Thể thao",
+      "level": "pre-intermediate",
+      "icon": "🏅",
+      "wordCount": 15,
+      "file": "pre-intermediate/sports.json"
+    },
+    {
+      "id": "common-verbs",
+      "name": "Động từ thông dụng",
+      "level": "pre-intermediate",
+      "icon": "🔤",
+      "wordCount": 15,
+      "file": "pre-intermediate/common-verbs.json"
+    }
+  ]
+}

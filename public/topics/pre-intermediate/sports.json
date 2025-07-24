@@ -1,0 +1,114 @@
+{
+    "id": "sports",
+    "name": "Thể thao",
+    "level": "pre-intermediate",
+    "icon": "🏅",
+    "description": "Từ vựng về các môn thể thao, hoạt động thể chất, dụng cụ thể thao",
+    "words": [
+        {
+            "word": "Sport",
+            "meaning": "Thể thao",
+            "pos": "noun",
+            "example": "Football is a popular sport.",
+            "pronunciation": "/spɔːrt/"
+        },
+        {
+            "word": "Football",
+            "meaning": "Bóng đá",
+            "pos": "noun",
+            "example": "He plays football every weekend.",
+            "pronunciation": "/ˈfʊtbɔːl/"
+        },
+        {
+            "word": "Basketball",
+            "meaning": "Bóng rổ",
+            "pos": "noun",
+            "example": "Basketball is played indoors.",
+            "pronunciation": "/ˈbæskɪtbɔːl/"
+        },
+        {
+            "word": "Tennis",
+            "meaning": "Quần vợt",
+            "pos": "noun",
+            "example": "Tennis is played with a racket.",
+            "pronunciation": "/ˈtenɪs/"
+        },
+        {
+            "word": "Swimming",
+            "meaning": "Bơi lội",
+            "pos": "noun",
+            "example": "Swimming is good for health.",
+            "pronunciation": "/ˈswɪmɪŋ/"
+        },
+        {
+            "word": "Running",
+            "meaning": "Chạy",
+            "pos": "noun",
+            "example": "Running is a daily exercise.",
+            "pronunciation": "/ˈrʌnɪŋ/"
+        },
+        {
+            "word": "Cycling",
+            "meaning": "Đạp xe",
+            "pos": "noun",
+            "example": "Cycling is fun.",
+            "pronunciation": "/ˈsaɪklɪŋ/"
+        },
+        {
+            "word": "Volleyball",
+            "meaning": "Bóng chuyền",
+            "pos": "noun",
+            "example": "Volleyball is played on the beach.",
+            "pronunciation": "/ˈvɑːlibɔːl/"
+        },
+        {
+            "word": "Badminton",
+            "meaning": "Cầu lông",
+            "pos": "noun",
+            "example": "Badminton is fast-paced.",
+            "pronunciation": "/ˈbædmɪntən/"
+        },
+        {
+            "word": "Table tennis",
+            "meaning": "Bóng bàn",
+            "pos": "noun",
+            "example": "Table tennis is played indoors.",
+            "pronunciation": "/ˈteɪbəl ˈtenɪs/"
+        },
+        {
+            "word": "Coach",
+            "meaning": "Huấn luyện viên",
+            "pos": "noun",
+            "example": "The coach trains the team.",
+            "pronunciation": "/koʊtʃ/"
+        },
+        {
+            "word": "Player",
+            "meaning": "Cầu thủ",
+            "pos": "noun",
+            "example": "Each team has eleven players.",
+            "pronunciation": "/ˈpleɪər/"
+        },
+        {
+            "word": "Referee",
+            "meaning": "Trọng tài",
+            "pos": "noun",
+            "example": "The referee controls the game.",
+            "pronunciation": "/ˌrefəˈriː/"
+        },
+        {
+            "word": "Goal",
+            "meaning": "Bàn thắng",
+            "pos": "noun",
+            "example": "He scored a goal.",
+            "pronunciation": "/ɡoʊl/"
+        },
+        {
+            "word": "Score",
+            "meaning": "Tỉ số",
+            "pos": "noun",
+            "example": "The score is 2-1.",
+            "pronunciation": "/skɔːr/"
+        }
+    ]
+}
