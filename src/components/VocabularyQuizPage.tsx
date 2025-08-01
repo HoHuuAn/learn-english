@@ -23,8 +23,8 @@ const VocabularyQuizPage = () => {
     const [isAnswered, setIsAnswered] = useState(false)
     const [showAnswer, setShowAnswer] = useState(false)
     const [feedback, setFeedback] = useState('')
-    const [focusIndex, setFocusIndex] = useState(1) // Start at position 1 since first letter is shown
-    const [preloadedAudio, setPreloadedAudio] = useState<HTMLAudioElement | null>(null)
+    const [focusIndex, setFocusIndex] = useState(1)
+    const [preloadedUtterance, setPreloadedUtterance] = useState<SpeechSynthesisUtterance | null>(null)
     const underscoreRefs = useRef<(HTMLDivElement | null)[]>([])
 
     useEffect(() => {
@@ -45,7 +45,7 @@ const VocabularyQuizPage = () => {
     useEffect(() => {
         if (currentWord) {
             resetWord()
-            // Preload audio without playing
+            // Preload audio immediately when word changes
             preloadAudio()
         }
     }, [currentWordIndex, currentWord])
@@ -217,65 +217,42 @@ const VocabularyQuizPage = () => {
     }
 
     const getPronunciation = async (word: string) => {
-        try {
-            const res = await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`)
-            const [entry] = await res.json()
-            const phon = entry.phonetics.find((p: any) => p.audio)
-            return phon?.audio
-        } catch (error) {
-            console.error('Error fetching pronunciation:', error)
-            return null
-        }
+        // Create and return SpeechSynthesisUtterance for the word
+        const utterance = new SpeechSynthesisUtterance(word)
+        utterance.lang = 'en-US'
+        utterance.rate = 0.8 // Slightly slower for better comprehension
+        utterance.pitch = 1
+        utterance.volume = 1
+        return utterance
     }
 
     const preloadAudio = async () => {
         if (!currentWord) return
 
-        const audioUrl = await getPronunciation(currentWord.word)
-        if (audioUrl) {
-            const audio = new Audio(audioUrl)
-            audio.preload = 'auto' // Preload the audio file
-            audio.load() // Start loading
-            setPreloadedAudio(audio)
-        } else {
-            setPreloadedAudio(null)
-        }
+        // Preload the speech utterance
+        const utterance = await getPronunciation(currentWord.word)
+        setPreloadedUtterance(utterance)
     }
 
     const playPronunciation = async () => {
         if (!currentWord) return
 
-        if (preloadedAudio) {
-            // Use preloaded audio if available
+        if (preloadedUtterance) {
+            // Use preloaded utterance if available
             try {
-                await preloadedAudio.play()
+                speechSynthesis.speak(preloadedUtterance)
             } catch (error) {
-                console.error('Error playing preloaded audio:', error)
-                // Fallback to speech synthesis
+                console.error('Error playing preloaded utterance:', error)
+                // Fallback: create new utterance
                 const utterance = new SpeechSynthesisUtterance(currentWord.word)
                 utterance.lang = 'en-US'
+                utterance.rate = 0.8
                 speechSynthesis.speak(utterance)
             }
         } else {
-            // Fallback: try to load and play immediately
-            const audioUrl = await getPronunciation(currentWord.word)
-            if (audioUrl) {
-                const audio = new Audio(audioUrl)
-                try {
-                    await audio.play()
-                } catch (error) {
-                    console.error('Error playing audio:', error)
-                    // Fallback to speech synthesis
-                    const utterance = new SpeechSynthesisUtterance(currentWord.word)
-                    utterance.lang = 'en-US'
-                    speechSynthesis.speak(utterance)
-                }
-            } else {
-                // Fallback to speech synthesis
-                const utterance = new SpeechSynthesisUtterance(currentWord.word)
-                utterance.lang = 'en-US'
-                speechSynthesis.speak(utterance)
-            }
+            // Fallback: create and play new utterance
+            const utterance = await getPronunciation(currentWord.word)
+            speechSynthesis.speak(utterance)
         }
     }
 

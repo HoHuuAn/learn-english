@@ -1,13 +1,62 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React + TS</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learning English</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+
+  <!-- Laban Dictionary Frame Plugin -->
+  <!-- <script id="lbdict_plugin_frame" type="text/javascript">
+    !function () {
+      var h = { s: "https://dict.laban.vn", w: 500, h: 500, hl: 2, th: 1 };
+      function loadScript(t, e) {
+        var n = document.createElement("script");
+        n.type = "text/javascript",
+          n.readyState ? n.onreadystatechange = function () {
+            ("loaded" === n.readyState || "complete" === n.readyState) && (n.onreadystatechange = null, e())
+          } : n.onload = function () { e() },
+          n.src = t,
+          q = document.getElementById("lbdict_plugin_frame"),
+          q.parentNode.insertBefore(n, q)
+      }
+      setTimeout(function () {
+        loadScript("https://stc-laban.zdn.vn/dictionary/js/plugin/lbdictplugin.frame.min.js", function () {
+          lbDictPluginFrame.init(h)
+        })
+      }, 1e3);
+    }();
+  </script> -->
+
+  <!-- Laban Dictionary Mouse Translation Plugin -->
+  <script type="text/javascript">
+    var lbplugin_event_opt = {
+      "extension_enable": true,
+      "dict_type": 1,
+      "dbclk_event": { "trigger": "none", "enable": true, "display": 2 },
+      "select_event": { "trigger": "none", "enable": true, "display": 2 }
+    };
+    function loadScript(t, e) {
+      var n = document.createElement("script");
+      n.type = "text/javascript",
+        n.readyState ? n.onreadystatechange = function () {
+          ("loaded" === n.readyState || "complete" === n.readyState) && (n.onreadystatechange = null, e())
+        } : n.onload = function () { e() },
+        n.src = t,
+        document.getElementsByTagName("head")[0].appendChild(n)
+    }
+    setTimeout(function () {
+      null == document.getElementById("lbdictex_find_popup") && loadScript("https://stc-laban.zdn.vn/dictionary/js/plugin/lbdictplugin.min.js?" + Date.now() % 1e4, function () {
+        lbDictPlugin.init(lbplugin_event_opt)
+      })
+    }, 1e3);
+  </script>
+</body>
+
 </html>

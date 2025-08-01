@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { Search } from 'lucide-react'
+import { Search, Book, PenTool } from 'lucide-react'
 import type { Topic } from '../types'
 
 const TopicList = () => {
@@ -13,10 +13,14 @@ const TopicList = () => {
         loadTopics()
     }, [])
 
-    const handleTopicSelect = (topic: Topic) => {
+    const handleTopicSelect = (topic: Topic, mode: 'learn' | 'quiz') => {
         // Store topic data in sessionStorage and navigate
         sessionStorage.setItem('currentTopic', JSON.stringify(topic))
-        navigate(`/quiz/${topic.id}`)
+        if (mode === 'learn') {
+            navigate(`/learn/${topic.id}`)
+        } else {
+            navigate(`/quiz/${topic.id}`)
+        }
     }
 
     const loadTopics = async () => {
@@ -94,8 +98,7 @@ const TopicList = () => {
                         {levelTopics.map((topic) => (
                             <div
                                 key={topic.id}
-                                onClick={() => handleTopicSelect(topic)}
-                                className="bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 cursor-pointer transform hover:scale-105 p-6"
+                                className="bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 p-6 group"
                             >
                                 <div className="flex items-center mb-4">
                                     <div className="text-4xl mr-4">{topic.icon}</div>
@@ -104,7 +107,25 @@ const TopicList = () => {
                                         <p className="text-gray-600">{topic.words?.length || 0} từ</p>
                                     </div>
                                 </div>
-                                <p className="text-gray-700 text-lg leading-relaxed">{topic.description}</p>
+                                <p className="text-gray-700 text-lg leading-relaxed mb-4">{topic.description}</p>
+
+                                {/* Action Buttons */}
+                                <div className="flex gap-3">
+                                    <button
+                                        onClick={() => handleTopicSelect(topic, 'learn')}
+                                        className="flex-1 flex items-center justify-center gap-2 px-4 py-3 bg-green-600 text-white rounded-xl hover:bg-green-700 transition-colors font-medium"
+                                    >
+                                        <Book className="w-5 h-5" />
+                                        Học
+                                    </button>
+                                    <button
+                                        onClick={() => handleTopicSelect(topic, 'quiz')}
+                                        className="flex-1 flex items-center justify-center gap-2 px-4 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-colors font-medium"
+                                    >
+                                        <PenTool className="w-5 h-5" />
+                                        Kiểm tra
+                                    </button>
+                                </div>
                             </div>
                         ))}
                     </div>
